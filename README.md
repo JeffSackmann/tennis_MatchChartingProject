@@ -4,7 +4,7 @@ The goal of the Match Charting Project (MCP) is to amass detailed records of pro
 
 MCP match records contain shot-by-shot data for every point of a match, including the type of shot, direction of shot, depth of returns, types of errors, and more. There is no publicly-available data like this anywhere else. To get an idea of the possibilities, aggregate match-level data is available for every submitted match at my website[1].
 
-I started this project in late 2013[2], and since then, dozens of contributors[3] have recorded over 750 matches. For now, this repo contains the raw point-by-point data from these matches. In time, I'll add some of the match-level aggregate totals.
+I started this project in late 2013[2], and since then, dozens of contributors[3] have recorded over 750 matches. This repo contains both the raw point-by-point data from these matches and extensive match-level aggregate totals.
 
 Files are separated into men's ('-m-') and women's ('-w-') matches. The '-matches' files contain metadata for each match, including the player names, tournament, date, surface, and more. The '-points' files contain extensive data on each point.
 
