@@ -4,7 +4,7 @@ The goal of the Match Charting Project (MCP) is to amass detailed records of pro
 
 MCP match records contain shot-by-shot data for every point of a match, including the type of shot, direction of shot, depth of returns, types of errors, and more. There is no publicly-available data like this anywhere else. To get an idea of the possibilities, aggregate match-level data is available for every submitted match at my website[1].
 
-I started this project in late 2013[2], and since then, dozens of contributors[3] have recorded nearly 700 matches. For now, this repo contains the raw point-by-point data from these matches. In time, I'll add some of the match-level aggregate totals.
+I started this project in late 2013[2], and since then, dozens of contributors[3] have recorded over 750 matches. For now, this repo contains the raw point-by-point data from these matches. In time, I'll add some of the match-level aggregate totals.
 
 Files are separated into men's ('-m-') and women's ('-w-') matches. The '-matches' files contain metadata for each match, including the player names, tournament, date, surface, and more. The '-points' files contain extensive data on each point.
 
@@ -13,6 +13,8 @@ The user-submitted data is found only in the '1st', '2nd', and 'Notes' columns o
 If you have any interest in working with the raw, shot-by-shot data, I **strongly encourage** you to contribute to the project by charting a match (or twenty) yourself. Not only is it a nice way to give back to the project and help it grow, it is also the best way to learn exactly what you can find in the data.
 
 Whether you intend to start by charting matches or by jumping straight into the raw data, you'll want to take a look at the 'Instructions' tab of the MatchChart excel doc, which goes into detail regarding the charting notation.
+
+I've now also added several '-stats-' files for both men and women. These contain the aggregate stat lines displayed in each match report. Again, many of the row names will be easier to understand if you've charted a match or two. The rows and columns track very closely to what are shown in the match reports (e.g. http://tennisabstract.com/charting/20150321-M-Irving_CH-SF-Gilles_Muller-Tim_Smyczek.html ). The only difference is that almost all of the data in the '-stats-' files are integer totals, while the match reports display most as percentages.
 
 New matches are submitted several times per week. As the project continues to grow, I will update these files periodically, at least once per 100 additional matches. Follow me on Twitter[5] for updates on new matches and other improvements to the database.
 
@@ -24,6 +26,6 @@ New matches are submitted several times per week. As the project continues to gr
 
 [3] http://www.tennisabstract.com/charting/meta.html#contributors
 
-[4] MatchChart 0.1.2.xlsx, included in this repo
+[4] MatchChart 0.1.4.xlsx, included in this repo
 
 [5] http://www.twitter.com/tennisabstract
