@@ -1,5 +1,14 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20150410-W-Charleston-QF-Andrea_Petkovic-Danka_Kovinic,Andrea Petkovic,Danka Kovinic,R,R,W,20150410,Charleston,QF,,,Clay,,3,1,jeffsackmann
+20150409-W-Katowice-R16-Kaia_Kanepi-Elizaveta_Kulichkova,Kaia Kanepi,Elizaveta Kulichkova,R,R,W,20150409,Katowice,R16,,,Hard,,3,1,jeffsackmann
+20150409-W-Charleston-R16-Sara_Errani-Sara_Sorribes_Tormo,Sara Errani,Sara Sorribes Tormo,R,R,W,20150409,Charleston,R16,,Althea Gibson,Clay,,3,1,jeffsackmann
+20150409-W-Charleston-R16-Cristina_Andreea_Mitu-Madison_Keys,Cristina Andreea Mitu,Madison Keys,R,R,W,20150409,Charleston,R16,,Stadium,Clay,,3,1,jeffsackmann
+20150409-W-Charleston-QF-Lauren_Davis-Madison_Keys,Lauren Davis,Madison Keys,R,R,W,20150409,Charleston,QF,,,Clay,Julie Kjendlie,3,1,Amy
+20150408-W-Charleston-R32-Kateryna_Bondarenko-Madison_Keys,Kateryna Bondarenko,Madison Keys,R,R,W,20150408,Charleston,R32,,,Clay,Kader Nouni,3,1,Amy
+20150408-W-Charleston-R32-Eugenie_Bouchard-Lauren_Davis,Eugenie Bouchard,Lauren Davis,R,R,W,20150408,Charleston,R32,,Stadium,Clay,,3,1,Martin
+20150407-W-Katowice-R32-An_Sophie_Mestach-Magdalena_Frech,An Sophie Mestach,Magdalena Frech,R,R,W,20150407,Katowice,R32,,,Hard,,3,1,jeffsackmann
 20150406-W-Charleston-R64-Danka_Kovinic-Christina_Mchale,Danka Kovinic,Christina Mchale,R,R,W,20150406,Charleston,R64,,,Clay,,3,1,jeffsackmann
+20150404-W-Miami-F-Serena_Williams-Carla_Suarez_Navarro,Serena Williams,Carla Suarez Navarro,R,R,W,20150404,Miami,F,1:15 PM,Stadium,Hard,,3,1,Lowell
 20150402-W-Miami-SF-Serena_Williams-Simona_Halep,Serena Williams,Simona Halep,R,R,W,20150402,Miami,SF,,Stadium,Hard,Kader Nouni,3,1,jeffsackmann
 20150402-W-Miami-SF-Andrea_Petkovic-Carla_Suarez_Navarro,Andrea Petkovic,Carla Suarez Navarro,R,R,W,20150402,Miami,SF,,Stadium,Hard,Zhang Juan,3,1,BK
 20150401-W-Miami-QF-Simona_Halep-Sloane_Stephens,Simona Halep,Sloane Stephens,R,R,W,20150401,Miami,QF,,Stadium,Hard,,3,1,jeffsackmann
@@ -102,6 +111,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20150107-W-Auckland-R16-Caroline_Wozniacki-Taylor_Townsend,Caroline Wozniacki,Taylor Townsend,R,L,W,20150107,Auckland,R16,,,Hard,Blake Trifunovski,3,1,Amy
 20150106-W-Auckland-R32-Caroline_Wozniacki-Julia_Glushko,Caroline Wozniacki,Julia Glushko,R,R,W,20150106,Auckland,R32,,,Hard,Paula Vieira Souza,3,1,jeffsackmann
 20150105-W-Brisbane-R32-Sabine_Lisicki-Yaroslava_Shvedova,Sabine Lisicki,Yaroslava Shvedova,R,R,W,20150105,Brisbane,R32,,,Hard,Eva Asderaki,3,1,Amy
+20150105-W-Brisbane-R32-Elina_Svitolina-Magdalena_Rybarikova,Elina Svitolina,Magdalena Rybarikova,R,R,W,20150105,Brisbane,R32,,Court 1,Hard,,3,1,Lowell
 20150105-W-Brisbane-R32-Dominika_Cibulkova-Madison_Keys,Dominika Cibulkova,Madison Keys,R,R,W,20150105,Brisbane,R32,,,Hard,Felix Torralba,3,1,Amy
 20150105-W-Brisbane-Q3-Daria_Gavrilova-Elizaveta_Kulichkova,Daria Gavrilova,Elizaveta Kulichkova,R,R,W,20150105,Brisbane,Q3,,1,Hard,,3,1,jeffsackmann
 20150105-W-Auckland-R32-Daniela_Hantuchova-Sara_Errani,Daniela Hantuchova,Sara Errani,R,R,W,20150105,Auckland,R32,,Centre,Hard,Blaze Trifunovski,3,1,Lowell
@@ -117,6 +127,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20141023-W-Singapore-RR-Caroline_Wozniacki-Petra_Kvitova,Caroline Wozniacki,Petra Kvitova,R,L,W,20141023,Singapore,RR,,,Hard,,3,1,Amy
 20141023-W-Singapore-RR-Agnieszka_Radwanska-Caroline_Wozniacki,Agnieszka Radwanska,Caroline Wozniacki,R,R,W,20141023,Singapore,RR,,,Hard,Kader Nouni,3,1,Amy
 20141022-W-Singapore-RR-Serena_Williams-Simona_Halep,Serena Williams,Simona Halep,R,R,W,20141022,Singapore,RR,,,Hard,Maria Cicak,3,1,jeffsackmann
+20141022-W-Singapore-RR-Ana_Ivanovic-Eugenie_Bouchard,Ana Ivanovic,Eugenie Bouchard,R,R,W,20141022,Singapore,RR,7:40 PM,,Hard,Mariana Alves,3,1,Lowell
 20141021-W-Singapore-RR-Caroline_Wozniacki-Maria_Sharapova,Caroline Wozniacki,Maria Sharapova,R,R,W,20141021,Singapore,RR,,,Hard,Eva Asderaki,3,1,Amy
 20141020-W-Singapore-RR-Eugenie_Bouchard-Simona_Halep,Eugenie Bouchard,Simona Halep,R,R,W,20141020,Singapore,RR,,,Hard,Juan Zhang,3,1,jeffsackmann
 20141020-W-Singapore-RR-Caroline_Wozniacki-Petra_Kvitova,Caroline Wozniacki,Petra Kvitova,R,L,W,20141020,Singapore,RR,,,Hard,,3,1,Isaac
@@ -168,6 +179,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20140805-W-Montreal-R64-Ana_Ivanovic-Timea_Bacsinszky,Ana Ivanovic,Timea Bacsinszky,R,R,W,20140805,Montreal,R64,,,Hard,,3,1,jeffsackmann
 20140805-W-Montreal-R32-Eugenie_Bouchard-Shelby_Rogers,Eugenie Bouchard,Shelby Rogers,R,R,W,20140805,Montreal,R32,,Centre,Hard,,3,1,Lowell
 20140804-W-Montreal-R64-Sloane_Stephens-Aleksandra_Wozniak,Sloane Stephens,Aleksandra Wozniak,R,R,W,20140804,Montreal,R64,8:30 PM,Central,Hard,,3,1,Lowell
+20140731-W-Stanford-R16-Venus_Williams-Victoria_Azarenka,Venus Williams,Victoria Azarenka,R,R,W,20140731,Stanford,R16,,Taub Stadium,Hard,,3,1,Lowell
 20140729-W-Stanford-R32-Dominika_Cibulkova-Garbine_Muguruza,Dominika Cibulkova,Garbine Muguruza,R,R,W,20140729,Stanford,R32,,,Hard,,3,1,Lowell
 20140726-W-Baku-SF-Stefanie_Voegele-Bojana_Jovanovski,Stefanie Voegele,Bojana Jovanovski,R,R,W,20140726,Baku,SF,,,Hard,,3,1,jeffsackmann
 20140725-W-Baku-QF-Pauline_Parmentier-Elina_Svitolina,Pauline Parmentier,Elina Svitolina,R,R,W,20140725,Baku,QF,,,Hard,,3,1,jeffsackmann
@@ -240,6 +252,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20140506-W-Madrid-R64-Julia_Goerges-Simona_Halep,Julia Goerges,Simona Halep,R,R,W,20140506,Madrid,R64,,,Clay,Juan Zhang,3,1,jeffsackmann
 20140427-W-Marrakech-F-Maria_Teresa_Torro_Flor-Romina_Oprandi,Maria Teresa Torro Flor,Romina Oprandi,R,R,W,20140427,Marrakech,F,,,Clay,,3,1,jeffsackmann
 20140423-W-Stuttgart-R32-Julia_Goerges-Sorana_Cirstea,Julia Goerges,Sorana Cirstea,R,R,W,20140423,Stuttgart,R32,,,Clay,,3,1,Lowell
+20140422-W-Stuttgart-R32-Maria_Sharapova-Lucie_Safarova,Maria Sharapova,Lucie Safarova,R,L,W,20140422,Stuttgart,R32,6:50 PM,Centre,Clay,,3,1,Lowell
 20140419-W-Fed_Cup_World_Group_SF-RR-Sara_Errani-Lucie_Safarova,Sara Errani,Lucie Safarova,R,L,W,20140419,Fed Cup World Group SF,RR,,,Hard,,3,1,pavel
 20140412-W-Bogota-SF-Caroline_Garcia-Vania_King,Caroline Garcia,Vania King,R,R,W,20140412,Bogota,SF,,,Clay,,3,1,jeffsackmann
 20140408-W-Katowice-R32-Agnieszka_Radwanska-Kristyna_Pliskova,Agnieszka Radwanska,Kristyna Pliskova,R,L,W,20140408,Katowice,R32,,,Hard,,3,1,jeffsackmann
