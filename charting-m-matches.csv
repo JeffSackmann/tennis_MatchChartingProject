@@ -1,4 +1,46 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20150611-M-s_Hertogenbosch-R16-Roberto_Bautista_Agut-Nicolas_Mahut,Roberto Bautista Agut,Nicolas Mahut,R,R,M,20150611,s Hertogenbosch,R16,,,Grass,,3,1,Stephen
+20150610-M-Stuttgart-R16-Feliciano_Lopez-Samuel_Groth,Feliciano Lopez,Samuel Groth,L,R,M,20150610,Stuttgart,R16,,,Grass,,3,1,Jenn
+20150531-M-Roland_Garros-R16-Roger_Federer-Gael_Monfils,Roger Federer,Gael Monfils,R,R,M,20150531,Roland Garros,R16,19.20.00,Philippe Chatrier,Clay,Carlos Bernardes,5,0,Edo
+20150529-M-Roland_Garros-R32-Damir_Dzumhur-Roger_Federer,Damir Dzumhur,Roger Federer,R,R,M,20150529,Roland Garros,R32,2:00 PM,Philippe Chatrier,Clay,,5,0,Edo
+20150524-M-Roland_Garros-R128-Paul_Henri_Mathieu-Kei_Nishikori,Paul Henri Mathieu,Kei Nishikori,R,R,M,20150524,Roland Garros,R128,2:50 PM,Suzanne Lenglen,Clay,Jake Garner,5,0,Edo
+20150524-M-Nice-F-Leonardo_Mayer-Dominic_Thiem,Leonardo Mayer,Dominic Thiem,R,R,M,20150524,Nice,F,3:00 PM,Central,Clay,,3,1,Edo
+20150522-M-Nice-SF-Leonardo_Mayer-Borna_Coric,Leonardo Mayer,Borna Coric,R,R,M,20150522,Nice,SF,,,Clay,,3,1,jeffsackmann
+20150521-M-Nice-QF-Leonardo_Mayer-Juan_Monaco,Leonardo Mayer,Juan Monaco,R,R,M,20150521,Nice,QF,,,Clay,,3,1,Jenn
+20150515-M-Rome_Masters-QF-Roger_Federer-Tomas_Berdych,Roger Federer,Tomas Berdych,R,R,M,20150515,Rome Masters,QF,2:00 PM,Centre,Clay,Fergus Murphy,3,1,Edo
+20150515-M-Rome_Masters-QF-Novak_Djokovic-Kei_Nishikori,Novak Djokovic,Kei Nishikori,R,R,M,20150515,Rome Masters,QF,,Centrale,Clay,,3,1,jk
+20150514-M-Rome_Masters-R16-Roger_Federer-Kevin_Anderson,Roger Federer,Kevin Anderson,R,R,M,20150514,Rome Masters,R16,,Centrale,Clay,Carlos Bernardes,3,1,FedFan
+20150514-M-Rome_Masters-R16-John_Isner-Rafael_Nadal,John Isner,Rafael Nadal,R,L,M,20150514,Rome Masters,R16,,Centrale,Clay,Mohamed Lahyani,3,1,Martin
+20150513-M-Rome_Masters-R32-Jeremy_Chardy-Andy_Murray,Jeremy Chardy,Andy Murray,R,R,M,20150513,Rome Masters,R32,12:00 PM,Centrale,Clay,Carlos Bernardes,3,1,DavidAurora
+20150512-M-Rome_Masters-R64-Nick_Kyrgios-Feliciano_Lopez,Nick Kyrgios,Feliciano Lopez,R,L,M,20150512,Rome Masters,R64,,,Clay,Damien Dumusois,3,1,jeffsackmann
+20150512-M-Rome_Masters-R64-Marin_Cilic-Guillermo_Garcia_Lopez,Marin Cilic,Guillermo Garcia Lopez,R,R,M,20150512,Rome Masters,R64,11:00 AM,Grandstand,Clay,Gianluca Moscarella,3,1,DavidAurora
+20150512-M-Rome_Masters-R64-Andrea_Arnaboldi-David_Goffin,Andrea Arnaboldi,David Goffin,L,R,M,20150512,Rome Masters,R64,,,Clay,,3,1,jeffsackmann
+20150512-M-Rome_Masters-R32-Matteo_Donati-Tomas_Berdych,Matteo Donati,Tomas Berdych,R,R,M,20150512,Rome Masters,R32,,,Clay,,3,1,jeffsackmann
+20150511-M-Rome_Masters-R64-Steve_Johnson-Fabio_Fognini,Steve Johnson,Fabio Fognini,R,R,M,20150511,Rome Masters,R64,7:30 PM,Centrale,Clay,,3,1,DavidAurora
+20150511-M-Rome_Masters-R64-Jack_Sock-Gilles_Simon,Jack Sock,Gilles Simon,R,R,M,20150511,Rome Masters,R64,11:00 AM,Grandstand,Clay,Carlos Bernardes,3,1,DavidAurora
+20150509-M-Madrid_Masters-SF-Kei_Nishikori-Andy_Murray,Kei Nishikori,Andy Murray,R,R,M,20150509,Madrid Masters,SF,8:00 PM,Manolo Santana,Clay,,3,1,Edo
+20150507-M-Madrid_Masters-R16-Tomas_Berdych-Jo_Wilfried_Tsonga,Tomas Berdych,Jo Wilfried Tsonga,R,R,M,20150507,Madrid Masters,R16,1:15 PM,Stadium 3,Clay,Fergus Murphy,3,1,Edo
+20150507-M-Madrid_Masters-R16-John_Isner-Nick_Kyrgios,John Isner,Nick Kyrgios,R,R,M,20150507,Madrid Masters,R16,3:00 PM,Stadium 3,Clay,Carlos Bernardes,3,1,Edo
+20150507-M-Madrid_Masters-R16-Grigor_Dimitrov-Stanislas_Wawrinka,Grigor Dimitrov,Stanislas Wawrinka,R,R,M,20150507,Madrid Masters,R16,1:00 PM,Arantxa Sanchez-Vicario,Clay,,3,1,Edo
+20150506-M-Madrid_Masters-R32-Leonardo_Mayer-Feliciano_Lopez,Leonardo Mayer,Feliciano Lopez,R,L,M,20150506,Madrid Masters,R32,,ASV,Clay,,3,1,Jenn
+20150505-M-Madrid_Masters-R64-Roberto_Bautista_Agut-Marius_Copil,Roberto Bautista Agut,Marius Copil,R,R,M,20150505,Madrid Masters,R64,,ASV,Clay,Carlos Bernardes,3,1,jeffsackmann
+20150505-M-Madrid_Masters-R64-Fernando_Verdasco-Guillermo_Garcia_Lopez,Fernando Verdasco,Guillermo Garcia Lopez,L,R,M,20150505,Madrid Masters,R64,3:15 PM,Centre,Clay,,3,1,DavidAurora
+20150503-M-Istanbul-F-Roger_Federer-Pablo_Cuevas,Roger Federer,Pablo Cuevas,R,R,M,20150503,Istanbul,F,4:00 PM,Centre,Clay,,3,1,Edo
+20150502-M-Munich-QF-Philipp_Kohlschreiber-David_Goffin,Philipp Kohlschreiber,David Goffin,R,R,M,20150502,Munich,QF,,,Clay,James Keothavong,3,1,pvtennis
+20150502-M-Munich-QF-Andy_Murray-Lukas_Rosol,Andy Murray,Lukas Rosol,R,R,M,20150502,Munich,QF,10:00 AM,Centre,Clay,Cedric Mourier,3,1,Edo
+20150502-M-Istanbul-SF-Roger_Federer-Diego_Sebastian_Schwartzman,Roger Federer,Diego Sebastian Schwartzman,R,R,M,20150502,Istanbul,SF,3:00 PM,Centre,Clay,Mohamed Lahyani,3,1,Edo
+20150502-M-Istanbul-SF-Grigor_Dimitrov-Pablo_Cuevas,Grigor Dimitrov,Pablo Cuevas,R,R,M,20150502,Istanbul,SF,5:00 PM,Centre,Clay,R. Lichtenste,3,1,Edo
+20150430-M-Munich-R16-Fabio_Fognini-Dominic_Thiem,Fabio Fognini,Dominic Thiem,R,R,M,20150430,Munich,R16,3:45 PM,Centre,Clay,,3,1,DavidAurora
+20150430-M-Istanbul-R16-Denis_Istomin-Thomaz_Bellucci,Denis Istomin,Thomaz Bellucci,R,L,M,20150430,Istanbul,R16,14:30 PM,Centre,Clay,,3,1,DavidAurora
+20150429-M-Istanbul-R16-Diego_Sebastian_Schwartzman-Jurgen_Melzer,Diego Sebastian Schwartzman,Jurgen Melzer,R,L,M,20150429,Istanbul,R16,,,Clay,,3,1,CEM
+20150426-M-Bucharest-F-Guillermo_Garcia_Lopez-Jiri_Vesely,Guillermo Garcia Lopez,Jiri Vesely,R,L,M,20150426,Bucharest,F,2:30 PM,Centre,Clay,Damien Dumusois,3,1,David Aurora
+20150425-M-Bucharest-SF-Jiri_Vesely-Daniel_Gimeno_Traver,Jiri Vesely,Daniel Gimeno Traver,L,R,M,20150425,Bucharest,SF,1:00 PM,Centre,Clay,,3,1,DavidAurora
+20150424-M-Barcelona-QF-Roberto_Bautista_Agut-Kei_Nishikori,Roberto Bautista Agut,Kei Nishikori,R,R,M,20150424,Barcelona,QF,12:30 PM,Centre,Clay,Carlos Bernardes,3,1,DavidAurora
+20150423-M-Barcelona-R16-Kei_Nishikori-Santiago_Giraldo,Kei Nishikori,Santiago Giraldo,R,R,M,20150423,Barcelona,R16,11:00 AM,Centre,Clay,Ali Nili,3,1,DavidAurora
+20150421-M-Barcelona-R64-Fernando_Verdasco-Andrey_Rublev,Fernando Verdasco,Andrey Rublev,L,R,M,20150421,Barcelona,R64,1:30 PM,Centre,Clay,Mohamed Lahyani,3,1,DavidAurora
+20150420-M-Barcelona-R64-Pablo_Carreno_Busta-Teymuraz_Gabashvili,Pablo Carreno Busta,Teymuraz Gabashvili,R,R,M,20150420,Barcelona,R64,5:30 PM,Centre,Clay,Ali Nili,3,1,DavidAurora
+20150418-M-Monte_Carlo_Masters-SF-Tomas_Berdych-Gael_Monfils,Tomas Berdych,Gael Monfils,R,R,M,20150418,Monte Carlo Masters,SF,1:00 PM,Centre,Clay,Carlos Bernardes,3,1,DavidAurora
+20150418-M-Monte_Carlo_Masters-SF-Novak_Djokovic-Rafael_Nadal,Novak Djokovic,Rafael Nadal,R,L,M,20150418,Monte Carlo Masters,SF,3.40PM,Centre,Clay,Cédric Mourier,3,0,Edo
 20150417-M-Monte_Carlo_Masters-QF-Milos_Raonic-Tomas_Berdych,Milos Raonic,Tomas Berdych,R,R,M,20150417,Monte Carlo Masters,QF,10:30 AM,Centre,Clay,Manuel Messina,3,1,DavidAurora
 20150417-M-Monte_Carlo_Masters-QF-Grigor_Dimitrov-Gael_Monfils,Grigor Dimitrov,Gael Monfils,R,R,M,20150417,Monte Carlo Masters,QF,12:00 PM,Centre,Clay,Gianluca Moscarella,3,1,DavidAurora
 20150417-M-Monte_Carlo_Masters-QF-David_Ferrer-Rafael_Nadal,David Ferrer,Rafael Nadal,R,L,M,20150417,Monte Carlo Masters,QF,2:40 PM,Centre,Clay,Damien Dumusois,3,1,DavidAurora
@@ -54,6 +96,8 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20150226-M-Acapulco-QF-Viktor_Troicki-Kevin_Anderson,Viktor Troicki,Kevin Anderson,R,R,M,20150226,Acapulco,QF,,,Hard,,3,1,jeffsackmann
 20150225-M-Dubai-R16-Fernando_Verdasco-Roger_Federer,Fernando Verdasco,Roger Federer,L,R,M,20150225,Dubai,R16,,,Hard,Kader Nouni,3,1,jeffsackmann
 20150223-M-Dubai-R32-Joao_Sousa-James_Mcgee,Joao Sousa,James Mcgee,R,R,M,20150223,Dubai,R32,,,Hard,Kader Nouni,3,1,jeffsackmann
+20150223-M-Buenos_Aires-QF-Rafael_Nadal-Federico_Delbonis,Rafael Nadal,Federico Delbonis,L,L,M,20150223,Buenos Aires,QF,,Center,Clay,,3,1,Isaac
+20150221-M-Marseille-SF-Sergiy_Stakhovsky-Gilles_Simon,Sergiy Stakhovsky,Gilles Simon,R,R,M,20150221,Marseille,SF,,,Hard,James Keothavong,3,1,pvtennis
 20150221-M-Marseille-SF-Roberto_Bautista_Agut-Gael_Monfils,Roberto Bautista Agut,Gael Monfils,R,R,M,20150221,Marseille,SF,,,Hard,,3,1,pvtennis
 20150219-M-Rio_De_Janeiro-R16-Rafael_Nadal-Pablo_Carreno_Busta,Rafael Nadal,Pablo Carreno Busta,L,R,M,20150219,Rio De Janeiro,R16,,Center Court,Clay,Adel Nour,3,1,Isaac
 20150218-M-Delray_Beach-R32-Steve_Johnson-Andrey_Rublev,Steve Johnson,Andrey Rublev,R,R,M,20150218,Delray Beach,R32,,,Hard,,3,1,jeffsackmann
@@ -413,4 +457,5 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20010611-M-Halle-QF-Patrick_Rafter-Roger_Federer,Patrick Rafter,Roger Federer,R,R,M,20010611,Halle,QF,,,Grass,,3,1,Amy
 20001127-M-Tour_Finals-SF-Marat_Safin-Andre_Agassi,Marat Safin,Andre Agassi,R,R,M,20001127,Tour Finals,SF,,,Hard,,3,1,EricJ
 19981005-M-Basel-R32-Andre_Agassi-Roger_Federer,Andre Agassi,Roger Federer,R,R,M,19981005,Basel,R32,,,Hard,,3,1,Amy
+19950129-M-Australian_Open-F-Pete_Sampras-Andre_Agassi,Pete Sampras,Andre Agassi,R,R,M,19950129,Australian Open,F,3:00 PM,Centre,Hard,,5,0,Edo
 19800705-M-Wimbledon-F-John_Mcenroe-Bjorn_Borg,John Mcenroe,Bjorn Borg,L,R,M,19800705,Wimbledon,F,2:00 PM,Centre,Grass,Gerry Armstrong,5,0,Eric
