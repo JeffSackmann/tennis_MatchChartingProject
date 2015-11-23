@@ -21,6 +21,12 @@ I've now also added several '-stats-' files for both men and women. These contai
 
 New matches are submitted several times per week. As the project continues to grow, I will update these files periodically, approximately once per 100 additional matches. Follow me on Twitter[5] for updates on new matches and other improvements to the database.
 
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Crowdsourced shot-by-shot professional tennis data</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.tennisabstract.com/charting/meta.html" property="cc:attributionName" rel="cc:attributionURL">The Tennis Abstract Match Charting Project</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/JeffSackmann/tennis_MatchChartingProject" rel="dct:source">https://github.com/JeffSackmann/tennis_MatchChartingProject</a>
+
+In other words: Attribution is required. Non-commercial use only.
+
 ---
 
 [1] http://www.tennisabstract.com/charting/meta.html
