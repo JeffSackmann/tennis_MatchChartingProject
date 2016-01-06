@@ -35,6 +35,6 @@ In other words: Attribution is required. Non-commercial use only.
 
 [3] http://www.tennisabstract.com/charting/meta.html#contributors
 
-[4] MatchChart 0.1.4.xlsx, included in this repo
+[4] MatchChart 0.1.x.xlsm, included in this repo
 
 [5] http://www.twitter.com/tennisabstract
