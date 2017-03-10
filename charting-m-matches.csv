@@ -182,7 +182,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20160310-M-Indian_Wells_Masters-R128-Damir_Dzumhur-Marcel_Granollers,Damir Dzumhur,Marcel Granollers,R,R,M,20160310,Indian Wells Masters,R128,,Stadium 4,Hard,,3,1,Isaac
 20160307-M-Puebla_CH-Q3-Fernando_Romboli-Stefano_Napolitano,Fernando Romboli,Stefano Napolitano,R,R,M,20160307,Puebla CH,Q3,,Centre Court,Hard,,3,1,Isaac
 20160304-M-Quimper_CH-QF-Paul_Henri_Mathieu-Igor_Sijsling,Paul Henri Mathieu,Igor Sijsling,R,R,M,20160304,Quimper CH,QF,,,Hard,,3,1,Isaac
-20160304-M-Davis_Cup_World_Group_R1-RR-Frank_Dancevic-Gael_Monfils,Frank Dancevic,Gael Monfils,R,R,M,20160304,Davis Cup World Group R1,RR,11:00,"Velodrome Amedee-Detraux,Clay,Gianluca Moscarella,5,1,1HandBH
+20160304-M-Davis_Cup_World_Group_R1-RR-Frank_Dancevic-Gael_Monfils,Frank Dancevic,Gael Monfils,R,R,M,20160304,Davis Cup World Group R1,RR,11:00,Velodrome Amedee-Detraux,Clay,Gianluca Moscarella,5,1,1HandBH
 20160228-M-Sao_Paulo-F-Pablo_Cuevas-Pablo_Carreno_Busta,Pablo Cuevas,Pablo Carreno Busta,R,R,M,20160228,Sao Paulo,F,,,Clay,,3,1,jeffsackmann
 20160227-M-Dubai-F-Stanislas_Wawrinka-Marcos_Baghdatis,Stanislas Wawrinka,Marcos Baghdatis,R,R,M,20160227,Dubai,F,,Center,Hard,Ali Nili,3,1,jeffsackmann
 20160227-M-Cherbourg_CH-SF-Jordan_Thompson-Vincent_Millot,Jordan Thompson,Vincent Millot,R,L,M,20160227,Cherbourg CH,SF,,,Hard,,3,1,Isaac
@@ -513,7 +513,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20150624-M-Nottingham-R16-Sam_Querrey-Pablo_Cuevas,Sam Querrey,Pablo Cuevas,R,R,M,20150624,Nottingham,R16,1:40 PM,,Grass,Richard Haigh,3,1,ChapelHeel66
 20150624-M-Nottingham-R16-Marcos_Baghdatis-Alexander_Zverev,Marcos Baghdatis,Alexander Zverev,R,R,M,20150624,Nottingham,R16,,,Grass,,3,1,1HandBH
 20150621-M-Queens_Club-F-Andy_Murray-Kevin_Anderson,Andy Murray,Kevin Anderson,R,R,M,20150621,Queens Club,F,,,Grass,,3,1,chrisG
-20150621-M-Halle-F-Andreas_Seppi-Roger_Federer,Andreas Seppi,Roger Federer,R,R,M,20150621,Halle,F,2:00 PM,Stadion,Grass,Cédric Mourier,3,1,Edo
+20150621-M-Halle-F-Andreas_Seppi-Roger_Federer,Andreas Seppi,Roger Federer,R,R,M,20150621,Halle,F,2:00 PM,Stadion,Grass,CÃ©dric Mourier,3,1,Edo
 20150620-M-Halle-SF-Roger_Federer-Ivo_Karlovic,Roger Federer,Ivo Karlovic,R,R,M,20150620,Halle,SF,3:00 PM,Stadion,Grass,Manuel Messina,3,1,Edo
 20150619-M-Queens_Club-QF-Kevin_Anderson-Gilles_Simon,Kevin Anderson,Gilles Simon,R,R,M,20150619,Queens Club,QF,,Centre,Grass,James Keothavong,3,1,jeffsackmann
 20150619-M-Queens_Club-QF-John_Isner-Viktor_Troicki,John Isner,Viktor Troicki,R,R,M,20150619,Queens Club,QF,,Centre,Grass,James Keothavong,3,1,jeffsackmann
@@ -531,7 +531,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20150611-M-s_Hertogenbosch-R16-Roberto_Bautista_Agut-Nicolas_Mahut,Roberto Bautista Agut,Nicolas Mahut,R,R,M,20150611,s Hertogenbosch,R16,,,Grass,,3,1,Stephen
 20150611-M-s_Hertogenbosch-R16-Jurgen_Melzer-David_Goffin,Jurgen Melzer,David Goffin,L,R,M,20150611,s Hertogenbosch,R16,,Centre,Grass,Cedric Mourier,3,1,Edo
 20150611-M-Stuttgart-R16-Bernard_Tomic-Tommy_Haas,Bernard Tomic,Tommy Haas,R,R,M,20150611,Stuttgart,R16,,,Grass,Adel Nour,3,1,Amy
-20150610-M-s Hertogenbosch-R16-Vasek_Pospisil-Gilles_Muller,Vasek Pospisil,Gilles Muller,R,L,M,20150610,s Hertogenbosch,R16,,,Grass,Roland Herfel,3,1,jeffsackmann
+20150610-M-sÂ Hertogenbosch-R16-Vasek_Pospisil-Gilles_Muller,Vasek Pospisil,Gilles Muller,R,L,M,20150610,sÂ Hertogenbosch,R16,,,Grass,Roland Herfel,3,1,jeffsackmann
 20150610-M-Stuttgart-R16-Feliciano_Lopez-Samuel_Groth,Feliciano Lopez,Samuel Groth,L,R,M,20150610,Stuttgart,R16,,,Grass,,3,1,Jenn
 20150610-M-Stuttgart-R16-Andreas_Seppi-Mischa_Zverev,Andreas Seppi,Mischa Zverev,R,L,M,20150610,Stuttgart,R16,,,Grass,Manuel Messina,3,1,jeffsackmann
 20150609-M-Stuttgart-R32-Jan_Lennard_Struff-Bernard_Tomic,Jan Lennard Struff,Bernard Tomic,R,R,M,20150609,Stuttgart,R32,,,Grass,Adel Nour,3,1,Amy
@@ -593,7 +593,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20150421-M-Barcelona-R64-Fernando_Verdasco-Andrey_Rublev,Fernando Verdasco,Andrey Rublev,L,R,M,20150421,Barcelona,R64,1:30 PM,Centre,Clay,Mohamed Lahyani,3,1,DavidAurora
 20150420-M-Barcelona-R64-Pablo_Carreno_Busta-Teymuraz_Gabashvili,Pablo Carreno Busta,Teymuraz Gabashvili,R,R,M,20150420,Barcelona,R64,5:30 PM,Centre,Clay,Ali Nili,3,1,DavidAurora
 20150418-M-Monte_Carlo_Masters-SF-Tomas_Berdych-Gael_Monfils,Tomas Berdych,Gael Monfils,R,R,M,20150418,Monte Carlo Masters,SF,1:00 PM,Centre,Clay,Carlos Bernardes,3,1,DavidAurora
-20150418-M-Monte_Carlo_Masters-SF-Novak_Djokovic-Rafael_Nadal,Novak Djokovic,Rafael Nadal,R,L,M,20150418,Monte Carlo Masters,SF,3.40PM,Centre,Clay,Cédric Mourier,3,0,Edo
+20150418-M-Monte_Carlo_Masters-SF-Novak_Djokovic-Rafael_Nadal,Novak Djokovic,Rafael Nadal,R,L,M,20150418,Monte Carlo Masters,SF,3.40PM,Centre,Clay,CÃ©dric Mourier,3,0,Edo
 20150417-M-Monte_Carlo_Masters-QF-Milos_Raonic-Tomas_Berdych,Milos Raonic,Tomas Berdych,R,R,M,20150417,Monte Carlo Masters,QF,10:30 AM,Centre,Clay,Manuel Messina,3,1,DavidAurora
 20150417-M-Monte_Carlo_Masters-QF-Grigor_Dimitrov-Gael_Monfils,Grigor Dimitrov,Gael Monfils,R,R,M,20150417,Monte Carlo Masters,QF,12:00 PM,Centre,Clay,Gianluca Moscarella,3,1,DavidAurora
 20150417-M-Monte_Carlo_Masters-QF-David_Ferrer-Rafael_Nadal,David Ferrer,Rafael Nadal,R,L,M,20150417,Monte Carlo Masters,QF,2:40 PM,Centre,Clay,Damien Dumusois,3,1,DavidAurora
@@ -735,7 +735,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20141025-M-Valencia-SF-David_Ferrer-Andy_Murray,David Ferrer,Andy Murray,R,R,M,20141025,Valencia,SF,,Agora,Hard,,3,1,jeffsackmann
 20141024-M-Basel-QF-Grigor_Dimitrov-Roger_Federer,Grigor Dimitrov,Roger Federer,R,R,M,20141024,Basel,QF,,,Hard,Mohamed Lahyani,3,1,jeffsackmann
 20141022-M-Toyota_CH-SF-Yuichi_Sugita-Go_Soeda,Yuichi Sugita,Go Soeda,R,R,M,20141022,Toyota CH,SF,,,Carpet,,3,1,jeffsackmann
-20141022-M-Basel-R32-Ernests_Gulbis-Borna_Coric,Ernests Gulbis,Borna Coric,R,R,M,20141022,Basel,R32,,,Hard,Mohamed El Jennati,3,1,jeffsackmann
+20141022-M-Basel-R32-Ernests_Gulbis-Borna_Coric,Ernests Gulbis,Borna Coric,R,R,M,20141022,Basel,R32,,,Hard,MohamedÂ El Jennati,3,1,jeffsackmann
 20141021-M-Valencia-R32-Norbert_Gombos-Feliciano_Lopez,Norbert Gombos,Feliciano Lopez,R,L,M,20141021,Valencia,R32,,Agora,Hard,Ali Nili,3,1,jeffsackmann
 20141020-M-Valencia-R32-Stefan_Kozlov-Martin_Klizan,Stefan Kozlov,Martin Klizan,R,L,M,20141020,Valencia,R32,,Agora,Hard,Ali Nili,3,1,jeffsackmann
 20141020-M-Basel-R32-Dominic_Thiem-David_Goffin,Dominic Thiem,David Goffin,R,R,M,20141020,Basel,R32,,,Hard,,3,1,jeffsackmann
