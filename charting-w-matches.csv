@@ -1,15 +1,54 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20180526-W-Strasbourg-F-Dominika_Cibulkova-Anastasia_Pavlyuchenkova,Dominika Cibulkova,Anastasia Pavlyuchenkova,R,R,W,20180526,Strasbourg,F,,Dominguez,Clay,Juan Zhang,3,1,jeffsackmann
+20180526-W-Nurnberg-F-Johanna_Larsson-Alison_Riske,Johanna Larsson,Alison Riske,R,R,W,20180526,Nurnberg,F,13:30,,Clay,Paula Vieira Souza,3,1,jeffsackmann
+20180524-W-Roland_Garros-Q2-Veronika_Kudermetova-Nicole_Gibbs,Veronika Kudermetova,Nicole Gibbs,R,R,W,20180524,Roland Garros,Q2,1:15 PM,Court 8,Clay,Maria Fernanda Burka,3,1,ChapelHeel66
+20180524-W-Roland_Garros-Q2-Tamara_Zidansek-Deborah_Chiesa,Tamara Zidansek,Deborah Chiesa,R,R,W,20180524,Roland Garros,Q2,11:40,,Clay,Timothee Mevel,3,1,jeffsackmann
+20180522-W-Strasbourg-R16-Elena_Rybakina-Mihaela_Buzarnescu,Elena Rybakina,Mihaela Buzarnescu,R,L,W,20180522,Strasbourg,R16,11:00,Dominguez,Clay,,3,1,jeffsackmann
+20180522-W-Strasbourg-R16-Danielle_Rose_Collins-Qiang_Wang,Danielle Rose Collins,Qiang Wang,R,R,W,20180522,Strasbourg,R16,13:00,,Clay,Alexandre Robein,3,1,jeffsackmann
+20180520-W-Rome-F-Simona_Halep-Elina_Svitolina,Simona Halep,Elina Svitolina,R,R,W,20180520,Rome,F,13:00,Centrale,Clay,Mariana Alves,3,1,jeffsackmann
+20180519-W-Rome-SF-Maria_Sharapova-Simona_Halep,Maria Sharapova,Simona Halep,R,R,W,20180519,Rome,SF,18:00,Centrale,Clay,Juan Zhang,3,1,jeffsackmann
+20180519-W-Rome-SF-Anett_Kontaveit-Elina_Svitolina,Anett Kontaveit,Elina Svitolina,R,R,W,20180519,Rome,SF,day,,Clay,Marija Cicak,3,1,jeffsackmann
+20180518-W-Rome-QF-Caroline_Wozniacki-Anett_Kontaveit,Caroline Wozniacki,Anett Kontaveit,R,R,W,20180518,Rome,QF,,Pietrangeli,Clay,Marijana Veljovic,3,1,jeffsackmann
+20180518-W-Rome-QF-Caroline_Garcia-Simona_Halep,Caroline Garcia,Simona Halep,R,R,W,20180518,Rome,QF,night,,Clay,Paula Vieira Souza,3,1,jeffsackmann
+20180517-W-Rome-R16-Darya_Kasatkina-Elina_Svitolina,Darya Kasatkina,Elina Svitolina,R,R,W,20180517,Rome,R16,11:00,Pietrangeli,Clay,,3,1,jeffsackmann
+20180516-W-Rome-R32-Naomi_Osaka-Simona_Halep,Naomi Osaka,Simona Halep,R,R,W,20180516,Rome,R32,,,Clay,Marija Cicak,3,1,jeffsackmann
+20180516-W-Rome-R32-Karolina_Pliskova-Maria_Sakkari,Karolina Pliskova,Maria Sakkari,R,R,W,20180516,Rome,R32,,Pietrangeli,Clay,Marta Mrozinska,3,1,jeffsackmann
+20180512-W-Madrid-F-Kiki_Bertens-Petra_Kvitova,Kiki Bertens,Petra Kvitova,R,L,W,20180512,Madrid,F,night,Santana,Clay,Kader Nouni,3,1,jeffsackmann
+20180511-W-Madrid-SF-Caroline_Garcia-Kiki_Bertens,Caroline Garcia,Kiki Bertens,R,R,W,20180511,Madrid,SF,day,Santana,Clay,Julie Kjendlie,3,1,jeffsackmann
+20180510-W-Madrid-QF-Simona_Halep-Karolina_Pliskova,Simona Halep,Karolina Pliskova,R,R,W,20180510,Madrid,QF,day,,Clay,,3,1,jeffsackmann
+20180509-W-Madrid-R16-Simona_Halep-Kristyna_Pliskova,Simona Halep,Kristyna Pliskova,R,L,W,20180509,Madrid,R16,,,Clay,Marija Cicak,3,1,jeffsackmann
+20180509-W-Madrid-R16-Caroline_Wozniacki-Kiki_Bertens,Caroline Wozniacki,Kiki Bertens,R,R,W,20180509,Madrid,R16,14:00,,Clay,,3,1,jeffsackmann
+20180509-W-Madrid-R16-Carla_Suarez_Navarro-Bernarda_Pera,Carla Suarez Navarro,Bernarda Pera,R,L,W,20180509,Madrid,R16,day,,Clay,Paula Vieira Souza,3,1,jeffsackmann
+20180508-W-Madrid-R32-Elise_Mertens-Simona_Halep,Elise Mertens,Simona Halep,R,R,W,20180508,Madrid,R32,,,Clay,Juan Zhang,3,1,jeffsackmann
+20180508-W-Madrid-R32-Carla_Suarez_Navarro-Elina_Svitolina,Carla Suarez Navarro,Elina Svitolina,R,R,W,20180508,Madrid,R32,night,Santana,Clay,Marija Cicak,3,1,jeffsackmann
+20180506-W-Madrid-R64-Simona_Halep-Ekaterina_Makarova,Simona Halep,Ekaterina Makarova,R,L,W,20180506,Madrid,R64,,,Clay,Julie Kjendlie,3,1,jeffsackmann
+20180505-W-Rabat-F-Ajla_Tomljanovic-Elise_Mertens,Ajla Tomljanovic,Elise Mertens,R,R,W,20180505,Rabat,F,,,Clay,Cecilia Alberti,3,1,jeffsackmann
+20180505-W-Prague-F-Petra_Kvitova-Mihaela_Buzarnescu,Petra Kvitova,Mihaela Buzarnescu,L,L,W,20180505,Prague,F,,,Clay,,3,1,jeffsackmann
+20180504-W-Rabat-SF-Su_Wei_Hsieh-Elise_Mertens,Su Wei Hsieh,Elise Mertens,R,R,W,20180504,Rabat,SF,,,Clay,,3,1,jeffsackmann
+20180503-W-Prague-QF-Mihaela_Buzarnescu-Kristyna_Pliskova,Mihaela Buzarnescu,Kristyna Pliskova,L,L,W,20180503,Prague,QF,,,Clay,Isabell Seefried,3,1,jeffsackmann
+20180430-W-Prague-Q3-Stefanie_Voegele-Anastasia_Zarytska,Stefanie Voegele,Anastasia Zarytska,R,R,W,20180430,Prague,Q3,,,Clay,Emmanuel Joseph,3,1,jeffsackmann
+20180429-W-Stuttgart-F-Karolina_Pliskova-Coco_Vandeweghe,Karolina Pliskova,Coco Vandeweghe,R,R,W,20180429,Stuttgart,F,,,Clay,Marija Cicak,3,1,jeffsackmann
+20180429-W-Istanbul-F-Polona_Hercog-Pauline_Parmentier,Polona Hercog,Pauline Parmentier,R,R,W,20180429,Istanbul,F,,,Clay,Julie Kjendlie,3,1,jeffsackmann
 20180427-W-Stuttgart-QF-Coco_Vandeweghe-Simona_Halep,Coco Vandeweghe,Simona Halep,R,R,W,20180427,Stuttgart,QF,,,Clay,Kader Nouni,3,1,jeffsackmann
+20180426-W-Stuttgart-R16-Karolina_Pliskova-Veronika_Kudermetova,Karolina Pliskova,Veronika Kudermetova,R,R,W,20180426,Stuttgart,R16,,,Clay,,3,1,Isaac
+20180426-W-Stuttgart-R16-Caroline_Garcia-Marta_Kostyuk,Caroline Garcia,Marta Kostyuk,R,R,W,20180426,Stuttgart,R16,,,Clay,Alison Hughes,3,1,jeffsackmann
+20180426-W-Istanbul-R16-Caroline_Wozniacki-Sara_Errani,Caroline Wozniacki,Sara Errani,R,R,W,20180426,Istanbul,R16,,,Clay,,3,1,jeffsackmann
+20180425-W-Stuttgart-R32-Petra_Kvitova-Angelique_Kerber,Petra Kvitova,Angelique Kerber,L,L,W,20180425,Stuttgart,R32,18:30,Center,Clay,Mariana Alves,3,1,jeffsackmann
 20180425-W-Stuttgart-R16-Simona_Halep-Magdalena_Rybarikova,Simona Halep,Magdalena Rybarikova,R,R,W,20180425,Stuttgart,R16,,,Clay,Alison Hughes,3,1,jeffsackmann
 20180424-W-Istanbul-R32-Viktoriya_Tomova-Valentyna_Ivakhnenko,Viktoriya Tomova,Valentyna Ivakhnenko,R,R,W,20180424,Istanbul,R32,,2,Clay,H Torun,3,1,jeffsackmann
 20180422-W-Zhengzhou-F-Yafan_Wang-Saisai_Zheng,Yafan Wang,Saisai Zheng,R,R,W,20180422,Zhengzhou,F,,,Hard,,3,1,jeffsackmann
 20180422-W-Fed_Cup_World_Group_PO-RR-Patty_Schnyder-Simona_Halep,Patty Schnyder,Simona Halep,L,R,W,20180422,Fed Cup World Group PO,RR,11:00,,Clay,Carlos Ramos,3,1,jeffsackmann
 20180421-W-Fed_Cup_World_Group_PO-RR-Simona_Halep-Viktorija_Golubic,Simona Halep,Viktorija Golubic,R,R,W,20180421,Fed Cup World Group PO,RR,,,Clay,,3,1,jeffsackmann
+20180417-W-ITF_Dothan-R32-Ulrikke_Eikeri-Taylor_Townsend,Ulrikke Eikeri,Taylor Townsend,R,L,W,20180417,ITF Dothan,R32,11:30,Stadium,Clay,Anto Manganello,3,1,jeffsackmann
 20180415-W-Lugano-F-Aryna_Sabalenka-Elise_Mertens,Aryna Sabalenka,Elise Mertens,R,R,W,20180415,Lugano,F,,,Clay,,3,1,jeffsackmann
 20180415-W-Bogota-F-Anna_Karolina_Schmiedlova-Lara_Arruabarrena,Anna Karolina Schmiedlova,Lara Arruabarrena,R,R,W,20180415,Bogota,F,,,Clay,,3,1,jeffsackmann
+20180414-W-Lugano-SF-Vera_Lapko-Elise_Mertens,Vera Lapko,Elise Mertens,R,R,W,20180414,Lugano,SF,,Centre,Clay,,3,1,jeffsackmann
 20180413-W-Lugano-R16-Tamara_Korpatsch-Kathinka_Von_Deichmann,Tamara Korpatsch,Kathinka Von Deichmann,R,R,W,20180413,Lugano,R16,,,Clay,,3,1,jeffsackmann
+20180411-W-Bogota-R32-Veronica_Cepede_Royg-Emiliana_Arango,Veronica Cepede Royg,Emiliana Arango,R,R,W,20180411,Bogota,R32,,,Clay,,3,1,jeffsackmann
 20180408-W-Monterrey-F-Timea_Babos-Garbine_Muguruza,Timea Babos,Garbine Muguruza,R,R,W,20180408,Monterrey,F,,,Hard,Cecilia Alberti,3,1,jeffsackmann
+20180408-W-Charleston-SF-Madison_Keys-Kiki_Bertens,Madison Keys,Kiki Bertens,R,R,W,20180408,Charleston,SF,10:40 AM,Stadium,Clay,,3,1,ChapelHeel66
 20180408-W-Charleston-F-Kiki_Bertens-Julia_Goerges,Kiki Bertens,Julia Goerges,R,R,W,20180408,Charleston,F,,,Clay,Kader Nouni,3,1,jeffsackmann
+20180407-W-Charleston-QF-Alize_Cornet-Kiki_Bertens,Alize Cornet,Kiki Bertens,R,R,W,20180407,Charleston,QF,7:10 PM,Stadium,Clay,Yvette Kahn,3,1,ChapelHeel66
 20180405-W-Charleston-R16-Naomi_Osaka-Julia_Goerges,Naomi Osaka,Julia Goerges,R,R,W,20180405,Charleston,R16,11:10 AM,Stadium,Clay,,3,1,ChapelHeel66
 20180405-W-Charleston-R16-Ashleigh_Barty-Anastasija_Sevastova,Ashleigh Barty,Anastasija Sevastova,R,R,W,20180405,Charleston,R16,11:00 AM,Club,Clay,,3,1,ChapelHeel66
 20180404-W-Charleston-R32-Sara_Errani-Mihaela_Buzarnescu,Sara Errani,Mihaela Buzarnescu,R,L,W,20180404,Charleston,R32,,Club,Clay,Kader Nouni,3,1,jeffsackmann
@@ -30,7 +69,9 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20180321-W-Miami-R128-Serena_Williams-Naomi_Osaka,Serena Williams,Naomi Osaka,R,R,W,20180321,Miami,R128,,Stadium 1,Hard,,3,1,Isaac
 20180321-W-Miami-R128-Lauren_Davis-Petra_Martic,Lauren Davis,Petra Martic,R,R,W,20180321,Miami,R128,8:05 PM,2,Hard,,3,1,ChapelHeel66
 20180318-W-Indian_Wells-F-Naomi_Osaka-Darya_Kasatkina,Naomi Osaka,Darya Kasatkina,R,R,W,20180318,Indian Wells,F,,Stadium 1,Hard,,3,1,jeffsackmann
+20180317-W-Indian_Wells-SF-Venus_Williams-Darya_Kasatkina,Venus Williams,Darya Kasatkina,R,R,W,20180317,Indian Wells,SF,9:10 PM,Center,Hard,Marija Cicak,3,1,Palaver
 20180316-W-Indian_Wells-SF-Naomi_Osaka-Simona_Halep,Naomi Osaka,Simona Halep,R,R,W,20180316,Indian Wells,SF,,1,Hard,Mariana Alves,3,1,jeffsackmann
+20180315-W-Indian_Wells-QF-Angelique_Kerber-Darya_Kasatkina,Angelique Kerber,Darya Kasatkina,L,R,W,20180315,Indian Wells,QF,11:00 AM,,Hard,,3,1,Palaver
 20180314-W-Indian_Wells-QF-Petra_Martic-Simona_Halep,Petra Martic,Simona Halep,R,R,W,20180314,Indian Wells,QF,,1,Hard,Paula Veiera Souza,3,1,jeffsackmann
 20180313-W-Indian_Wells-R16-Qiang_Wang-Simona_Halep,Qiang Wang,Simona Halep,R,R,W,20180313,Indian Wells,R16,,1,Hard,,3,1,jeffsackmann
 20180313-W-Indian_Wells-R16-Marketa_Vondrousova-Petra_Martic,Marketa Vondrousova,Petra Martic,L,R,W,20180313,Indian Wells,R16,2:05 PM,Stadium 3,Hard,Cecelia Alberti,3,1,ChapelHeel66
@@ -41,6 +82,8 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20180303-W-Acapulco-F-Stefanie_Voegele-Lesia_Tsurenko,Stefanie Voegele,Lesia Tsurenko,R,R,W,20180303,Acapulco,F,,,Hard,,3,1,jeffsackmann
 20180225-W-Budapest-F-Dominika_Cibulkova-Alison_Van_Uytvanck,Dominika Cibulkova,Alison Van Uytvanck,R,R,W,20180225,Budapest,F,,,Hard,,3,1,jeffsackmann
 20180224-W-Dubai-F-Darya_Kasatkina-Elina_Svitolina,Darya Kasatkina,Elina Svitolina,R,R,W,20180224,Dubai,F,,Center,Hard,,3,1,jeffsackmann
+20180223-W-Dubai-SF-Garbine_Muguruza-Darya_Kasatkina,Garbine Muguruza,Darya Kasatkina,R,R,W,20180223,Dubai,SF,,,Hard,Kader Nouni,3,1,Palaver
+20180221-W-Dubai-R16-Darya_Kasatkina-Johanna_Konta,Darya Kasatkina,Johanna Konta,R,R,W,20180221,Dubai,R16,,,Hard,,3,1,Palaver
 20180218-W-Doha-F-Garbine_Muguruza-Petra_Kvitova,Garbine Muguruza,Petra Kvitova,R,L,W,20180218,Doha,F,night,Center,Hard,Marija Cicak,3,1,jeffsackmann
 20180216-W-Doha-QF-Catherine_Cartan_Bellis-Simona_Halep,Catherine Cartan Bellis,Simona Halep,R,R,W,20180216,Doha,QF,night,,Hard,,3,1,jeffsackmann
 20180215-W-Doha-R16-Simona_Halep-Anastasija_Sevastova,Simona Halep,Anastasija Sevastova,R,R,W,20180215,Doha,R16,,,Hard,Mariana Alves,3,1,jeffsackmann
@@ -48,6 +91,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20180212-W-Doha-R64-Monica_Niculescu-Maria_Sharapova,Monica Niculescu,Maria Sharapova,R,R,W,20180212,Doha,R64,,Center,Hard,,3,1,jeffsackmann
 20180204-W-Taipei-F-Timea_Babos-Kateryna_Kozlova,Timea Babos,Kateryna Kozlova,R,R,W,20180204,Taipei,F,,,Hard,,3,1,jeffsackmann
 20180204-W-St_Petersburg-F-Petra_Kvitova-Kristina_Mladenovic,Petra Kvitova,Kristina Mladenovic,L,R,W,20180204,St Petersburg,F,,,Hard,,3,1,jeffsackmann
+20180201-W-ITF_Midland-R16-Stefanie_Voegele-Mihaela_Buzarnescu,Stefanie Voegele,Mihaela Buzarnescu,R,L,W,20180201,ITF Midland,R16,11:30,Stadium,Hard,Randy Coble,3,1,jeffsackmann
 20180128-W-Newport_Beach-F-Sofya_Zhuk-Danielle_Rose_Collins,Sofya Zhuk,Danielle Rose Collins,R,R,W,20180128,Newport Beach,F,,,Hard,,3,1,jeffsackmann
 20180127-W-Australian_Open-F-Caroline_Wozniacki-Simona_Halep,Caroline Wozniacki,Simona Halep,R,R,W,20180127,Australian Open,F,7:30 pm,Rod Laver Arena,Hard,Marijana Veljovic,3,0,Edo
 20180125-W-Australian_Open-SF-Angelique_Kerber-Simona_Halep,Angelique Kerber,Simona Halep,L,R,W,20180125,Australian Open,SF,,Laver,Hard,Alison Hughes,3,0,jeffsackmann
@@ -194,6 +238,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20170819-W-Cincinnati-QF-Simona_Halep-Johanna_Konta,Simona Halep,Johanna Konta,R,R,W,20170819,Cincinnati,QF,,Centre,Hard,,3,1,jeffsackmann
 20170817-W-Cincinnati-R16-Simona_Halep-Anastasija_Sevastova,Simona Halep,Anastasija Sevastova,R,R,W,20170817,Cincinnati,R16,,,Hard,Mariana Alves,3,1,jeffsackmann
 20170815-W-Cincinnati-R32-Simona_Halep-Taylor_Townsend,Simona Halep,Taylor Townsend,R,L,W,20170815,Cincinnati,R32,,,Hard,,3,1,Isaac
+20170813-W-Toronto-F-Caroline_Wozniacki-Elina_Svitolina,Caroline Wozniacki,Elina Svitolina,R,R,W,20170813,Toronto,F,2.00pm,Centre,Hard,Maria Cicak,3,1,Edo
 20170812-W-Toronto-SF-Elina_Svitolina-Simona_Halep,Elina Svitolina,Simona Halep,R,R,W,20170812,Toronto,SF,6:10 pm,Centre,Hard,,3,1,Lowell
 20170812-W-Toronto-QF-Caroline_Garcia-Simona_Halep,Caroline Garcia,Simona Halep,R,R,W,20170812,Toronto,QF,,Grandstand,Hard,Jenny Zhang,3,1,jeffsackmann
 20170811-W-Toronto-R16-Simona_Halep-Barbora_Zahlavova_Strycova,Simona Halep,Barbora Zahlavova Strycova,R,R,W,20170811,Toronto,R16,,,Hard,Marija Cicak,3,1,jeffsackmann
@@ -275,18 +320,22 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20170605-W-Roland_Garros-R16-Karolina_Pliskova-Veronica_Cepede_Royg,Karolina Pliskova,Veronica Cepede Royg,R,R,W,20170605,Roland Garros,R16,,Lenglen,Clay,Arnaud Gabas,3,0,jeffsackmann
 20170605-W-Roland_Garros-R16-Elina_Svitolina-Petra_Martic,Elina Svitolina,Petra Martic,R,R,W,20170605,Roland Garros,R16,11:00 AM,Suzanne-Lenglen,Clay,Louise Azemar Engzell,3,1,Lowell
 20170604-W-Roland_Garros-R32-Carina_Witthoeft-Karolina_Pliskova,Carina Witthoeft,Karolina Pliskova,R,R,W,20170604,Roland Garros,R32,,,Clay,John Blom,3,0,jeffsackmann
+20170604-W-Roland_Garros-R32-Anastasija_Sevastova-Petra_Martic,Anastasija Sevastova,Petra Martic,R,R,W,20170604,Roland Garros,R32,11:05 AM,Court 6,Clay,Paula Vieira Souza,3,1,ChapelHeel66
 20170604-W-Roland_Garros-R16-Caroline_Wozniacki-Svetlana_Kuznetsova,Caroline Wozniacki,Svetlana Kuznetsova,R,R,W,20170604,Roland Garros,R16,,Chatrier,Clay,,3,0,jeffsackmann
 20170603-W-Roland_Garros-R32-Elena_Vesnina-Carla_Suarez_Navarro,Elena Vesnina,Carla Suarez Navarro,R,R,W,20170603,Roland Garros,R32,,3,Clay,Julie Kjendlie,3,0,jeffsackmann
 20170603-W-Roland_Garros-R32-Darya_Kasatkina-Simona_Halep,Darya Kasatkina,Simona Halep,R,R,W,20170603,Roland Garros,R32,,,Clay,,3,0,jeffsackmann
 20170602-W-Roland_Garros-R32-Yulia_Putintseva-Garbine_Muguruza,Yulia Putintseva,Garbine Muguruza,R,R,W,20170602,Roland Garros,R32,day,Chatrier,Clay,Kader Nouni,3,0,jeffsackmann
 20170602-W-Roland_Garros-R32-Timea_Bacsinszky-Ons_Jabeur,Timea Bacsinszky,Ons Jabeur,R,R,W,20170602,Roland Garros,R32,evening,,Clay,Kelly Thomson,3,0,jeffsackmann
 20170601-W-Roland_Garros-R64-Tatjana_Maria-Simona_Halep,Tatjana Maria,Simona Halep,R,R,W,20170601,Roland Garros,R64,,Lenglen,Clay,Marijana Veljovic,3,0,jeffsackmann
+20170601-W-Roland_Garros-R64-Sorana_Cirstea-Carla_Suarez_Navarro,Sorana Cirstea,Carla Suarez Navarro,R,R,W,20170601,Roland Garros,R64,6:15 PM,Court 3,Clay,Julie Kjendlie,3,1,ChapelHeel66
 20170601-W-Roland_Garros-R64-Elina_Svitolina-Tsvetana_Pironkova,Elina Svitolina,Tsvetana Pironkova,R,R,W,20170601,Roland Garros,R64,,3,Clay,,3,0,jeffsackmann
 20170531-W-Roland_Garros-R64-Oceane_Dodin-Svetlana_Kuznetsova,Oceane Dodin,Svetlana Kuznetsova,R,R,W,20170531,Roland Garros,R64,,,Clay,,3,0,jeffsackmann
 20170531-W-Roland_Garros-R64-Catherine_Cartan_Bellis-Kiki_Bertens,Catherine Cartan Bellis,Kiki Bertens,R,R,W,20170531,Roland Garros,R64,,2,Clay,,3,0,jeffsackmann
 20170530-W-Roland_Garros-R128-Jana_Cepelova-Simona_Halep,Jana Cepelova,Simona Halep,R,R,W,20170530,Roland Garros,R128,,Lenglen,Clay,,3,0,jeffsackmann
 20170530-W-Roland_Garros-R128-Agnieszka_Radwanska-Fiona_Ferro,Agnieszka Radwanska,Fiona Ferro,R,R,W,20170530,Roland Garros,R128,,,Clay,,3,0,Isaac
+20170529-W-Roland_Garros-R128-Kiki_Bertens-Ajla_Tomljanovic,Kiki Bertens,Ajla Tomljanovic,R,R,W,20170529,Roland Garros,R128,1:00 PM,Court 2,Clay,,3,1,ChapelHeel66
 20170529-W-Roland_Garros-R128-Jaimee_Fourlis-Caroline_Wozniacki,Jaimee Fourlis,Caroline Wozniacki,R,R,W,20170529,Roland Garros,R128,,Lenglen,Clay,,3,1,jeffsackmann
+20170529-W-Roland_Garros-R128-Anett_Kontaveit-Monica_Niculescu,Anett Kontaveit,Monica Niculescu,R,R,W,20170529,Roland Garros,R128,11:10 AM,Court 4,Clay,Timothee Mevel,3,1,ChapelHeel66
 20170528-W-Roland_Garros-R128-Petra_Kvitova-Julia_Boserup,Petra Kvitova,Julia Boserup,L,R,W,20170528,Roland Garros,R128,11:00 AM,Chatrier,Clay,,3,0,jeffsackmann
 20170528-W-Roland_Garros-R128-Louisa_Chirico-Jelena_Ostapenko,Louisa Chirico,Jelena Ostapenko,R,R,W,20170528,Roland Garros,R128,,6,Clay,Jennifer Travers,3,0,jeffsackmann
 20170528-W-Roland_Garros-R128-Angelique_Kerber-Ekaterina_Makarova,Angelique Kerber,Ekaterina Makarova,L,L,W,20170528,Roland Garros,R128,,,Clay,,3,0,Isaac
@@ -960,6 +1009,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20151006-W-Beijing-R32-Ana_Ivanovic-Venus_Williams,Ana Ivanovic,Venus Williams,R,R,W,20151006,Beijing,R32,7:30 PM,Centre,Hard,Eva Asderaki-Moore,3,1,Edo
 20151006-W-Beijing-R16-Irina_Falconi-Garbine_Muguruza,Irina Falconi,Garbine Muguruza,R,R,W,20151006,Beijing,R16,,,Hard,,3,1,Amy
 20151005-W-Beijing-R16-Kateryna_Bondarenko-Madison_Keys,Kateryna Bondarenko,Madison Keys,R,R,W,20151005,Beijing,R16,,Moon Court,Hard,,3,1,Amy
+20151004-W-Wuhan-F-Venus_Williams-Garbine_Muguruza,Venus Williams,Garbine Muguruza,R,R,W,20151004,Wuhan,F,3pm,Centre,Hard,Kader Nouni,3,1,Edo
 20151002-W-Wuhan-SF-Angelique_Kerber-Garbine_Muguruza,Angelique Kerber,Garbine Muguruza,L,R,W,20151002,Wuhan,SF,,Cebtre,Hard,Juan Zhang,3,1,Lowell
 20150930-W-Wuhan-R16-Johanna_Konta-Simona_Halep,Johanna Konta,Simona Halep,R,R,W,20150930,Wuhan,R16,,Center,Hard,,3,1,jeffsackmann
 20150929-W-Wuhan-R32-Simona_Halep-Anastasia_Pavlyuchenkova,Simona Halep,Anastasia Pavlyuchenkova,R,R,W,20150929,Wuhan,R32,,Center,Hard,,3,1,jeffsackmann
@@ -1534,6 +1584,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20140214-W-Doha-QF-Sara_Errani-Simona_Halep,Sara Errani,Simona Halep,R,R,W,20140214,Doha,QF,,,Hard,,3,1,jeffsackmann
 20140214-W-Doha-QF-Petra_Cetkovska-Angelique_Kerber,Petra Cetkovska,Angelique Kerber,R,L,W,20140214,Doha,QF,,,Hard,,3,1,Lowell
 20140213-W-Fed_Cup_WG_R1-RR-Karin_Knapp-Alison_Riske,Karin Knapp,Alison Riske,R,R,W,20140213,Fed Cup WG R1,RR,,,Hard,,3,1,jeffsackmann
+20140209-W-Fed_Cup_G1_PO-RR-Simona_Halep-Elina_Svitolina,Simona Halep,Elina Svitolina,R,R,W,20140209,Fed Cup G1 PO,RR,,,Hard,,3,1,jeffsackmann
 20140202-W-Pattaya_City-F-Ekaterina_Makarova-Karolina_Pliskova,Ekaterina Makarova,Karolina Pliskova,L,R,W,20140202,Pattaya City,F,,,Hard,Juan Zhang,3,1,jeffsackmann
 20140201-W-Paris_Open-SF-Alize_Cornet-Sara_Errani,Alize Cornet,Sara Errani,R,R,W,20140201,Paris Open,SF,6:15 PM,Stade Pierre de Coubertin,Hard,,3,1,Lowell
 20140125-W-Australian_Open-F-Dominika_Cibulkova-Na_Li,Dominika Cibulkova,Na Li,R,R,W,20140125,Australian Open,F,,Rod Laver Arena,Hard,,3,1,Lowell
@@ -1747,6 +1798,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20090912-W-US_Open-SF-Kim_Clijsters-Serena_Williams,Kim Clijsters,Serena Williams,R,R,W,20090912,US Open,SF,21:21,Arthur Ashe Stadium,Hard,Louise Engzell,3,1,1HandBH
 20090912-W-US_Open-F-Kim_Clijsters-Caroline_Wozniacki,Kim Clijsters,Caroline Wozniacki,R,R,W,20090912,US Open,F,,Ashe,Hard,,3,1,jeffsackmann
 20090906-W-US_Open-R16-Flavia_Pennetta-Vera_Zvonareva,Flavia Pennetta,Vera Zvonareva,R,R,W,20090906,US Open,R16,,Arthur Ashe Stadium,Hard,Lynn Welch,3,1,Salvo
+20090823-W-Toronto-F-Elena_Dementieva-Maria_Sharapova,Elena Dementieva,Maria Sharapova,R,R,W,20090823,Toronto,F,,,Hard,Kader Nouni,3,1,jeffsackmann
 20090813-W-Cincinnati-R16-Kim_Clijsters-Svetlana_Kuznetsova,Kim Clijsters,Svetlana Kuznetsova,R,R,W,20090813,Cincinnati,R16,14:10,Stadium,Hard,,3,1,1HandBH
 20090704-W-Wimbledon-F-Venus_Williams-Serena_Williams,Venus Williams,Serena Williams,R,R,W,20090704,Wimbledon,F,,Center ,Grass,,3,1,Isaac
 20090629-W-Wimbledon-R16-Elena_Dementieva-Elena_Vesnina,Elena Dementieva,Elena Vesnina,R,R,W,20090629,Wimbledon,R16,,,Grass,Lynn Welch,3,0,jeffsackmann
