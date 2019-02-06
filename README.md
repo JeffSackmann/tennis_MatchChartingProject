@@ -4,7 +4,7 @@ The goal of the Match Charting Project (MCP) is to amass detailed records of pro
 
 MCP match records contain shot-by-shot data for every point of a match, including the type of shot, direction of shot, depth of returns, types of errors, and more. There is no publicly-available data like this anywhere else. To get an idea of the possibilities, aggregate match-level data is available for every submitted match at my website[1].
 
-I started this project in late 2013[2], and since then, dozens of contributors[3] have recorded over 1,400 matches. This repo contains both the raw point-by-point data from these matches and extensive match-level aggregate totals.
+I started this project in late 2013[2], and since then, dozens of contributors[3] have recorded over 5,000 matches. This repo contains both the raw point-by-point data from these matches and extensive match-level aggregate totals.
 
 Files are separated into men's ('-m-') and women's ('-w-') matches. The '-matches' files contain metadata for each match, including the player names, tournament, date, surface, and more. The '-points' files contain extensive data on each point.
 
@@ -27,6 +27,8 @@ New matches are submitted several times per week. As the project continues to gr
 
 In other words: Attribution is required. Non-commercial use only.
 
+I'm serious about the license, and I'm really disappointed with the handful of people who have chosen to violate it. If violations continue, I may stop updating the repo entirely. If you're going to use something that has required thousands of person-hours to build and maintain, it seems to reasonable to require that you understand and follow a simple license.
+
 ---
 
 [1] http://www.tennisabstract.com/charting/meta.html
@@ -35,6 +37,6 @@ In other words: Attribution is required. Non-commercial use only.
 
 [3] http://www.tennisabstract.com/charting/meta.html#contributors
 
-[4] MatchChart 0.1.x.xlsm, included in this repo
+[4] MatchChart 0.x.x.xlsm, included in this repo
 
 [5] http://www.twitter.com/tennisabstract
