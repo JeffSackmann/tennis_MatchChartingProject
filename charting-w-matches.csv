@@ -1,4 +1,47 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20200807-W-Fed_Cup_Qualifiers-RR-Naomi_Osaka-Sara_Sorribes_Tormo,Naomi Osaka,Sara Sorribes Tormo,R,R,W,20200807,Fed Cup Qualifiers,RR,13:15,,Clay,,3,1,Zindaras
+20200216-W-St_Petersburg-F-Elena_Rybakina-Kiki_Bertens,Elena Rybakina,Kiki Bertens,R,R,W,20200216,St Petersburg,F,16:45,Centre,Hard,Kader Nouni,3,1,Zindaras
+20200216-W-Hua_Hin-F-Magda_Linette-Leonie_Kung,Magda Linette,Leonie Kung,R,R,W,20200216,Hua Hin,F,5:10 PM,Center,Hard,Miriam Bley,3,1,ChapelHeel66
+20200215-W-St_Petersburg-SF-Ekaterina_Alexandrova-Kiki_Bertens,Ekaterina Alexandrova,Kiki Bertens,R,R,W,20200215,St Petersburg,SF,,Sibur Arena,Hard,,3,1,Zindaras
+20200214-W-St_Petersburg-QF-Anastasia_Potapova-Kiki_Bertens,Anastasia Potapova,Kiki Bertens,R,R,W,20200214,St Petersburg,QF,18:40,Centre,Hard,Marija Cicak,3,1,Zindaras
+20200211-W-St_Petersburg-R32-Veronika_Kudermetova-Yulia_Putintseva,Veronika Kudermetova,Yulia Putintseva,R,R,W,20200211,St Petersburg,R32,2:45 PM,Sibur Arena,Hard,Marija Cicak,3,1,ChapelHeel66
+20200211-W-St_Petersburg-R32-Darya_Kasatkina-Ekaterina_Alexandrova,Darya Kasatkina,Ekaterina Alexandrova,R,R,W,20200211,St Petersburg,R32,8:50 PM,Sibur Arena,Hard,Kader Nouni,3,1,ChapelHeel66
+20200210-W-Hua_Hin-R32-Storm_Sanders-Ulrikke_Eikeri,Storm Sanders,Ulrikke Eikeri,L,R,W,20200210,Hua Hin,R32,,2,Hard,,3,1,Zindaras
+20200208-W-Fed_Cup_Qualifiers-RR-Aryna_Sabalenka-Kiki_Bertens,Aryna Sabalenka,Kiki Bertens,R,R,W,20200208,Fed Cup Qualifiers,RR,,,Clay,,3,1,Zindaras
+20200208-W-Fed_Cup_Qualifiers-RR-Aliaksandra_Sasnovich-Arantxa_Rus,Aliaksandra Sasnovich,Arantxa Rus,R,L,W,20200208,Fed Cup Qualifiers,RR,15:00,,Clay,Nico Helwerth,3,1,Zindaras
+20200207-W-Fed_Cup_Qualifiers-RR-Aliaksandra_Sasnovich-Kiki_Bertens,Aliaksandra Sasnovich,Kiki Bertens,R,R,W,20200207,Fed Cup Qualifiers,RR,14:10,,Clay,Nico Helwerth,3,1,Zindaras
+20200201-W-Australian_Open_Juniors-F-Victoria_Jimenez_Kasintseva-Weronika_Baszak,Victoria Jimenez Kasintseva,Weronika Baszak,L,R,W,20200201,Australian Open Juniors,F,12:30,Rod Laver Arena,Hard,,3,A,Carrie
+20200201-W-Australian_Open-F-Sofia_Kenin-Garbine_Muguruza,Sofia Kenin,Garbine Muguruza,R,R,W,20200201,Australian Open,F,7pm,Rod Laver Arena,Hard,Eva Asderaki-Moore,3,A,Edo
+20200130-W-Australian_Open-SF-Ashleigh_Barty-Sofia_Kenin,Ashleigh Barty,Sofia Kenin,R,R,W,20200130,Australian Open,SF,14:00 PM,Rod Laver Arena,Hard,,3,A,Isaac
+20200128-W-Australian_Open-QF-Ons_Jabeur-Sofia_Kenin,Ons Jabeur,Sofia Kenin,R,R,W,20200128,Australian Open,QF,11:15,Rod Laver,Hard,Juan Zhang,3,A,Zindaras
+20200127-W-Australian_Open-R16-Garbine_Muguruza-Kiki_Bertens,Garbine Muguruza,Kiki Bertens,R,R,W,20200127,Australian Open,R16,15:25,Rod Laver Arena,Hard,Nico Helwerth,3,A,Zindaras
+20200125-W-Australian_Open-R32-Zarina_Diyas-Kiki_Bertens,Zarina Diyas,Kiki Bertens,R,R,W,20200125,Australian Open,R32,21:30,Margaret Court Arena,Hard,,3,A,Zindaras
+20200125-W-Australian_Open-R32-Iga_Swiatek-Donna_Vekic,Iga Swiatek,Donna Vekic,R,R,W,20200125,Australian Open,R32,13:00,1573 Arena,Hard,,3,A,tsitsi
+20200124-W-Australian_Open-R32-Cori_Gauff-Naomi_Osaka,Cori Gauff,Naomi Osaka,R,R,W,20200124,Australian Open,R32,1915,Rod Laver Arena,Hard,Marijana Veljovic,3,A,Carrie
+20200124-W-Australian_Open-R32-Caroline_Wozniacki-Ons_Jabeur,Caroline Wozniacki,Ons Jabeur,R,R,W,20200124,Australian Open,R32,12:45,Melbourne Arena,Hard,Aurelie Tourte,3,A,Zindaras
+20200123-W-Australian_Open-R64-Lauren_Davis-Elina_Svitolina,Lauren Davis,Elina Svitolina,R,R,W,20200123,Australian Open,R64,23:10,,Hard,Manuel Absolu,3,A,Zindaras
+20200123-W-Australian_Open-R64-Karolina_Muchova-Catherine_Cartan_Bellis,Karolina Muchova,Catherine Cartan Bellis,R,R,W,20200123,Australian Open,R64,14:50,1573 Arena,Hard,Damien Dumusois,3,A,Zindaras
+20200123-W-Australian_Open-R64-Iga_Swiatek-Carla_Suarez_Navarro,Iga Swiatek,Carla Suarez Navarro,R,R,W,20200123,Australian Open,R64,,14,Hard,,3,A,Zindaras
+20200123-W-Australian_Open-R64-Arina_Rodionova-Kiki_Bertens,Arina Rodionova,Kiki Bertens,R,R,W,20200123,Australian Open,R64,16:55,8,Hard,Marijana Veljovic,3,A,Zindaras
+20200122-W-Australian_Open-R64-Caroline_Wozniacki-Dayana_Yastremska,Caroline Wozniacki,Dayana Yastremska,R,R,W,20200122,Australian Open,R64,12:50,Margaret Court Arena,Hard,Miriam Bley,3,A,Zindaras
+20200122-W-Australian_Open-R64-Arantxa_Rus-Madison_Keys,Arantxa Rus,Madison Keys,L,R,W,20200122,Australian Open,R64,22:55,Rod Laver Arena,Hard,Thomas Sweeney,3,A,Zindaras
+20200121-W-Australian_Open-R128-Svetlana_Kuznetsova-Marketa_Vondrousova,Svetlana Kuznetsova,Marketa Vondrousova,R,L,W,20200121,Australian Open,R128,,7,Hard,,3,A,Zindaras
+20200121-W-Australian_Open-R128-Rebecca_Peterson-Polona_Hercog,Rebecca Peterson,Polona Hercog,R,R,W,20200121,Australian Open,R128,11:10,Melbourne Arena,Hard,John Blom,3,A,tsitsi
+20200121-W-Australian_Open-R128-Magda_Linette-Arantxa_Rus,Magda Linette,Arantxa Rus,R,L,W,20200121,Australian Open,R128,13:55,5,Hard,,3,A,Zindaras
+20200121-W-Australian_Open-R128-Kirsten_Flipkens-Karolina_Muchova,Kirsten Flipkens,Karolina Muchova,R,R,W,20200121,Australian Open,R128,,13,Hard,Tiago Sturmer,3,A,Zindaras
+20200121-W-Australian_Open-R128-Kiki_Bertens-Irina_Camelia_Begu,Kiki Bertens,Irina Camelia Begu,R,R,W,20200121,Australian Open,R128,18:50,3,Hard,Gregory Allensworth,3,A,Zindaras
+20200121-W-Australian_Open-R128-Kateryna_Bondarenko-Arina_Rodionova,Kateryna Bondarenko,Arina Rodionova,R,R,W,20200121,Australian Open,R128,,8,Hard,,3,A,Zindaras
+20200121-W-Australian_Open-R128-Donna_Vekic-Maria_Sharapova,Donna Vekic,Maria Sharapova,R,R,W,20200121,Australian Open,R128,13:00,Rod Laver Arena,Hard,,3,A,Carrie
+20200121-W-Australian_Open-R128-Anna_Blinkova-Jasmine_Paolini,Anna Blinkova,Jasmine Paolini,R,R,W,20200121,Australian Open,R128,,14,Hard,,3,A,Zindaras
+20200121-W-Australian_Open-R128-Alize_Cornet-Monica_Niculescu,Alize Cornet,Monica Niculescu,R,R,W,20200121,Australian Open,R128,,12,Hard,,3,A,Zindaras
+20200120-W-Australian_Open-R128-Marie_Bouzkova-Naomi_Osaka,Marie Bouzkova,Naomi Osaka,R,R,W,20200120,Australian Open,R128,11:15,Rod Laver Arena,Hard,Mohamed Lahyani,3,A,Zindaras
+20200120-W-Australian_Open-R128-Jil_Belen_Teichmann-Ekaterina_Alexandrova,Jil Belen Teichmann,Ekaterina Alexandrova,L,R,W,20200120,Australian Open,R128,,19,Hard,,3,A,Zindaras
+20200120-W-Australian_Open-R128-Caroline_Wozniacki-Kristie_Ahn,Caroline Wozniacki,Kristie Ahn,R,R,W,20200120,Australian Open,R128,13:25,Melbourne Arena,Hard,,3,A,Zindaras
+20200120-W-Australian_Open-R128-Ashleigh_Barty-Lesia_Tsurenko,Ashleigh Barty,Lesia Tsurenko,R,R,W,20200120,Australian Open,R128,19:15,Rod Laver Arena,Hard,,3,A,Carrie
+20200117-W-Australian_Open-Q2-Leylah_Annie_Fernandez-Mayo_Hibi,Leylah Annie Fernandez,Mayo Hibi,L,R,W,20200117,Australian Open,Q2,,5,Hard,Dorin Ursu,3,A,Zindaras
+20200116-W-Hobart-QF-Lizette_Cabrera-Elena_Rybakina,Lizette Cabrera,Elena Rybakina,R,R,W,20200116,Hobart,QF,20:30,Centre,Hard,Marta Mrozinska,3,1,tsitsi
+20200115-W-Australian_Open-Q1-Lesley_Kerkhove-Eva_Guerrero_Alvarez,Lesley Kerkhove,Eva Guerrero Alvarez,R,R,W,20200115,Australian Open,Q1,,14,Hard,,3,A,Zindaras
+20200114-W-Australian_Open-Q1-Rebecca_Sramkova-Maddison_Inglis,Rebecca Sramkova,Maddison Inglis,R,R,W,20200114,Australian Open,Q1,,8,Hard,Luca Laugero,3,A,Zindaras
 20200112-W-Auckland-F-Serena_Williams-Jessica_Pegula,Serena Williams,Jessica Pegula,R,R,W,20200112,Auckland,F,,Centre,Hard,Paula Vieira-Souza,3,1,Zindaras
 20200111-W-Brisbane-SF-Naomi_Osaka-Karolina_Pliskova,Naomi Osaka,Karolina Pliskova,R,R,W,20200111,Brisbane,SF,16:45,Pat Rafter Arena,Hard,Miriam Bley,3,1,tsitsi
 20200111-W-Auckland-SF-Caroline_Wozniacki-Jessica_Pegula,Caroline Wozniacki,Jessica Pegula,R,R,W,20200111,Auckland,SF,15:10,Centre,Hard,Nacho Forcadell,3,1,tsitsi
@@ -66,6 +109,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20190926-W-Wuhan-QF-Dayana_Yastremska-Petra_Kvitova,Dayana Yastremska,Petra Kvitova,R,L,W,20190926,Wuhan,QF,,Center,Hard,Miriam Bley,3,1,Lowell
 20190926-W-Wuhan-QF-Ashleigh_Barty-Petra_Martic,Ashleigh Barty,Petra Martic,R,R,W,20190926,Wuhan,QF,,Center,Hard,Pierre Bacchi,3,1,Lowell
 20190925-W-Wuhan-R16-Svetlana_Kuznetsova-Elina_Svitolina,Svetlana Kuznetsova,Elina Svitolina,R,R,W,20190925,Wuhan,R16,,Center,Hard,Isabell Seefried,3,1,Lowell
+20190925-W-Wuhan-R16-Sloane_Stephens-Petra_Kvitova,Sloane Stephens,Petra Kvitova,R,L,W,20190925,Wuhan,R16,,Centre,Hard,Pierre Bacchi,3,1,Lowell
 20190925-W-Wuhan-R16-Ashleigh_Barty-Sofia_Kenin,Ashleigh Barty,Sofia Kenin,R,R,W,20190925,Wuhan,R16,,Center,Hard,Cecilia Alberti,3,1,Lowell
 20190924-W-Wuhan-R32-Karolina_Pliskova-Amanda_Anisimova,Karolina Pliskova,Amanda Anisimova,R,R,W,20190924,Wuhan,R32,,Centre,Hard,Kader Nouni,3,1,Lowell
 20190924-W-Wuhan-R32-Bernarda_Pera-Kiki_Bertens,Bernarda Pera,Kiki Bertens,L,R,W,20190924,Wuhan,R32,18:20,1,Hard,,3,1,Zindaras
@@ -111,6 +155,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20190826-W-US_Open-R128-Angelique_Kerber-Kristina_Mladenovic,Angelique Kerber,Kristina Mladenovic,L,R,W,20190826,US Open,R128,12:35 PM,Grandstand,Hard,,3,1,Carrie
 20190818-W-New_York-Q3-Jil_Belen_Teichmann-Laura_Siegemund,Jil Belen Teichmann,Laura Siegemund,L,R,W,20190818,New York,Q3,11:05,,Hard,Marta Mrozinska,3,1,Zindaras
 20190817-W-Cincinnati-SF-Madison_Keys-Sofia_Kenin,Madison Keys,Sofia Kenin,R,R,W,20190817,Cincinnati,SF,15:55,Center,Hard,Julie Kjendlie,3,1,Zindaras
+20190816-W-Cincinnati-QF-Madison_Keys-Venus_Williams,Madison Keys,Venus Williams,R,R,W,20190816,Cincinnati,QF,7:10PM,Center,Hard,Mariana Alves,3,1,Lowell
 20190816-W-Cincinnati-QF-Ashleigh_Barty-Maria_Sakkari,Ashleigh Barty,Maria Sakkari,R,R,W,20190816,Cincinnati,QF,11:10AM,Center,Hard,Julie Kjendlie,3,1,Lowell
 20190815-W-Cincinnati-R16-Sofia_Kenin-Elina_Svitolina,Sofia Kenin,Elina Svitolina,R,R,W,20190815,Cincinnati,R16,9:05PM,Center,Hard,Marija Cicak,3,1,Lowell
 20190814-W-Cincinnati-R32-Anett_Kontaveit-Iga_Swiatek,Anett Kontaveit,Iga Swiatek,R,R,W,20190814,Cincinnati,R32,,7,Hard,,3,1,Lowell
@@ -205,6 +250,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20190520-W-Strasbourg-R32-Chloe_Paquet-Sofia_Kenin,Chloe Paquet,Sofia Kenin,R,R,W,20190520,Strasbourg,R32,11:15,Centre,Clay,Nikola Srecec,3,1,Zindaras
 20190518-W-Rome-SF-Kiki_Bertens-Johanna_Konta,Kiki Bertens,Johanna Konta,R,R,W,20190518,Rome,SF,12:25,Centre,Clay,Kader Nouni,3,1,Zindaras
 20190517-W-Rome-QF-Marketa_Vondrousova-Johanna_Konta,Marketa Vondrousova,Johanna Konta,L,R,W,20190517,Rome,QF,4:50PM,Center,Clay,Cecilia Alberti,3,1,Lowell
+20190517-W-Rome-QF-Maria_Sakkari-Kristina_Mladenovic,Maria Sakkari,Kristina Mladenovic,R,R,W,20190517,Rome,QF,7:40PM,Centre,Clay,Mariana Alves,3,1,Lowell
 20190516-W-Rome-R32-Amanda_Anisimova-Kiki_Bertens,Amanda Anisimova,Kiki Bertens,R,R,W,20190516,Rome,R32,10:10,Grandstand,Clay,Kader Nouni,3,1,Zindaras
 20190516-W-Rome-R16-Carla_Suarez_Navarro-Kiki_Bertens,Carla Suarez Navarro,Kiki Bertens,R,R,W,20190516,Rome,R16,16:25,6,Clay,,3,1,Zindaras
 20190514-W-Rome-R32-Karolina_Pliskova-Ajla_Tomljanovic,Karolina Pliskova,Ajla Tomljanovic,R,R,W,20190514,Rome,R32,5:55 PM,Pietrangeli,Clay,Kelly Thomson,3,1,ChapelHeel66
@@ -538,6 +584,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20170120-W-Australian_Open-R32-Venus_Williams-Ying_Ying_Duan,Venus Williams,Ying Ying Duan,R,R,W,20170120,Australian Open,R32,,,Hard,,3,0,Isaac
 20170120-W-Australian_Open-R32-Eugenie_Bouchard-Coco_Vandeweghe,Eugenie Bouchard,Coco Vandeweghe,R,R,W,20170120,Australian Open,R32,,Rod Laver-Roof Closed,Hard,Juan Zhang,3,0,@CanuckKicker
 20170120-W-Australian_Open-R32-Ashleigh_Barty-Mona_Barthel,Ashleigh Barty,Mona Barthel,R,R,W,20170120,Australian Open,R32,18:15,Rod Laver Arena,Hard,Eva Asderaki-Moore,3,0,1HandBH
+20170119-W-Australian_Open-R64-Agnieszka_Radwanska-Mirjana_Lucic,Agnieszka Radwanska,Mirjana Lucic,R,R,W,20170119,Australian Open,R64,,,Hard,,3,1,Isaac
 20170118-W-Australian_Open-R64-Shuai_Peng-Eugenie_Bouchard,Shuai Peng,Eugenie Bouchard,R,R,W,20170118,Australian Open,R64,,,Hard,,3,0,@CanuckKicker
 20170118-W-Australian_Open-R64-Ashleigh_Barty-Shelby_Rogers,Ashleigh Barty,Shelby Rogers,R,R,W,20170118,Australian Open,R64,,,Hard,,3,0,Isaac
 20170116-W-Australian_Open-R128-Louisa_Chirico-Eugenie_Bouchard,Louisa Chirico,Eugenie Bouchard,R,R,W,20170116,Australian Open,R128,,,,Simon Cannavan,3,0,@CanuckKicker
@@ -1011,6 +1058,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20130322-W-Miami-R64-Eugenie_Bouchard-Maria_Sharapova,Eugenie Bouchard,Maria Sharapova,R,R,W,20130322,Miami,R64,,,Hard,,3,1,Isaac
 20130221-W-Dubai-QF-Agnieszka_Radwanska-Petra_Kvitova,Agnieszka Radwanska,Petra Kvitova,R,L,W,20130221,Dubai,QF,10:00 PM,Centre,Hard,,3,1,Lowell
 20130219-W-Dubai-R32-Samantha_Stosur-Ekaterina_Makarova,Samantha Stosur,Ekaterina Makarova,R,L,W,20130219,Dubai,R32,8:30 PM,Centre,Hard,,3,1,Lowell
+20130201-W-Paris-QF-Kiki_Bertens-Lucie_Safarova,Kiki Bertens,Lucie Safarova,R,L,W,20130201,Paris,QF,,,Hard,Kader Nouni,3,1,Zindaras
 20130131-W-Paris-R16-Dominika_Cibulkova-Kiki_Bertens,Dominika Cibulkova,Kiki Bertens,R,R,W,20130131,Paris,R16,,,Hard,Aurelie Tourte,3,1,Zindaras
 20130124-W-Australian_Open-SF-Sloane_Stephens-Victoria_Azarenka,Sloane Stephens,Victoria Azarenka,R,R,W,20130124,Australian Open,SF,,,Hard,,3,1,Amy
 20130123-W-Australian_Open-QF-Svetlana_Kuznetsova-Victoria_Azarenka,Svetlana Kuznetsova,Victoria Azarenka,R,R,W,20130123,Australian Open,QF,,,Hard,,3,1,Amy
