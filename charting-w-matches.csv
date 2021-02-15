@@ -1,4 +1,21 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20210210-W-Australian_Open-R64-Bianca_Andreescu-Su_Wei_Hsieh,Bianca Andreescu,Su Wei Hsieh,R,R,W,20210210,Australian Open,R64,11:00 AM,Rod Laver Arena,Hard,Nacho Forcadell,3,A,ojustino
+20210208-W-Australian_Open-R128-Tsvetana_Pironkova-Su_Wei_Hsieh,Tsvetana Pironkova,Su Wei Hsieh,R,R,W,20210208,Australian Open,R128,,13,Hard,,3,A,Zindaras
+20210208-W-Australian_Open-R128-Serena_Williams-Laura_Siegemund,Serena Williams,Laura Siegemund,R,R,W,20210208,Australian Open,R128,,Rod Laver Arena,Hard,,3,1,Isaac
+20210208-W-Australian_Open-R128-Iga_Swiatek-Arantxa_Rus,Iga Swiatek,Arantxa Rus,R,L,W,20210208,Australian Open,R128,13:00,1573 Arena,Hard,Adel Nour,3,A,Zindaras
+20210207-W-Australian_Open-R128-Bianca_Andreescu-Mihaela_Buzarnescu,Bianca Andreescu,Mihaela Buzarnescu,R,L,W,20210207,Australian Open,R128,16:10,John Cain Arena,Hard,John Blom,3,A,Zindaras
+20210206-W-Grampians_Trophy-QF-Sorana_Cirstea-Ann_Li,Sorana Cirstea,Ann Li,R,R,W,20210206,Grampians Trophy,QF,,,Hard,,3,1,Isaac
+20210205-W-Yarra_Valley_Classic-QF-Sofia_Kenin-Garbine_Muguruza,Sofia Kenin,Garbine Muguruza,R,R,W,20210205,Yarra Valley Classic,QF,,Margaret Court Arena,Hard,Marta Mrozinska,3,1,Isaac
+20210203-W-Yarra_Valley_Classic-R16-Petra_Kvitova-Nadia_Podoroska,Petra Kvitova,Nadia Podoroska,L,R,W,20210203,Yarra Valley Classic,R16,,7,Hard,Julie Kjendlie,3,1,ojustino
+20210203-W-Grampians_Trophy-R32-Sorana_Cirstea-Oksana_Kalashnikova,Sorana Cirstea,Oksana Kalashnikova,R,L,W,20210203,Grampians Trophy,R32,,5,Hard,Marijana Veljovic,3,1,Zindaras
+20210203-W-Grampians_Trophy-R32-Marta_Kostyuk-Gabriela_Dabrowski,Marta Kostyuk,Gabriela Dabrowski,R,R,W,20210203,Grampians Trophy,R32,,5,Hard,Kelly Thomson,3,1,Zindaras
+20210203-W-Gippsland_Trophy-R16-Jasmine_Paolini-Karolina_Muchova,Jasmine Paolini,Karolina Muchova,R,R,W,20210203,Gippsland Trophy,R16,,7,Hard,,3,1,Zindaras
+20210202-W-Yarra_Valley_Classic-R32-Venus_Williams-Petra_Kvitova,Venus Williams,Petra Kvitova,R,L,W,20210202,Yarra Valley Classic,R32,,Margaret Court Arena,Hard,,3,1,Isaac
+20210202-W-Yarra_Valley_Classic-R32-Marie_Bouzkova-Aliona_Bolsova,Marie Bouzkova,Aliona Bolsova,R,R,W,20210202,Yarra Valley Classic,R32,,5,Hard,,3,1,Zindaras
+20210202-W-Gippsland_Trophy-R32-Kaja_Juvan-Iga_Swiatek,Kaja Juvan,Iga Swiatek,R,R,W,20210202,Gippsland Trophy,R32,,,Hard,Richard Haigh,3,1,Zindaras
+20210131-W-Gippsland_Trophy-R64-Jasmine_Paolini-Rebecca_Marino,Jasmine Paolini,Rebecca Marino,R,R,W,20210131,Gippsland Trophy,R64,,7,Hard,,3,1,Zindaras
+20210111-W-Abu_Dhabi-QF-Veronika_Kudermetova-Elina_Svitolina,Veronika Kudermetova,Elina Svitolina,R,R,W,20210111,Abu Dhabi,QF,12:30:00,Centre,Hard,,3,1,TM
+20210110-W-Abu_Dhabi-R16-Ekaterina_Alexandrova-Elina_Svitolina,Ekaterina Alexandrova,Elina Svitolina,R,R,W,20210110,Abu Dhabi,R16,,Centre,Hard,Pablo Rodriguez,3,1,ojustino
 20201010-W-Roland_Garros-F-Iga_Swiatek-Sofia_Kenin,Iga Swiatek,Sofia Kenin,R,R,W,20201010,Roland Garros,F,15:10,Philippe Chatrier,Clay,Louise Azemar Engzell,3,0,Zindaras
 20201008-W-Roland_Garros-SF-Iga_Swiatek-Nadia_Podoroska,Iga Swiatek,Nadia Podoroska,R,R,W,20201008,Roland Garros,SF,15:10,Philippe Chatrier,Clay,Kader Nouni,3,0,Zindaras
 20201006-W-Roland_Garros-QF-Iga_Swiatek-Martina_Trevisan,Iga Swiatek,Martina Trevisan,R,L,W,20201006,Roland Garros,QF,21:00,Philippe Chatrier,Clay,,3,0,Zindaras
@@ -6,12 +23,16 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20201002-W-Roland_Garros-R32-Kiki_Bertens-Katerina_Siniakova,Kiki Bertens,Katerina Siniakova,R,R,W,20201002,Roland Garros,R32,19:40,Philippe Chatrier,Clay,Alexandre Juge,3,1,Zindaras
 20201001-W-Roland_Garros-R64-Elena_Rybakina-Fiona_Ferro,Elena Rybakina,Fiona Ferro,R,R,W,20201001,Roland Garros,R64,18:30,Philippe Chatrier,Clay,James Keothavong,3,1,Carrie
 20200930-W-Roland_Garros-R64-Kiki_Bertens-Sara_Errani,Kiki Bertens,Sara Errani,R,R,W,20200930,Roland Garros,R64,1/0/1900 11:55,,Clay,Kader Nouni,3,0,Zindaras
+20200929-W-Roland_Garros-R128-Irina_Maria_Bara-Donna_Vekic,Irina Maria Bara,Donna Vekic,R,R,W,20200929,Roland Garros,R128,,Court 4,Clay,Aurelie Tourte,3,0,Zindaras
+20200929-W-Roland_Garros-R128-Danielle_Rose_Collins-Monica_Niculescu,Danielle Rose Collins,Monica Niculescu,R,R,W,20200929,Roland Garros,R128,,4,Clay,Robert Balmforth,3,0,Zindaras
+20200929-W-Roland_Garros-R128-Clara_Tauson-Jennifer_Brady,Clara Tauson,Jennifer Brady,R,R,W,20200929,Roland Garros,R128,11:10,Simonne Mathieu,Clay,Steeve Danchet,3,0,Zindaras
 20200928-W-Roland_Garros-R128-Katarina_Zavatska-Kiki_Bertens,Katarina Zavatska,Kiki Bertens,R,R,W,20200928,Roland Garros,R128,13:00,Suzanne Lenglen,Clay,Manuel Absolu,3,0,Zindaras
 20200928-W-Roland_Garros-R128-Kaja_Juvan-Angelique_Kerber,Kaja Juvan,Angelique Kerber,R,L,W,20200928,Roland Garros,R128,19:55,,Clay,Alexandre Juge,3,0,Zindaras
 20200928-W-Roland_Garros-R128-Arantxa_Rus-Clara_Burel,Arantxa Rus,Clara Burel,L,R,W,20200928,Roland Garros,R128,,,Clay,Ruth Concas,3,0,Zindaras
 20200927-W-Roland_Garros-R128-Anna_Blinkova-Astra_Sharma,Anna Blinkova,Astra Sharma,R,R,W,20200927,Roland Garros,R128,,10,Clay,Fabio Souza,3,0,Isaac
 20200918-W-Rome-R16-Victoria_Azarenka-Darya_Kasatkina,Victoria Azarenka,Darya Kasatkina,R,R,W,20200918,Rome,R16,,,Clay,,3,1,Isaac
 20200918-W-Rome-R16-Karolina_Pliskova-Anna_Blinkova,Karolina Pliskova,Anna Blinkova,R,R,W,20200918,Rome,R16,,,Clay,Pierre Bacchi,3,1,Isaac
+20200918-W-Rome-R16-Elena_Rybakina-Yulia_Putintseva,Elena Rybakina,Yulia Putintseva,R,R,W,20200918,Rome,R16,,1,Clay,Kader Nouni,3,1,ojustino
 20200917-W-Rome-R32-Kiki_Bertens-Polona_Hercog,Kiki Bertens,Polona Hercog,R,R,W,20200917,Rome,R32,18:50,Pietrangeli,Clay,Fabio Souza,3,1,Zindaras
 20200915-W-Rome-R64-Katerina_Siniakova-Angelique_Kerber,Katerina Siniakova,Angelique Kerber,R,L,W,20200915,Rome,R64,,Pietrangeli,Clay,,3,1,Isaac
 20200915-W-Rome-R64-Iga_Swiatek-Arantxa_Rus,Iga Swiatek,Arantxa Rus,R,L,W,20200915,Rome,R64,,2,Clay,Luca Reggero (?),3,1,Zindaras
@@ -340,6 +361,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20190517-W-Rome-QF-Marketa_Vondrousova-Johanna_Konta,Marketa Vondrousova,Johanna Konta,L,R,W,20190517,Rome,QF,4:50PM,Center,Clay,Cecilia Alberti,3,1,Lowell
 20190517-W-Rome-QF-Maria_Sakkari-Kristina_Mladenovic,Maria Sakkari,Kristina Mladenovic,R,R,W,20190517,Rome,QF,7:40PM,Centre,Clay,Mariana Alves,3,1,Lowell
 20190516-W-Rome-R32-Amanda_Anisimova-Kiki_Bertens,Amanda Anisimova,Kiki Bertens,R,R,W,20190516,Rome,R32,10:10,Grandstand,Clay,Kader Nouni,3,1,Zindaras
+20190516-W-Rome-R16-Venus_Williams-Johanna_Konta,Venus Williams,Johanna Konta,R,R,W,20190516,Rome,R16,,Center,Clay,Kader Nouni,3,1,ARosenquist
 20190516-W-Rome-R16-Carla_Suarez_Navarro-Kiki_Bertens,Carla Suarez Navarro,Kiki Bertens,R,R,W,20190516,Rome,R16,16:25,6,Clay,,3,1,Zindaras
 20190514-W-Rome-R32-Karolina_Pliskova-Ajla_Tomljanovic,Karolina Pliskova,Ajla Tomljanovic,R,R,W,20190514,Rome,R32,5:55 PM,Pietrangeli,Clay,Kelly Thomson,3,1,ChapelHeel66
 20190513-W-Rome-R64-Elisabetta_Cocciaretto-Amanda_Anisimova,Elisabetta Cocciaretto,Amanda Anisimova,R,R,W,20190513,Rome,R64,7:20 PM,2,Clay,Miriam Bley,3,1,ChapelHeel66
@@ -645,6 +667,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20170707-W-Wimbledon-R32-Carina_Witthoeft-Elina_Svitolina,Carina Witthoeft,Elina Svitolina,R,R,W,20170707,Wimbledon,R32,,Court 3,Grass,Tamara Vhovec,3,0,Lowell
 20170705-W-Wimbledon-R64-Elina_Svitolina-Francesca_Schiavone,Elina Svitolina,Francesca Schiavone,R,R,W,20170705,Wimbledon,R64,6:00 pm,Court 12,Grass,Juan Zhang,3,0,Lowell
 20170704-W-Wimbledon-R128-Oceane_Dodin-Lucie_Safarova,Oceane Dodin,Lucie Safarova,R,L,W,20170704,Wimbledon,R128,,Court 3,Grass,,3,1,Lowell
+20170704-W-Wimbledon-R128-Bianca_Andreescu-Kristina_Kucova,Bianca Andreescu,Kristina Kucova,R,R,W,20170704,Wimbledon,R128,,,Grass,,3,0,Zindaras
 20170703-W-Wimbledon-R128-Elina_Svitolina-Ashleigh_Barty,Elina Svitolina,Ashleigh Barty,R,R,W,20170703,Wimbledon,R128,,Court 3,Grass,,3,1,Lowell
 20170622-W-Mallorca-R16-Kirsten_Flipkens-Roberta_Vinci,Kirsten Flipkens,Roberta Vinci,R,R,W,20170622,Mallorca,R16,,Pista Central,Grass,Nacho Forcadell,3,1,Salvo
 20170622-W-Birmingham-R16-Camila_Giorgi-Elina_Svitolina,Camila Giorgi,Elina Svitolina,R,R,W,20170622,Birmingham,R16,,Ann Jones Centre Court,Grass,,3,1,Lowell
@@ -934,6 +957,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20150406-W-Charleston-R64-Silvia_Soler_Espinosa-Shelby_Rogers,Silvia Soler Espinosa,Shelby Rogers,R,R,W,20150406,Charleston,R64,,Billy Jean King Court,Clay,,3,1,Lowell
 20150404-W-Miami-F-Serena_Williams-Carla_Suarez_Navarro,Serena Williams,Carla Suarez Navarro,R,R,W,20150404,Miami,F,1:15 PM,Stadium,Hard,,3,1,Lowell
 20150402-W-Miami-SF-Andrea_Petkovic-Carla_Suarez_Navarro,Andrea Petkovic,Carla Suarez Navarro,R,R,W,20150402,Miami,SF,,Stadium,Hard,Zhang Juan,3,1,BK
+20150401-W-Miami-QF-Serena_Williams-Sabine_Lisicki,Serena Williams,Sabine Lisicki,R,R,W,20150401,Miami,QF,,Stadium,Hard,Felix Torraba,3,1,ojustino
 20150330-W-Miami-R16-Agnieszka_Radwanska-Carla_Suarez_Navarro,Agnieszka Radwanska,Carla Suarez Navarro,R,R,W,20150330,Miami,R16,11:00 AM,1,Hard,,3,1,BK
 20150328-W-Miami-R32-Paula_Badosa-Karolina_Pliskova,Paula Badosa,Karolina Pliskova,R,R,W,20150328,Miami,R32,,1,Hard,,3,1,pavel
 20150327-W-Miami-R64-Jelena_Jankovic-Victoria_Azarenka,Jelena Jankovic,Victoria Azarenka,R,R,W,20150327,Miami,R64,,,Hard,Marija Cicak,3,1,BK
@@ -1185,6 +1209,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20130117-W-Australian_Open-R64-Laura_Robson-Petra_Kvitova,Laura Robson,Petra Kvitova,L,L,W,20130117,Australian Open,R64,9:30 PM,Rod Laver Arena,Hard,,3,0,Lowell
 20130116-W-Australian_Open-R64-Julia_Goerges-Romina_Oprandi,Julia Goerges,Romina Oprandi,R,R,W,20130116,Australian Open,R64,,,Hard,,3,1,Isaac
 20130115-W-Australian_Open-R128-Victoria_Azarenka-Monica_Niculescu,Victoria Azarenka,Monica Niculescu,R,R,W,20130115,Australian Open,R128,,,Hard,,3,1,Amy
+20130115-W-Australian_Open-R128-Nadia_Petrova-Kimiko_Date_Krumm,Nadia Petrova,Kimiko Date Krumm,R,R,W,20130115,Australian Open,R128,11:10,6,Hard,Zsolt Beda,3,0,1HandBH
 20130112-W-Beijing-R16-Agnieszka_Radwanska-Polona_Hercog,Agnieszka Radwanska,Polona Hercog,R,R,W,20130112,Beijing,R16,,,Hard,,3,1,Advanced Baseline
 20130110-W-Hobart-R16-Shuai_Peng-Monica_Niculescu,Shuai Peng,Monica Niculescu,R,R,W,20130110,Hobart,R16,18:30,Centre,Hard,,3,1,1HandBH
 20130110-W-Hobart-QF-Kirsten_Flipkens-Monica_Niculescu,Kirsten Flipkens,Monica Niculescu,R,R,W,20130110,Hobart,QF,18:30,,Hard,Simon Canavan,3,1,1HandBH
@@ -1291,6 +1316,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20080806-W-US_Open-F-Serena_Williams-Jelena_Jankovic,Serena Williams,Jelena Jankovic,R,R,W,20080806,US Open,F,,Arthur Ashe Stadium,Hard,,3,1,Palaver
 20080705-W-Wimbledon-F-Venus_Williams-Serena_Williams,Venus Williams,Serena Williams,R,R,W,20080705,Wimbledon,F,3:00 PM,Centre,Grass,Carlos Ramos,3,0,Edo
 20080607-W-Roland_Garros-F-Dinara_Safina-Ana_Ivanovic,Dinara Safina,Ana Ivanovic,R,R,W,20080607,Roland Garros,F,,Philippe Chatrier,Clay,Emmanuel Joseph,3,0,Salvo
+20080602-W-Roland_Garros-R16-Dinara_Safina-Maria_Sharapova,Dinara Safina,Maria Sharapova,R,R,W,20080602,Roland Garros,R16,1:20 PM,Suzanne Lenglen,Clay,Alison Lang,3,0,ojustino
 20080530-W-Roland_Garros-R32-Serena_Williams-Katarina_Srebotnik,Serena Williams,Katarina Srebotnik,R,R,W,20080530,Roland Garros,R32,,,Clay,,3,0,Amy
 20080328-W-Miami-QF-Serena_Williams-Justine_Henin,Serena Williams,Justine Henin,R,R,W,20080328,Miami,QF,,,Hard,,3,1,Isaac
 20080126-W-Australian_Open-F-Ana_Ivanovic-Maria_Sharapova,Ana Ivanovic,Maria Sharapova,R,R,W,20080126,Australian Open,F,,Rod Laver Arena,Hard,,3,0,Palaver
@@ -1389,6 +1415,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19980702-W-Wimbledon-SF-Martina_Hingis-Jana_Novotna,Martina Hingis,Jana Novotna,R,R,W,19980702,Wimbledon,SF,,Centre,Grass,Fiona Edwards,3,0,tsitsi
 19980604-W-Roland_Garros-F-Monica_Seles-Arantxa_Sanchez_Vicario,Monica Seles,Arantxa Sanchez Vicario,L,R,W,19980604,Roland Garros,F,,Court Central,Clay,Anne Lassere-Ullrich,3,0,Isaac
 19980131-W-Australian_Open-F-Martina_Hingis-Conchita_Martinez,Martina Hingis,Conchita Martinez,R,R,W,19980131,Australian Open,F,3:00 PM,Rod Laver Arena,Hard,,3,0,Edo
+19980121-W-Australian_Open-R64-Serena_Williams-Venus_Williams,Serena Williams,Venus Williams,R,R,W,19980121,Australian Open,R64,,Centre,Hard,Jane Harvey,3,0,ojustino
 19970906-W-US_Open-F-Venus_Williams-Martina_Hingis,Venus Williams,Martina Hingis,R,R,W,19970906,US Open,F,3:00 PM,Ashe,Hard,Alison Lang,3,1,Edo
 19970705-W-Wimbledon-F-Martina_Hingis-Jana_Novotna,Martina Hingis,Jana Novotna,R,R,W,19970705,Wimbledon,F,2:00 PM,Centre,Grass,Jeremy Shales,3,0,Edo
 19970704-W-Wimbledon-SF-Martina_Hingis-Anna_Kournikova,Martina Hingis,Anna Kournikova,R,R,W,19970704,Wimbledon,SF,12am,Centre,Grass,A woman,3,0,Edo
@@ -1487,3 +1514,4 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19810703-W-Wimbledon-F-Hana_Mandlikova-Chris_Evert,Hana Mandlikova,Chris Evert,R,R,W,19810703,Wimbledon,F,2:00 PM,Centre,Grass,Bill Pickup,3,0,Edo
 19810420-W-Amelia_Island-F-Martina_Navratilova-Chris_Evert,Martina Navratilova,Chris Evert,L,R,W,19810420,Amelia Island,F,,,Clay,Lee Jackson,3,1,Isaac
 19800906-W-US_Open-F-Hana_Mandlikova-Chris_Evert,Hana Mandlikova,Chris Evert,R,R,W,19800906,US Open,F,,Centre,Hard,Flo Blanchard,3,1,Edo
+19790928-W-US_Open-F-Tracy_Austin-Chris_Evert,Tracy Austin,Chris Evert,R,R,W,19790928,US Open,F,1pm,Centre,Hard,,3,1,Edo
