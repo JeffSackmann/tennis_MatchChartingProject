@@ -1,8 +1,14 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20210321-W-Monterrey-F-Leylah_Annie_Fernandez-Viktorija_Golubic,Leylah Annie Fernandez,Viktorija Golubic,L,R,W,20210321,Monterrey,F,,Centre,Hard,Fabio Souza,3,1,Zindaras
+20210318-W-Monterrey-R16-Lauren_Davis-Viktorija_Golubic,Lauren Davis,Viktorija Golubic,R,R,W,20210318,Monterrey,R16,,Centre,Hard,Yamila Halle,3,1,Zindaras
+20210317-W-St_Petersburg-R16-Jaqueline_Adina_Cristian-Jelena_Ostapenko,Jaqueline Adina Cristian,Jelena Ostapenko,R,R,W,20210317,St Petersburg,R16,,Centre Cpurt,Hard,,3,1,garibaldireds
+20210316-W-Monterrey-R32-Kaja_Juvan-Maria_Camila_Osorio_Serrano,Kaja Juvan,Maria Camila Osorio Serrano,R,R,W,20210316,Monterrey,R32,,Cancha 1,Hard,Miguel Angel Bravo,3,1,Zindaras
+20210315-W-Monterrey-R32-Ann_Li-Arantxa_Rus,Ann Li,Arantxa Rus,R,L,W,20210315,Monterrey,R32,13:45,Estadio,Hard,Fabio Souza,3,1,Zindaras
 20210313-W-Guadalajara-F-Eugenie_Bouchard-Sara_Sorribes_Tormo,Eugenie Bouchard,Sara Sorribes Tormo,R,R,W,20210313,Guadalajara,F,,Centre,Hard,Yamila Halle,3,1,Zindaras
 20210312-W-Guadalajara-SF-Sara_Sorribes_Tormo-Marie_Bouzkova,Sara Sorribes Tormo,Marie Bouzkova,R,R,W,20210312,Guadalajara,SF,,Centre,Hard,Fabio Souza,3,1,Zindaras
 20210312-W-Dubai-SF-Jil_Belen_Teichmann-Barbora_Krejcikova,Jil Belen Teichmann,Barbora Krejcikova,L,R,W,20210312,Dubai,SF,19:35,Centre,Hard,Aurelie Tourte,3,1,Zindaras
 20210309-W-Dubai-R32-Tereza_Martincova-Kiki_Bertens,Tereza Martincova,Kiki Bertens,R,R,W,20210309,Dubai,R32,,1,Hard,Kader Nouni,3,1,Zindaras
+20210308-W-Guadalajara-R32-Marie_Bouzkova-Irina_Maria_Bara,Marie Bouzkova,Irina Maria Bara,R,R,W,20210308,Guadalajara,R32,,Centre,Hard,Yamila Halle,3,1,Zindaras
 20210307-W-Lyon-F-Clara_Tauson-Viktorija_Golubic,Clara Tauson,Viktorija Golubic,R,R,W,20210307,Lyon,F,,Centre,Hard,Morgane Lara,3,1,Zindaras
 20210304-W-Lyon-R16-Arantxa_Rus-Greetje_Minnen,Arantxa Rus,Greetje Minnen,L,R,W,20210304,Lyon,R16,,Centre,Hard,Morgane Lara,3,1,Zindaras
 20210303-W-Doha-R16-Elina_Svitolina-Misaki_Doi,Elina Svitolina,Misaki Doi,R,L,W,20210303,Doha,R16,18:20,Centre,Hard,Katarzyna Radwan-Cho,3,1,Zindaras
@@ -1341,6 +1347,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20090603-W-Roland_Garros-QF-Serena_Williams-Svetlana_Kuznetsova,Serena Williams,Svetlana Kuznetsova,R,R,W,20090603,Roland Garros,QF,,Philippe Chatrier,Clay,Mariana Alves,3,0,ojustino
 20090517-W-Madrid-F-Caroline_Wozniacki-Dinara_Safina,Caroline Wozniacki,Dinara Safina,R,R,W,20090517,Madrid,F,1:40 PM,Manolo Santana Court,Clay,Mariana Alves,3,1,tsitsi
 20090511-W-Madrid-SF-Patty_Schnyder-Dinara_Safina,Patty Schnyder,Dinara Safina,L,R,W,20090511,Madrid,SF,,,Clay,,3,1,Amy
+20090416-W-Charleston-R16-Sabine_Lisicki-Venus_Williams,Sabine Lisicki,Venus Williams,R,R,W,20090416,Charleston,R16,,Stadium,Clay,,3,1,ojustino
 20090215-W-Paris-F-Amelie_Mauresmo-Elena_Dementieva,Amelie Mauresmo,Elena Dementieva,R,R,W,20090215,Paris,F,,Stade Pierre de Coubertin,Hard,Mariana Alves,3,1,ojustino
 20090207-W-Fed_Cup_WG_R1-RR-Flavia_Pennetta-Amelie_Mauresmo,Flavia Pennetta,Amelie Mauresmo,R,R,W,20090207,Fed Cup WG R1,RR,,"Palais des Sports,Hard,Louise Engzell,3,0,Salvo
 20090131-W-Australian_Open-F-Serena_Williams-Dinara_Safina,Serena Williams,Dinara Safina,R,R,W,20090131,Australian Open,F,8:00 PM,Centre,Hard,,3,0,Edo
