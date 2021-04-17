@@ -1,4 +1,20 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20210407-W-Bogota-R16-Arantxa_Rus-Nuria_Parrizas_Diaz,Arantxa Rus,Nuria Parrizas Diaz,L,R,W,20210407,Bogota,R16,,2,Clay,Yamila Halle,3,1,Zindaras
+20210406-W-Bogota-R32-Sara_Errani-Sara_Sorribes_Tormo,Sara Errani,Sara Sorribes Tormo,R,R,W,20210406,Bogota,R32,10:10,Center Court,Clay,Yamila Halle,3,1,Zindaras
+20210406-W-Bogota-R32-Arantxa_Rus-Irina_Maria_Bara,Arantxa Rus,Irina Maria Bara,L,R,W,20210406,Bogota,R32,10:10,2,Clay,,3,1,Zindaras
+20210403-W-Miami-F-Ashleigh_Barty-Bianca_Andreescu,Ashleigh Barty,Bianca Andreescu,R,R,W,20210403,Miami,F,13:10,Grandstand,Hard,Pierre Bacchi,3,1,Zindaras
+20210401-W-Miami-SF-Bianca_Andreescu-Maria_Sakkari,Bianca Andreescu,Maria Sakkari,R,R,W,20210401,Miami,SF,,Grandstand,Hard,Marija Cicak,3,1,ojustino
+20210331-W-Miami-QF-Naomi_Osaka-Maria_Sakkari,Naomi Osaka,Maria Sakkari,R,R,W,20210331,Miami,QF,,Grandstand,Hard,Cecilia Alberti,3,1,garibaldireds
+20210331-W-Miami-QF-Bianca_Andreescu-Sara_Sorribes_Tormo,Bianca Andreescu,Sara Sorribes Tormo,R,R,W,20210331,Miami,QF,19:10,Grandstand,Hard,Paula Vieira Souza,3,1,Zindaras
+20210329-W-Miami-R16-Garbine_Muguruza-Bianca_Andreescu,Garbine Muguruza,Bianca Andreescu,R,R,W,20210329,Miami,R16,,,Hard,,3,1,garibaldireds
+20210329-W-Miami-R16-Ashleigh_Barty-Victoria_Azarenka,Ashleigh Barty,Victoria Azarenka,R,R,W,20210329,Miami,R16,,,Hard,,3,1,garibaldireds
+20210328-W-Miami-R32-Amanda_Anisimova-Bianca_Andreescu,Amanda Anisimova,Bianca Andreescu,R,R,W,20210328,Miami,R32,19:10,Grandstand,Hard,Pierre Bacchi,3,1,Zindaras
+20210326-W-Miami-R64-Xin_Yu_Wang-Garbine_Muguruza,Xin Yu Wang,Garbine Muguruza,R,R,W,20210326,Miami,R64,,,Hard,,3,1,Isaac
+20210326-W-Miami-R64-Tereza_Martincova-Bianca_Andreescu,Tereza Martincova,Bianca Andreescu,R,R,W,20210326,Miami,R64,,Butch Buchholz,Hard,Paula Vieira Souza,3,1,Zindaras
+20210326-W-Miami-R64-Paula_Badosa-Ons_Jabeur,Paula Badosa,Ons Jabeur,R,R,W,20210326,Miami,R64,,3,Hard,,3,1,Zindaras
+20210326-W-Miami-R64-Ludmilla_Samsonova-Kiki_Bertens,Ludmilla Samsonova,Kiki Bertens,R,R,W,20210326,Miami,R64,,3,Hard,Kelly Thomson,3,1,Zindaras
+20210324-W-Miami-R128-Katerina_Siniakova-Ana_Konjuh,Katerina Siniakova,Ana Konjuh,R,R,W,20210324,Miami,R128,,3,Hard,,3,1,Zindaras
+20210323-W-Miami-R128-Arantxa_Rus-Marie_Bouzkova,Arantxa Rus,Marie Bouzkova,L,R,W,20210323,Miami,R128,15:00,Butch Buchholz,Hard,,3,1,Zindaras
 20210321-W-Monterrey-F-Leylah_Annie_Fernandez-Viktorija_Golubic,Leylah Annie Fernandez,Viktorija Golubic,L,R,W,20210321,Monterrey,F,,Centre,Hard,Fabio Souza,3,1,Zindaras
 20210318-W-Monterrey-R16-Lauren_Davis-Viktorija_Golubic,Lauren Davis,Viktorija Golubic,R,R,W,20210318,Monterrey,R16,,Centre,Hard,Yamila Halle,3,1,Zindaras
 20210317-W-St_Petersburg-R16-Jaqueline_Adina_Cristian-Jelena_Ostapenko,Jaqueline Adina Cristian,Jelena Ostapenko,R,R,W,20210317,St Petersburg,R16,,Centre Cpurt,Hard,,3,1,garibaldireds
@@ -7,6 +23,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210313-W-Guadalajara-F-Eugenie_Bouchard-Sara_Sorribes_Tormo,Eugenie Bouchard,Sara Sorribes Tormo,R,R,W,20210313,Guadalajara,F,,Centre,Hard,Yamila Halle,3,1,Zindaras
 20210312-W-Guadalajara-SF-Sara_Sorribes_Tormo-Marie_Bouzkova,Sara Sorribes Tormo,Marie Bouzkova,R,R,W,20210312,Guadalajara,SF,,Centre,Hard,Fabio Souza,3,1,Zindaras
 20210312-W-Dubai-SF-Jil_Belen_Teichmann-Barbora_Krejcikova,Jil Belen Teichmann,Barbora Krejcikova,L,R,W,20210312,Dubai,SF,19:35,Centre,Hard,Aurelie Tourte,3,1,Zindaras
+20210309-W-Guadalajara-R32-Nadia_Podoroska-Giuliana_Olmos,Nadia Podoroska,Giuliana Olmos,R,R,W,20210309,Guadalajara,R32,,Centre,Hard,Nikola Srecec,3,1,Zindaras
 20210309-W-Dubai-R32-Tereza_Martincova-Kiki_Bertens,Tereza Martincova,Kiki Bertens,R,R,W,20210309,Dubai,R32,,1,Hard,Kader Nouni,3,1,Zindaras
 20210308-W-Guadalajara-R32-Marie_Bouzkova-Irina_Maria_Bara,Marie Bouzkova,Irina Maria Bara,R,R,W,20210308,Guadalajara,R32,,Centre,Hard,Yamila Halle,3,1,Zindaras
 20210307-W-Lyon-F-Clara_Tauson-Viktorija_Golubic,Clara Tauson,Viktorija Golubic,R,R,W,20210307,Lyon,F,,Centre,Hard,Morgane Lara,3,1,Zindaras
@@ -19,6 +36,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210225-W-Adelaide-QF-Jil_Belen_Teichmann-Anastasija_Sevastova,Jil Belen Teichmann,Anastasija Sevastova,L,R,W,20210225,Adelaide,QF,,Memorial Drive Centre Court,Hard,John Blom,3,1,Zindaras
 20210220-W-Australian_Open-F-Naomi_Osaka-Jennifer_Brady,Naomi Osaka,Jennifer Brady,R,R,W,20210220,Australian Open,F,7pm,Rod Laver Arena,Hard,Alison Hughes,3,A,Edo
 20210219-W-Phillip_Island_Trophy-F-Marie_Bouzkova-Darya_Kasatkina,Marie Bouzkova,Darya Kasatkina,R,R,W,20210219,Phillip Island Trophy,F,,,Hard,Miriam Bley,3,1,Zindaras
+20210218-W-Phillip_Island_Trophy-SF-Marie_Bouzkova-Bianca_Andreescu,Marie Bouzkova,Bianca Andreescu,R,R,W,20210218,Phillip Island Trophy,SF,,1573 Arena,Hard,Pablo Rodriguez,3,1,ojustino
 20210218-W-Australian_Open-SF-Naomi_Osaka-Serena_Williams,Naomi Osaka,Serena Williams,R,R,W,20210218,Australian Open,SF,2pm,Rod Laver Arena,Hard,,3,A,Edo
 20210218-W-Australian_Open-SF-Jennifer_Brady-Karolina_Muchova,Jennifer Brady,Karolina Muchova,R,R,W,20210218,Australian Open,SF,15:55,Rod Laver Arena,Hard,Louise Azemar Engzell,3,A,Zindaras
 20210217-W-Phillip_Island_Trophy-QF-Irina_Camelia_Begu-Bianca_Andreescu,Irina Camelia Begu,Bianca Andreescu,R,R,W,20210217,Phillip Island Trophy,QF,,1573 Arena,Hard,Miriam Bley,3,1,Zindaras
@@ -198,6 +216,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20200106-W-Brisbane-R32-Danielle_Rose_Collins-Elina_Svitolina,Danielle Rose Collins,Elina Svitolina,R,R,W,20200106,Brisbane,R32,,Stadium,Hard,Miriam Bley,3,1,Lowell
 20200106-W-Auckland-R32-Valentina_Ivanov-Jil_Belen_Teichmann,Valentina Ivanov,Jil Belen Teichmann,R,L,W,20200106,Auckland,R32,,,Hard,Alexandre Robein,3,1,Zindaras
 20191214-W-ITF_Dubai-F-Ana_Bogdan-Daria_Snigur,Ana Bogdan,Daria Snigur,R,R,W,20191214,ITF Dubai,F,,Centre,Hard,,3,1,tsitsi
+20191130-W-ITF_Solarino-F-Urszula_Radwanska-Indy_De_Vroome,Urszula Radwanska,Indy De Vroome,R,R,W,20191130,ITF Solarino,F,,,Grass,,3,1,Zindaras
 20191109-W-Fed_Cup_World_Group_F-RR-Ashleigh_Barty-Caroline_Garcia,Ashleigh Barty,Caroline Garcia,R,R,W,20191109,Fed Cup World Group F,RR,12:55 PM,,Hard,,3,1,Carrie
 20191101-W-Shenzhen_Finals-RR-Elina_Svitolina-Sofia_Kenin,Elina Svitolina,Sofia Kenin,R,R,W,20191101,Shenzhen Finals,RR,6:40PM,Centre,Hard,Pierre Bacchi,3,1,Lowell
 20191031-W-Shenzhen_Finals-RR-Belinda_Bencic-Kiki_Bertens,Belinda Bencic,Kiki Bertens,R,R,W,20191031,Shenzhen Finals,RR,20:30,Center,Hard,Julie Kjendlie,3,1,Zindaras
@@ -1042,6 +1061,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20150127-W-Australian_Open-QF-Eugenie_Bouchard-Maria_Sharapova,Eugenie Bouchard,Maria Sharapova,R,R,W,20150127,Australian Open,QF,12:45 PM,Rod Laver Arena,Hard,,3,0,Lowell
 20150125-W-Australian_Open-R16-Madison_Brengle-Madison_Keys,Madison Brengle,Madison Keys,R,R,W,20150125,Australian Open,R16,,Margaret Court,Hard,,3,1,Isaac
 20150125-W-Australian_Open-R16-Eugenie_Bouchard-Irina_Camelia_Begu,Eugenie Bouchard,Irina Camelia Begu,R,R,W,20150125,Australian Open,R16,,Rod Laver Arena,Hard,,3,0,Lowell
+20150125-W-Australian_Open-R16-Agnieszka_Radwanska-Venus_Williams,Agnieszka Radwanska,Venus Williams,R,R,W,20150125,Australian Open,R16,6pm,Rod Laver Arena,Hard,Juan Zhang,3,0,Edo
 20150125-W-Australian_Open-QF-Dominika_Cibulkova-Serena_Williams,Dominika Cibulkova,Serena Williams,R,R,W,20150125,Australian Open,QF,,Rod Laver Arena,Hard,,3,1,Isaac
 20150124-W-Australian_Open-R32-Petra_Kvitova-Madison_Keys,Petra Kvitova,Madison Keys,L,R,W,20150124,Australian Open,R32,9:50 PM,Rod Laver Arena,Hard,Julie Kjendle,3,0,Lowell
 20150123-W-Australian_Open-R32-Zarina_Diyas-Maria_Sharapova,Zarina Diyas,Maria Sharapova,R,R,W,20150123,Australian Open,R32,,,Hard,,3,1,Isaac
