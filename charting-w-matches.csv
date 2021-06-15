@@ -1,4 +1,22 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20210609-W-Roland_Garros-QF-Cori_Gauff-Barbora_Krejcikova,Cori Gauff,Barbora Krejcikova,R,R,W,20210609,Roland Garros,QF,11:10,Philippe Chatrier,Clay,,3,0,Zindaras
+20210608-W-Roland_Garros-QF-Tamara_Zidansek-Paula_Badosa,Tamara Zidansek,Paula Badosa,R,R,W,20210608,Roland Garros,QF,12:05,Philippe Chatrier,Clay,Carlos Ramos,3,0,Zindaras
+20210607-W-Roland_Garros-R16-Iga_Swiatek-Marta_Kostyuk,Iga Swiatek,Marta Kostyuk,R,R,W,20210607,Roland Garros,R16,21:10,Philippe Chatrier,Clay,Eva Asderaki Moore,3,0,Zindaras
+20210606-W-Roland_Garros-R16-Marketa_Vondrousova-Paula_Badosa,Marketa Vondrousova,Paula Badosa,L,R,W,20210606,Roland Garros,R16,13:00,Suzanne Lenglen,Clay,Marijana Veljovic,3,0,Zindaras
+20210601-W-Roland_Garros-R128-Carla_Suarez_Navarro-Sloane_Stephens,Carla Suarez Navarro,Sloane Stephens,R,R,W,20210601,Roland Garros,R128,19:55,Simonne-Mathieu,Clay,Carlos Ramos,3,0,Zindaras
+20210531-W-Roland_Garros-R128-Tamara_Zidansek-Bianca_Andreescu,Tamara Zidansek,Bianca Andreescu,R,R,W,20210531,Roland Garros,R128,13:20,14,Clay,Kader Nouni,3,0,Zindaras
+20210531-W-Roland_Garros-R128-Kiki_Bertens-Polona_Hercog,Kiki Bertens,Polona Hercog,R,R,W,20210531,Roland Garros,R128,11:10,6,Clay,Greg Allensworth,3,0,Zindaras
+20210531-W-Roland_Garros-R128-Arantxa_Rus-Mihaela_Buzarnescu,Arantxa Rus,Mihaela Buzarnescu,L,L,W,20210531,Roland Garros,R128,18:30,12,Clay,Richard Haigh,3,0,Zindaras
+20210527-W-Strasbourg-QF-Arantxa_Rus-Jule_Niemeier,Arantxa Rus,Jule Niemeier,L,R,W,20210527,Strasbourg,QF,17:35,Patrice Dominguez,Clay,Francois Lutz,3,1,Zindaras
+20210526-W-Strasbourg-R16-Arantxa_Rus-Harmony_Tan,Arantxa Rus,Harmony Tan,R,R,W,20210526,Strasbourg,R16,14:20,1,Clay,M. Kaukayeva,3,1,Zindaras
+20210525-W-Strasbourg-R32-Jessica_Pegula-Arantxa_Rus,Jessica Pegula,Arantxa Rus,R,L,W,20210525,Strasbourg,R32,12:45,Patrice Dominguez,Clay,,3,1,Zindaras
+20210525-W-Strasbourg-R32-Diane_Parry-Jule_Niemeier,Diane Parry,Jule Niemeier,R,R,W,20210525,Strasbourg,R32,,Patrice Dominguez,Clay,Taise Soares,3,1,Zindaras
+20210525-W-Strasbourg-R16-Bianca_Andreescu-Maryna_Zanevska,Bianca Andreescu,Maryna Zanevska,R,R,W,20210525,Strasbourg,R16,14:30,Patrice Dominguez,Clay,Isabell Seefried,3,1,Zindaras
+20210524-W-Strasbourg-R32-Andrea_Lazaro_Garcia-Bianca_Andreescu,Andrea Lazaro Garcia,Bianca Andreescu,R,R,W,20210524,Strasbourg,R32,13:50,Patrice Dominguez,Clay,Pierre Bacchi,3,1,Zindaras
+20210522-W-Parma-F-Cori_Gauff-Qiang_Wang,Cori Gauff,Qiang Wang,R,R,W,20210522,Parma,F,14:30,Centre,Clay,,3,1,garibaldireds
+20210516-W-Rome-F-Iga_Swiatek-Karolina_Pliskova,Iga Swiatek,Karolina Pliskova,R,R,W,20210516,Rome,F,14:40,,Clay,Cecilia Alberti,3,1,Zindaras
+20210516-W-ITF_La_Bisbal-F-Arantxa_Rus-Irina_Khromacheva,Arantxa Rus,Irina Khromacheva,L,L,W,20210516,ITF La Bisbal,F,,Centre,Clay,,3,1,Zindaras
+20210510-W-Rome-R64-Camila_Giorgi-Sara_Sorribes_Tormo,Camila Giorgi,Sara Sorribes Tormo,R,R,W,20210510,Rome,R64,,Centrale,Clay,,3,1,Zindaras
 20210505-W-Madrid-QF-Ashleigh_Barty-Petra_Kvitova,Ashleigh Barty,Petra Kvitova,R,L,W,20210505,Madrid,QF,,Manolo Santana,Clay,Marija Cicak,3,1,garibaldireds
 20210504-W-Madrid-R16-Maria_Sakkari-Karolina_Muchova,Maria Sakkari,Karolina Muchova,R,R,W,20210504,Madrid,R16,,Manolo Santana,Clay,Kader Nouni,3,1,garibaldireds
 20210504-W-Madrid-R16-Elise_Mertens-Simona_Halep,Elise Mertens,Simona Halep,R,R,W,20210504,Madrid,R16,,Manolo Santana,Clay,Pablo Rodriguez,3,1,garibaldireds
@@ -28,6 +46,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210416-W-Charleston_2-QF-Maria_Camila_Osorio_Serrano-Clara_Tauson,Maria Camila Osorio Serrano,Clara Tauson,R,R,W,20210416,Charleston 2,QF,,,Clay,,3,1,garibaldireds
 20210416-W-BJK_Cup-RR-Xiyu_Wang-Arantxa_Rus,Xiyu Wang,Arantxa Rus,L,L,W,20210416,BJK Cup,RR,14:35,Den Bosch,Clay,Marijana Veljovic,3,1,Zindaras
 20210416-W-BJK_Cup-RR-Xin_Yu_Wang-Kiki_Bertens,Xin Yu Wang,Kiki Bertens,R,R,W,20210416,BJK Cup,RR,13:10,Den Bosch,Clay,Nico Helwerth,3,1,Zindaras
+20210416-W-BJK_Cup-RR-Elena_Rybakina-Maria_Lourdes_Carle,Elena Rybakina,Maria Lourdes Carle,R,R,W,20210416,BJK Cup,RR,,Cordoba,Clay,Rodolfo Curutchet,3,1,Zindaras
 20210410-W-Bogota-SF-Harmony_Tan-Maria_Camila_Osorio_Serrano,Harmony Tan,Maria Camila Osorio Serrano,R,R,W,20210410,Bogota,SF,,Center,Clay,Pablo Rodriguez,3,1,Zindaras
 20210407-W-Bogota-R16-Arantxa_Rus-Nuria_Parrizas_Diaz,Arantxa Rus,Nuria Parrizas Diaz,L,R,W,20210407,Bogota,R16,,2,Clay,Yamila Halle,3,1,Zindaras
 20210406-W-Bogota-R32-Sara_Errani-Sara_Sorribes_Tormo,Sara Errani,Sara Sorribes Tormo,R,R,W,20210406,Bogota,R32,10:10,Center Court,Clay,Yamila Halle,3,1,Zindaras
@@ -65,6 +84,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210226-W-Adelaide-SF-Iga_Swiatek-Jil_Belen_Teichmann,Iga Swiatek,Jil Belen Teichmann,R,L,W,20210226,Adelaide,SF,,Centre Court,Hard,Thomas Sweeney,3,1,Zindaras
 20210225-W-Adelaide-QF-Jil_Belen_Teichmann-Anastasija_Sevastova,Jil Belen Teichmann,Anastasija Sevastova,L,R,W,20210225,Adelaide,QF,,Memorial Drive Centre Court,Hard,John Blom,3,1,Zindaras
 20210221-W-ITF_Potchefstroom-F-Carol_Zhao-Nuria_Parrizas_Diaz,Carol Zhao,Nuria Parrizas Diaz,R,R,W,20210221,ITF Potchefstroom,F,,,Hard,,3,1,Sanjana S
+20210220-W-ITF_Potchefstroom-SF-Nuria_Parrizas_Diaz-Kathinka_Von_Deichmann,Nuria Parrizas Diaz,Kathinka Von Deichmann,R,R,W,20210220,ITF Potchefstroom,SF,,,Hard,,3,1,Sanjana S
 20210220-W-Australian_Open-F-Naomi_Osaka-Jennifer_Brady,Naomi Osaka,Jennifer Brady,R,R,W,20210220,Australian Open,F,7pm,Rod Laver Arena,Hard,Alison Hughes,3,A,Edo
 20210219-W-Phillip_Island_Trophy-F-Marie_Bouzkova-Darya_Kasatkina,Marie Bouzkova,Darya Kasatkina,R,R,W,20210219,Phillip Island Trophy,F,,,Hard,Miriam Bley,3,1,Zindaras
 20210218-W-Phillip_Island_Trophy-SF-Marie_Bouzkova-Bianca_Andreescu,Marie Bouzkova,Bianca Andreescu,R,R,W,20210218,Phillip Island Trophy,SF,,1573 Arena,Hard,Pablo Rodriguez,3,1,ojustino
