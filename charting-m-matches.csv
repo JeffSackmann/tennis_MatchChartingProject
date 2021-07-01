@@ -1,5 +1,12 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20210620-M-Queens_Club-F-Cameron_Norrie-Matteo_Berrettini,Cameron Norrie,Matteo Berrettini,L,R,M,20210620,Queens Club,F,3pm,,Grass,Fergus Murphy,3,1,Edo
+20210619-M-Almaty_CH-F-Jesper_De_Jong-Marcelo_Tomas_Barrios_Vera,Jesper De Jong,Marcelo Tomas Barrios Vera,R,R,M,20210619,Almaty CH,F,,Centre,Clay,,3,1,Zindaras
+20210615-M-Queens_Club-R32-Andy_Murray-Benoit_Paire,Andy Murray,Benoit Paire,R,R,M,20210615,Queens Club,R32,16:05:00,Centre court,Grass,Lahyani,3,1,Ludo
+20210615-M-Halle-R32-Ricardas_Berankis-Kei_Nishikori,Ricardas Berankis,Kei Nishikori,R,R,M,20210615,Halle,R32,11:00 AM,TennisPoint,Grass,Renaud Lichtenstein,3,1,Laus
 20210613-M-Roland_Garros-F-Stefanos_Tsitsipas-Novak_Djokovic,Stefanos Tsitsipas,Novak Djokovic,R,R,M,20210613,Roland Garros,F,3pm,Chatrier,Clay,Aurelie Tourte,5,0,Edo
+20210613-M-Lyon_CH-F-Pablo_Cuevas-Elias_Ymer,Pablo Cuevas,Elias Ymer,R,R,M,20210613,Lyon CH,F,,,Clay,,3,1,Zindaras
+20210613-M-Bratislava_CH-F-Tallon_Griekspoor-Sebastian_Baez,Tallon Griekspoor,Sebastian Baez,R,R,M,20210613,Bratislava CH,F,12:30,Central,Clay,Mohamed El Jennati,3,1,Zindaras
+20210611-M-Roland_Garros-SF-Stefanos_Tsitsipas-Alexander_Zverev,Stefanos Tsitsipas,Alexander Zverev,R,R,M,20210611,Roland Garros,SF,3pm,Chatrier,Clay,Renaud Lichtenstein,5,0,Edo
 20210611-M-Roland_Garros-SF-Rafael_Nadal-Novak_Djokovic,Rafael Nadal,Novak Djokovic,L,R,M,20210611,Roland Garros,SF,19:10,Philippe Chatrier,Clay,Eva Asderaki Moore,5,0,Zindaras
 20210608-M-Roland_Garros-QF-Stefanos_Tsitsipas-Daniil_Medvedev,Stefanos Tsitsipas,Daniil Medvedev,R,R,M,20210608,Roland Garros,QF,9pm,Chatrier,Clay,Nico Helwerth,5,0,Edo
 20210605-M-Roland_Garros-R32-Roger_Federer-Dominik_Koepfer,Roger Federer,Dominik Koepfer,R,L,M,20210605,Roland Garros,R32,21:10,Philippe-Chatrier,Clay,Renaud Lichtenstein,5,0,Zindaras
@@ -40,6 +47,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210417-M-Monte_Carlo_Masters-SF-Stefanos_Tsitsipas-Daniel_Evans,Stefanos Tsitsipas,Daniel Evans,R,R,M,20210417,Monte Carlo Masters,SF,,,Clay,,3,1,garibaldireds
 20210415-M-Orlando_CH-R16-Aleksandar_Kovacevic-Christian_Harrison,Aleksandar Kovacevic,Christian Harrison,R,R,M,20210415,Orlando CH,R16,10:00 AM,,Hard,,3,1,Mathias
 20210415-M-Monte_Carlo_Masters-R16-Novak_Djokovic-Daniel_Evans,Novak Djokovic,Daniel Evans,R,R,M,20210415,Monte Carlo Masters,R16,13:15,Court Rainier III,Clay,Aurelie Tourte,3,1,Zindaras
+20210414-M-Split_CH-R16-Filip_Horansky-Thanasi_Kokkinakis,Filip Horansky,Thanasi Kokkinakis,R,R,M,20210414,Split CH,R16,,,Clay,,3,1,Florian Koch
 20210413-M-Monte_Carlo_Masters-R64-Lucas_Catarina-Salvatore_Caruso,Lucas Catarina,Salvatore Caruso,R,R,M,20210413,Monte Carlo Masters,R64,,9,Clay,Scott Noble,3,1,Zindaras
 20210404-M-Miami_Masters-F-Hubert_Hurkacz-Jannik_Sinner,Hubert Hurkacz,Jannik Sinner,R,R,M,20210404,Miami Masters,F,1pm,Grandstand,Hard,Renaud Lichtenstein,3,1,Edo
 20210402-M-Miami_Masters-SF-Jannik_Sinner-Roberto_Bautista_Agut,Jannik Sinner,Roberto Bautista Agut,R,R,M,20210402,Miami Masters,SF,3pm,Grandstand,Hard,Adel Nour,3,1,Edo
@@ -2650,6 +2658,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19970606-M-Roland_Garros-SF-Gustavo_Kuerten-Filip_Dewulf,Gustavo Kuerten,Filip Dewulf,R,R,M,19970606,Roland Garros,SF,16:00,Chatrier,Clay,Andreas Egli,5,0,Edo
 19970518-M-Rome_Masters-F-Alex_Corretja-Marcelo_Rios,Alex Corretja,Marcelo Rios,R,L,M,19970518,Rome Masters,F,15:00,Centrale,Clay,,5,1,Edo
 19970426-M-Monte_Carlo_Masters-SF-Carlos_Moya-Marcelo_Rios,Carlos Moya,Marcelo Rios,R,L,M,19970426,Monte Carlo Masters,SF,,Centre,Clay,,3,1,tsitsi
+19970330-M-Casablanca-F-Franco_Squillari-Hicham_Arazi,Franco Squillari,Hicham Arazi,L,L,M,19970330,Casablanca,F,16:00,Stadium,Clay,,3,1,1HandBH
 19970323-M-Miami_Masters-F-Sergi_Bruguera-Thomas_Muster,Sergi Bruguera,Thomas Muster,R,R,M,19970323,Miami Masters,F,15:00,Stadium,Hard,Steve Ullrich,5,1,Edo
 19970302-M-Philadelphia-F-Pete_Sampras-Patrick_Rafter,Pete Sampras,Patrick Rafter,R,R,M,19970302,Philadelphia,F,3pm,Centre,Hard,Dana Loconto,3,1,Edo
 19970126-M-Australian_Open-F-Pete_Sampras-Carlos_Moya,Pete Sampras,Carlos Moya,R,R,M,19970126,Australian Open,F,15:00,Centre,Hard,Wayne McKewen,5,0,Edo
@@ -3109,6 +3118,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19810703-M-Wimbledon-SF-John_Mcenroe-Rod_Frawley,John Mcenroe,Rod Frawley,L,R,M,19810703,Wimbledon,SF,2pm,Centre,Grass,George Grime,5,0,Edo
 19810703-M-Wimbledon-SF-Bjorn_Borg-Jimmy_Connors,Bjorn Borg,Jimmy Connors,R,L,M,19810703,Wimbledon,SF,17:00,Centre,Grass,,5,0,Edo
 19810607-M-Roland_Garros-F-Bjorn_Borg-Ivan_Lendl,Bjorn Borg,Ivan Lendl,R,R,M,19810607,Roland Garros,F,14:30,Central,Clay,Jacques Dorfmann,5,0,Edo
+19810605-M-Roland_Garros-SF-Jose_Luis_Clerc-Ivan_Lendl,Jose Luis Clerc,Ivan Lendl,R,R,M,19810605,Roland Garros,SF,2pm,Chatrier,Clay,Patrick Flodrops,5,0,Edo
 19810118-M-Tour_Finals-F-Ivan_Lendl-Bjorn_Borg,Ivan Lendl,Bjorn Borg,R,R,M,19810118,Tour Finals,F,,Centre,Carpet,,5,1,Edo
 19810118-M-Masters-F-Ivan_Lendl-Bjorn_Borg,Ivan Lendl,Bjorn Borg,R,R,M,19810118,Masters,F,,Centre,Carpet,,5,1,Edo
 19810104-M-Australian_Open-F-Kim_Warwick-Brian_Teacher,Kim Warwick,Brian Teacher,R,R,M,19810104,Australian Open,F,15:00,Kooyong,Grass,Max Atkins,5,0,Edo
