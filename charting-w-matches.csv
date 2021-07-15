@@ -1,9 +1,21 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20210705-W-Wimbledon-R16-Paula_Badosa-Karolina_Muchova,Paula Badosa,Karolina Muchova,R,R,W,20210705,Wimbledon,R16,15:40,12,Grass,Katarzyna Radwan-Cho,3,T,Zindaras
+20210705-W-Wimbledon-R16-Iga_Swiatek-Ons_Jabeur,Iga Swiatek,Ons Jabeur,R,R,W,20210705,Wimbledon,R16,11:10,2,Grass,,3,T,Zindaras
+20210702-W-Wimbledon-R32-Sloane_Stephens-Ludmilla_Samsonova,Sloane Stephens,Ludmilla Samsonova,R,R,W,20210702,Wimbledon,R32,1:07 PM,1,Grass,,3,T,Lowell
+20210702-W-Wimbledon-R32-Iga_Swiatek-Irina_Camelia_Begu,Iga Swiatek,Irina Camelia Begu,R,R,W,20210702,Wimbledon,R32,,12,Grass,,3,T,Lowell
+20210701-W-Wimbledon-R64-Angelique_Kerber-Sara_Sorribes_Tormo,Angelique Kerber,Sara Sorribes Tormo,L,R,W,20210701,Wimbledon,R64,14:30,2,Grass,Christian Rask,3,T,Zindaras
+20210701-W-Wimbledon-R64-Andrea_Petkovic-Barbora_Krejcikova,Andrea Petkovic,Barbora Krejcikova,R,R,W,20210701,Wimbledon,R64,,3,Grass,,3,T,Lowell
+20210630-W-Wimbledon-R64-Jessica_Pegula-Ludmilla_Samsonova,Jessica Pegula,Ludmilla Samsonova,R,R,W,20210630,Wimbledon,R64,5:40 PM,16,Grass,,3,T,Lowell
+20210630-W-Wimbledon-R128-Vitalia_Diatchenko-Emma_Raducanu,Vitalia Diatchenko,Emma Raducanu,R,R,W,20210630,Wimbledon,R128,16:50,18,Grass,Arnaud Gabas,3,T,Zindaras
+20210630-W-Wimbledon-R128-Leylah_Annie_Fernandez-Jelena_Ostapenko,Leylah Annie Fernandez,Jelena Ostapenko,L,R,W,20210630,Wimbledon,R128,5:00 PM,6,Grass,,3,1,Lowell
 20210630-W-Wimbledon-R128-Bianca_Andreescu-Alize_Cornet,Bianca Andreescu,Alize Cornet,R,R,W,20210630,Wimbledon,R128,11:10,2,Grass,Miriam Bley,3,T,Zindaras
 20210629-W-Wimbledon-R128-Svetlana_Kuznetsova-Lesley_Kerkhove,Svetlana Kuznetsova,Lesley Kerkhove,R,R,W,20210629,Wimbledon,R128,16:00,,Grass,Marija Cicak,3,T,Zindaras
+20210629-W-Wimbledon-R128-Marta_Kostyuk-Kiki_Bertens,Marta Kostyuk,Kiki Bertens,R,R,W,20210629,Wimbledon,R128,13:45,18,Grass,Cecilia Alberti,3,T,Zindaras
 20210629-W-Wimbledon-R128-Ashleigh_Barty-Carla_Suarez_Navarro,Ashleigh Barty,Carla Suarez Navarro,R,R,W,20210629,Wimbledon,R128,13:35,Centre,Grass,Emmanuel Joseph,3,T,Zindaras
 20210628-W-Wimbledon-R128-Su_Wei_Hsieh-Iga_Swiatek,Su Wei Hsieh,Iga Swiatek,R,R,W,20210628,Wimbledon,R128,17:40,1,Grass,Fiona Edwards,3,T,Zindaras
+20210622-W-Eastbourne-R32-Shelby_Rogers-Kiki_Bertens,Shelby Rogers,Kiki Bertens,R,R,W,20210622,Eastbourne,R32,,5,Grass,Ettore Russo,3,1,Zindaras
 20210616-W-Berlin-R16-Alize_Cornet-Bianca_Andreescu,Alize Cornet,Bianca Andreescu,R,R,W,20210616,Berlin,R16,,Graf,Grass,Marija Cicak,3,1,Zindaras
+20210615-W-Berlin-R32-Elena_Rybakina-Shelby_Rogers,Elena Rybakina,Shelby Rogers,R,R,W,20210615,Berlin,R32,,1,Grass,,3,1,Lowell
 20210612-W-Bol-F-Arantxa_Rus-Jasmine_Paolini,Arantxa Rus,Jasmine Paolini,L,R,W,20210612,Bol,F,,,Clay,,3,1,Zindaras
 20210609-W-Roland_Garros-QF-Cori_Gauff-Barbora_Krejcikova,Cori Gauff,Barbora Krejcikova,R,R,W,20210609,Roland Garros,QF,11:10,Philippe Chatrier,Clay,,3,0,Zindaras
 20210608-W-Roland_Garros-QF-Tamara_Zidansek-Paula_Badosa,Tamara Zidansek,Paula Badosa,R,R,W,20210608,Roland Garros,QF,12:05,Philippe Chatrier,Clay,Carlos Ramos,3,0,Zindaras
@@ -22,6 +34,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210522-W-Parma-F-Cori_Gauff-Qiang_Wang,Cori Gauff,Qiang Wang,R,R,W,20210522,Parma,F,14:30,Centre,Clay,,3,1,garibaldireds
 20210516-W-Rome-F-Iga_Swiatek-Karolina_Pliskova,Iga Swiatek,Karolina Pliskova,R,R,W,20210516,Rome,F,14:40,,Clay,Cecilia Alberti,3,1,Zindaras
 20210516-W-ITF_La_Bisbal-F-Arantxa_Rus-Irina_Khromacheva,Arantxa Rus,Irina Khromacheva,L,L,W,20210516,ITF La Bisbal,F,,Centre,Clay,,3,1,Zindaras
+20210513-W-Rome-R16-Iga_Swiatek-Barbora_Krejcikova,Iga Swiatek,Barbora Krejcikova,R,R,W,20210513,Rome,R16,11:55 AM,Pietrangeli,Clay,,3,1,Hard
 20210510-W-Rome-R64-Camila_Giorgi-Sara_Sorribes_Tormo,Camila Giorgi,Sara Sorribes Tormo,R,R,W,20210510,Rome,R64,,Centrale,Clay,,3,1,Zindaras
 20210505-W-Madrid-QF-Belinda_Bencic-Paula_Badosa,Belinda Bencic,Paula Badosa,R,R,W,20210505,Madrid,QF,11:10,Arantxa Sanchez Stadium,Clay,Kader Nouni,3,1,Zindaras
 20210505-W-Madrid-QF-Ashleigh_Barty-Petra_Kvitova,Ashleigh Barty,Petra Kvitova,R,L,W,20210505,Madrid,QF,,Manolo Santana,Clay,Marija Cicak,3,1,garibaldireds
@@ -60,6 +73,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210406-W-Bogota-R32-Sara_Errani-Sara_Sorribes_Tormo,Sara Errani,Sara Sorribes Tormo,R,R,W,20210406,Bogota,R32,10:10,Center Court,Clay,Yamila Halle,3,1,Zindaras
 20210406-W-Bogota-R32-Arantxa_Rus-Irina_Maria_Bara,Arantxa Rus,Irina Maria Bara,L,R,W,20210406,Bogota,R32,10:10,2,Clay,,3,1,Zindaras
 20210403-W-Miami-F-Ashleigh_Barty-Bianca_Andreescu,Ashleigh Barty,Bianca Andreescu,R,R,W,20210403,Miami,F,13:10,Grandstand,Hard,Pierre Bacchi,3,1,Zindaras
+20210401-W-Miami-SF-Elina_Svitolina-Ashleigh_Barty,Elina Svitolina,Ashleigh Barty,R,R,W,20210401,Miami,SF,,Grandstand,Hard,,3,1,Lowell
 20210401-W-Miami-SF-Bianca_Andreescu-Maria_Sakkari,Bianca Andreescu,Maria Sakkari,R,R,W,20210401,Miami,SF,,Grandstand,Hard,Marija Cicak,3,1,ojustino
 20210331-W-Miami-QF-Naomi_Osaka-Maria_Sakkari,Naomi Osaka,Maria Sakkari,R,R,W,20210331,Miami,QF,,Grandstand,Hard,Cecilia Alberti,3,1,garibaldireds
 20210331-W-Miami-QF-Bianca_Andreescu-Sara_Sorribes_Tormo,Bianca Andreescu,Sara Sorribes Tormo,R,R,W,20210331,Miami,QF,19:10,Grandstand,Hard,Paula Vieira Souza,3,1,Zindaras
@@ -140,6 +154,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20201004-W-Roland_Garros-R16-Martina_Trevisan-Kiki_Bertens,Martina Trevisan,Kiki Bertens,L,R,W,20201004,Roland Garros,R16,11:05,Suzanne Lenglen,Clay,,3,1,Zindaras
 20201002-W-Roland_Garros-R32-Kiki_Bertens-Katerina_Siniakova,Kiki Bertens,Katerina Siniakova,R,R,W,20201002,Roland Garros,R32,19:40,Philippe Chatrier,Clay,Alexandre Juge,3,1,Zindaras
 20201001-W-Roland_Garros-R64-Leylah_Annie_Fernandez-Polona_Hercog,Leylah Annie Fernandez,Polona Hercog,L,R,W,20201001,Roland Garros,R64,,5,Clay,Louise Azemar Engzell,3,0,Zindaras
+20201001-W-Roland_Garros-R64-Julia_Goerges-Laura_Siegemund,Julia Goerges,Laura Siegemund,R,R,W,20201001,Roland Garros,R64,,13,Clay,Timo Janzen,3,0,Zindaras
 20201001-W-Roland_Garros-R64-Elena_Rybakina-Fiona_Ferro,Elena Rybakina,Fiona Ferro,R,R,W,20201001,Roland Garros,R64,18:30,Philippe Chatrier,Clay,James Keothavong,3,1,Carrie
 20200930-W-Roland_Garros-R64-Kiki_Bertens-Sara_Errani,Kiki Bertens,Sara Errani,R,R,W,20200930,Roland Garros,R64,1/0/1900 11:55,,Clay,Kader Nouni,3,0,Zindaras
 20200929-W-Roland_Garros-R128-Irina_Maria_Bara-Donna_Vekic,Irina Maria Bara,Donna Vekic,R,R,W,20200929,Roland Garros,R128,,Court 4,Clay,Aurelie Tourte,3,0,Zindaras
