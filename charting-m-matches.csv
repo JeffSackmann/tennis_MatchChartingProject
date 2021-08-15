@@ -1,9 +1,29 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20210801-M-Segovia_CH-F-Benjamin_Bonzi-Tim_Van_Rijthoven,Benjamin Bonzi,Tim Van Rijthoven,R,R,M,20210801,Segovia CH,F,,,Hard,,3,1,Zindaras
+20210801-M-Olympics-F-Karen_Khachanov-Alexander_Zverev,Karen Khachanov,Alexander Zverev,R,R,M,20210801,Olympics,F,5pm,Centre,Hard,Alison Hughes,3,1,Edo
+20210731-M-Olympics-BR-Novak_Djokovic-Pablo_Carreno_Busta,Novak Djokovic,Pablo Carreno Busta,R,R,M,20210731,Olympics,BR,2pm,Centre,Hard,Nico Helwerth,3,1,Edo
+20210730-M-Olympics-SF-Novak_Djokovic-Alexander_Zverev,Novak Djokovic,Alexander Zverev,R,R,M,20210730,Olympics,SF,,Centre,Hard,Jaume Campistol,3,1,Isaac
+20210729-M-Olympics-SF-Pablo_Carreno_Busta-Karen_Khachanov,Pablo Carreno Busta,Karen Khachanov,R,R,M,20210729,Olympics,SF,2pm,Centre,Hard,James Keothavong,3,1,Edo
+20210729-M-Olympics-QF-Novak_Djokovic-Kei_Nishikori,Novak Djokovic,Kei Nishikori,R,R,M,20210729,Olympics,QF,18:15,Centre,Hard,Damien Dumusois,3,1,Zindaras
+20210729-M-Olympics-QF-Jeremy_Chardy-Alexander_Zverev,Jeremy Chardy,Alexander Zverev,R,R,M,20210729,Olympics,QF,7:00 PM,"Ariake Tennis Park,Hard,John Blom,3,1,Samuel Pfanzelt
+20210724-M-Olympics-R64-Alexander_Bublik-Daniil_Medvedev,Alexander Bublik,Daniil Medvedev,R,R,M,20210724,Olympics,R64,12:36 PM,Centre,Hard,Damien Dumusois,3,1,JK
+20210723-M-Gstaad-QF-Christian_Garin-Hugo_Gaston,Christian Garin,Hugo Gaston,R,L,M,20210723,Gstaad,QF,,Roy Emerson Arena,Clay,Carlos Bernardes,3,1,Zindaras
+20210722-M-Gstaad-R16-Feliciano_Lopez-Mikael_Ymer,Feliciano Lopez,Mikael Ymer,L,R,M,20210722,Gstaad,R16,,Roy Emerson Arena,Clay,Ahmed Abdel-Azim,3,1,Zindaras
+20210718-M-Amersfoort_CH-F-Tallon_Griekspoor-Botic_Van_De_Zandschulp,Tallon Griekspoor,Botic Van De Zandschulp,R,R,M,20210718,Amersfoort CH,F,,,Clay,,3,1,Zindaras
+20210717-M-Newport-SF-Jenson_Brooksby-Jordan_Thompson,Jenson Brooksby,Jordan Thompson,R,R,M,20210717,Newport,SF,,Stadium,Grass,Simon Cannavan,3,1,catkisson
+20210716-M-Newport-QF-Jenson_Brooksby-Peter_Gojowczyk,Jenson Brooksby,Peter Gojowczyk,R,R,M,20210716,Newport,QF,,Stadium,Grass,Greg Allensworth,3,1,catkisson
+20210711-M-Wimbledon-F-Novak_Djokovic-Matteo_Berrettini,Novak Djokovic,Matteo Berrettini,R,R,M,20210711,Wimbledon,F,1pm,Centre,Grass,Marija Cicak,5,T,Edo
+20210709-M-Wimbledon-SF-Novak_Djokovic-Denis_Shapovalov,Novak Djokovic,Denis Shapovalov,R,L,M,20210709,Wimbledon,SF,5pm,Centre,Grass,Renaud Lichtenstein,5,T,Edo
+20210709-M-Wimbledon-SF-Hubert_Hurkacz-Matteo_Berrettini,Hubert Hurkacz,Matteo Berrettini,R,R,M,20210709,Wimbledon,SF,1pm,Centre,Grass,Damien Dumusois,5,T,Edo
+20210707-M-Wimbledon-QF-Novak_Djokovic-Marton_Fucsovics,Novak Djokovic,Marton Fucsovics,R,R,M,20210707,Wimbledon,QF,,Centre,Grass,Mohamed Lahyani,5,T,Zindaras
+20210707-M-Wimbledon-QF-Felix_Auger_Aliassime-Matteo_Berrettini,Felix Auger Aliassime,Matteo Berrettini,R,R,M,20210707,Wimbledon,QF,6pm,1,Grass,Jaume Campistol,5,T,Edo
 20210705-M-Wimbledon-R16-Lorenzo_Sonego-Roger_Federer,Lorenzo Sonego,Roger Federer,R,R,M,20210705,Wimbledon,R16,5pm,Centre,Grass,Marija Cicak,5,T,Edo
+20210704-M-ITF_The_Hague-F-Javier_Barranco_Cosano-Jelle_Sels,Javier Barranco Cosano,Jelle Sels,L,R,M,20210704,ITF The Hague,F,,Centre,Clay,,3,1,Zindaras
 20210703-M-Wimbledon-R32-Cameron_Norrie-Roger_Federer,Cameron Norrie,Roger Federer,L,R,M,20210703,Wimbledon,R32,15:20,Center Court,Grass,Mohamed Lahyani,5,T,Zindaras
 20210701-M-Wimbledon-R64-Richard_Gasquet-Roger_Federer,Richard Gasquet,Roger Federer,R,R,M,20210701,Wimbledon,R64,6pm,Centre,Grass,Richard Haigh,5,0,Edo
 20210701-M-Wimbledon-R64-Matteo_Berrettini-Botic_Van_De_Zandschulp,Matteo Berrettini,Botic Van De Zandschulp,R,R,M,20210701,Wimbledon,R64,12:25,3,Grass,Gregory Allensworth,5,T,Zindaras
 20210701-M-Wimbledon-R64-Daniil_Medvedev-Carlos_Alcaraz_Garfia,Daniil Medvedev,Carlos Alcaraz Garfia,R,R,M,20210701,Wimbledon,R64,3:10 PM,1,Grass,,5,T,Lowell
+20210701-M-Wimbledon-QF-Hubert_Hurkacz-Roger_Federer,Hubert Hurkacz,Roger Federer,R,R,M,20210701,Wimbledon,QF,5pm,Centre,Grass,Nico Helwerth,5,T,Edo
 20210630-M-Wimbledon-R128-Gregoire_Barrere-Botic_Van_De_Zandschulp,Gregoire Barrere,Botic Van De Zandschulp,R,R,M,20210630,Wimbledon,R128,,7,Grass,,5,T,Zindaras
 20210630-M-Wimbledon-R128-Brandon_Nakashima-Taylor_Harry_Fritz,Brandon Nakashima,Taylor Harry Fritz,R,R,M,20210630,Wimbledon,R128,2:45 PM,16,Grass,,5,T,Lowell
 20210629-M-Wimbledon-R128-Roger_Federer-Adrian_Mannarino,Roger Federer,Adrian Mannarino,R,L,M,20210629,Wimbledon,R128,5pm,Centre,Grass,James Keothavong,5,1,Edo
@@ -18,11 +38,15 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210613-M-Bratislava_CH-F-Tallon_Griekspoor-Sebastian_Baez,Tallon Griekspoor,Sebastian Baez,R,R,M,20210613,Bratislava CH,F,12:30,Central,Clay,Mohamed El Jennati,3,1,Zindaras
 20210611-M-Roland_Garros-SF-Stefanos_Tsitsipas-Alexander_Zverev,Stefanos Tsitsipas,Alexander Zverev,R,R,M,20210611,Roland Garros,SF,3pm,Chatrier,Clay,Renaud Lichtenstein,5,0,Edo
 20210611-M-Roland_Garros-SF-Rafael_Nadal-Novak_Djokovic,Rafael Nadal,Novak Djokovic,L,R,M,20210611,Roland Garros,SF,19:10,Philippe Chatrier,Clay,Eva Asderaki Moore,5,0,Zindaras
+20210609-M-Roland_Garros-QF-Rafael_Nadal-Diego_Sebastian_Schwartzman,Rafael Nadal,Diego Sebastian Schwartzman,L,R,M,20210609,Roland Garros,QF,3:30PM,Philippe-Chatrier,Clay,Damien Dumusois,5,0,Lowell
+20210609-M-Roland_Garros-QF-Novak_Djokovic-Matteo_Berrettini,Novak Djokovic,Matteo Berrettini,R,R,M,20210609,Roland Garros,QF,8:00PM,Phillipe-Chatrier,Clay,,5,0,Lowell
 20210608-M-Roland_Garros-QF-Stefanos_Tsitsipas-Daniil_Medvedev,Stefanos Tsitsipas,Daniil Medvedev,R,R,M,20210608,Roland Garros,QF,9pm,Chatrier,Clay,Nico Helwerth,5,0,Edo
+20210608-M-Roland_Garros-QF-Alexander_Zverev-Alejandro_Davidovich_Fokina,Alexander Zverev,Alejandro Davidovich Fokina,R,R,M,20210608,Roland Garros,QF,6:05PM,Phillipe Chatrier,Clay,,5,0,Lowell
 20210605-M-Roland_Garros-R32-Roger_Federer-Dominik_Koepfer,Roger Federer,Dominik Koepfer,R,L,M,20210605,Roland Garros,R32,21:10,Philippe-Chatrier,Clay,Renaud Lichtenstein,5,0,Zindaras
 20210603-M-Roland_Garros-R64-Mikael_Ymer-Gael_Monfils,Mikael Ymer,Gael Monfils,R,R,M,20210603,Roland Garros,R64,12:50,Suzanne Lenglen,Clay,Jaume Campistol,5,0,Zindaras
 20210602-M-Roland_Garros-R64-Marin_Cilic-Roger_Federer,Marin Cilic,Roger Federer,R,R,M,20210602,Roland Garros,R64,4pm,Chatrier,Clay,Emmanuel Joseph,5,0,Edo
 20210602-M-Roland_Garros-R64-Botic_Van_De_Zandschulp-Alejandro_Davidovich_Fokina,Botic Van De Zandschulp,Alejandro Davidovich Fokina,R,R,M,20210602,Roland Garros,R64,13:10,11,Clay,,5,0,Zindaras
+20210601-M-Roland_Garros-R128-Albert_Ramos-Gael_Monfils,Albert Ramos,Gael Monfils,L,R,M,20210601,Roland Garros,R128,13:20,Suzanne Lenglen,Clay,Eva Asderaki-Moore,5,0,Zindaras
 20210531-M-Roland_Garros-R128-Denis_Istomin-Roger_Federer,Denis Istomin,Roger Federer,R,R,M,20210531,Roland Garros,R128,4pm,Chatrier,Clay,Damien Dumusois,5,0,Edo
 20210530-M-Roland_Garros-R128-Hubert_Hurkacz-Botic_Van_De_Zandschulp,Hubert Hurkacz,Botic Van De Zandschulp,R,R,M,20210530,Roland Garros,R128,19:15,14,Clay,Alexandre Robein,5,0,Zindaras
 20210530-M-Roland_Garros-R128-Gilles_Simon-Marton_Fucsovics,Gilles Simon,Marton Fucsovics,R,R,M,20210530,Roland Garros,R128,13:50,Simonne-Mathieu,Clay,Greg Allensworth,5,0,Zindaras
@@ -184,6 +208,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20200220-M-Marseille-R16-Pierre_Hugues_Herbert-Felix_Auger_Aliassime,Pierre Hugues Herbert,Felix Auger Aliassime,R,R,M,20200220,Marseille,R16,,Palais des Sports de Marseille,Hard,Christian Rask,3,1,ojustino
 20200220-M-Marseille-R16-Jannik_Sinner-Daniil_Medvedev,Jannik Sinner,Daniil Medvedev,R,R,M,20200220,Marseille,R16,,Centre,Hard,Damien Dumusois,3,1,Zindaras
 20200219-M-Rio_de_Janeiro-R16-Carlos_Alcaraz_Garfia-Federico_Coria,Carlos Alcaraz Garfia,Federico Coria,R,R,M,20200219,Rio de Janeiro,R16,20:25,Kuerten,Clay,,3,1,Big4
+20200218-M-Rio_de_Janeiro-R32-Carlos_Alcaraz_Garfia-Albert_Ramos,Carlos Alcaraz Garfia,Albert Ramos,R,L,M,20200218,Rio de Janeiro,R32,,Kuerten,Clay,Carlos Bernardes,3,1,Zindaras
 20200217-M-Rio_de_Janeiro-R32-Alejandro_Davidovich_Fokina-Thiago_Seyboth_Wild,Alejandro Davidovich Fokina,Thiago Seyboth Wild,R,R,M,20200217,Rio de Janeiro,R32,,Central,Clay,,3,1,Adrian
 20200216-M-Rotterdam-F-Felix_Auger_Aliassime-Gael_Monfils,Felix Auger Aliassime,Gael Monfils,R,R,M,20200216,Rotterdam,F,,Centre,Hard,Renaud Lichtenstein,3,1,Zindaras
 20200215-M-Rotterdam-SF-Gael_Monfils-Filip_Krajinovic,Gael Monfils,Filip Krajinovic,R,R,M,20200215,Rotterdam,SF,,,Hard,Manuel Messina,3,1,Edged
@@ -1729,6 +1754,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20130705-M-Wimbledon-SF-Novak_Djokovic-Juan_Martin_Del_Potro,Novak Djokovic,Juan Martin Del Potro,R,R,M,20130705,Wimbledon,SF,13:10,Centre,Grass,James Keothavong,5,0,Edo
 20130705-M-Wimbledon-SF-Andy_Murray-Jerzy_Janowicz,Andy Murray,Jerzy Janowicz,R,R,M,20130705,Wimbledon,SF,18:20,Centre,Grass,Jake Garner,5,0,Edo
 20130703-M-Wimbledon-QF-David_Ferrer-Juan_Martin_Del_Potro,David Ferrer,Juan Martin Del Potro,R,R,M,20130703,Wimbledon,QF,,,Grass,,5,0,Amy
+20130626-M-Wimbledon-R64-Roger_Federer-Sergiy_Stakhovsky,Roger Federer,Sergiy Stakhovsky,R,R,M,20130626,Wimbledon,R64,,Centre,Grass,Mohamed El Jennati,5,0,Salvo
 20130614-M-Halle-QF-Roger_Federer-Mischa_Zverev,Roger Federer,Mischa Zverev,R,L,M,20130614,Halle,QF,,Centre,Grass,,3,1,Daya
 20130612-M-Halle-R16-Gael_Monfils-Jan_Hernych,Gael Monfils,Jan Hernych,R,R,M,20130612,Halle,R16,14:30,,Grass,Roland Herfel,3,1,ChapelHeel66
 20130609-M-Roland_Garros-F-David_Ferrer-Rafael_Nadal,David Ferrer,Rafael Nadal,R,L,M,20130609,Roland Garros,F,,,Clay,Cedric Mourier,5,0,Amy
@@ -1967,6 +1993,8 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20100704-M-Wimbledon-F-Tomas_Berdych-Rafael_Nadal,Tomas Berdych,Rafael Nadal,R,L,M,20100704,Wimbledon,F,14:15,Centre,Grass,Jake Garner,5,0,Edo
 20100702-M-Wimbledon-SF-Tomas_Berdych-Novak_Djokovic,Tomas Berdych,Novak Djokovic,R,R,M,20100702,Wimbledon,SF,13:10,Centre,Grass,Carlos Ramos,5,0,Edo
 20100702-M-Wimbledon-SF-Andy_Murray-Rafael_Nadal,Andy Murray,Rafael Nadal,R,L,M,20100702,Wimbledon,SF,16:00,Centre,Grass,Carlos Bernardes,5,0,Edo
+20100630-M-Wimbledon-QF-Roger_Federer-Tomas_Berdych,Roger Federer,Tomas Berdych,R,R,M,20100630,Wimbledon,QF,,Centre,Grass,Mohamed Lahyani,5,0,Salvo
+20100622-M-Wimbledon-R128-Nicolas_Mahut-John_Isner,Nicolas Mahut,John Isner,R,R,M,20100622,Wimbledon,R128,,18,Grass,Mohamed Lahyani,5,0,Isaac
 20100619-M-s-Hertogenbosch-F-Sergiy_Stakhovsky-Janko_Tipsarevic,Sergiy Stakhovsky,Janko Tipsarevic,R,R,M,20100619,s-Hertogenbosch,F,11:30,Center,Grass,,3,1,Zindaras
 20100613-M-Halle-F-Roger_Federer-Lleyton_Hewitt,Roger Federer,Lleyton Hewitt,R,R,M,20100613,Halle,F,13:10,Stadion,Grass,Mohamed El Jennati,3,1,Edo
 20100606-M-Roland_Garros-F-Robin_Soderling-Rafael_Nadal,Robin Soderling,Rafael Nadal,R,L,M,20100606,Roland Garros,F,,,Clay,,5,0,Amy
@@ -3080,12 +3108,13 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19850907-M-US_Open-SF-Mats_Wilander-John_Mcenroe,Mats Wilander,John Mcenroe,R,L,M,19850907,US Open,SF,15:00,Center,Hard,Richard Kaufman,5,1,Edo
 19850907-M-US_Open-SF-Ivan_Lendl-Jimmy_Connors,Ivan Lendl,Jimmy Connors,R,L,M,19850907,US Open,SF,19:00,Ashe,Hard,Herb Kosten,5,1,Edo
 19850907-M-US_Open-SF-Ivan_Lendl-Jimmy_Connors,Ivan Lendl,Jimmy Connors,R,L,M,19850907,US Open,SF,19:00,Ashe,Hard,Herb Kosten,5,1,Edo
-19850907-M-Roland_Garros-SF-John_Mcenroe-Mats_Wilander,John Mcenroe,Mats Wilander,L,R,M,19850907,Roland Garros,SF,14:00,Chatrier,Clay,,5,0,Edo
 19850825-M-Cincinnati-F-Mats_Wilander-Boris_Becker,Mats Wilander,Boris Becker,R,R,M,19850825,Cincinnati,F,,Center,Hard,Jeremy Shales,3,1,Salvo
 19850707-M-Wimbledon-F-Boris_Becker-Kevin_Curren,Boris Becker,Kevin Curren,R,R,M,19850707,Wimbledon,F,14:00,Centre,Grass,,5,0,Edo
 19850705-M-Wimbledon-SF-Kevin_Curren-Jimmy_Connors,Kevin Curren,Jimmy Connors,R,L,M,19850705,Wimbledon,SF,14:00,Centre,Grass,Stephen Winyard,5,0,Edo
 19850705-M-Wimbledon-SF-Anders_Jarryd-Boris_Becker,Anders Jarryd,Boris Becker,R,R,M,19850705,Wimbledon,SF,5pm,Centre,Grass,,5,0,Edo
 19850609-M-Roland_Garros-F-Mats_Wilander-Ivan_Lendl,Mats Wilander,Ivan Lendl,R,R,M,19850609,Roland Garros,F,15:00,Central,Clay,Jacques Dorfmann,5,0,Edo
+19850608-M-Roland_Garros-SF-John_Mcenroe-Mats_Wilander,John Mcenroe,Mats Wilander,L,R,M,19850608,Roland Garros,SF,14:00,Chatrier,Clay,,5,0,Edo
+19850608-M-Roland_Garros-SF-Jimmy_Connors-Ivan_Lendl,Jimmy Connors,Ivan Lendl,L,R,M,19850608,Roland Garros,SF,2pm,Chatrier,Clay,,5,0,Edo
 19850519-M-Rome-F-Miloslav_Mecir-Yannick_Noah,Miloslav Mecir,Yannick Noah,R,R,M,19850519,Rome,F,,Centre,Clay,,5,1,tsitsi
 19850108-M-Tour_Finals-F-Ivan_Lendl-John_Mcenroe,Ivan Lendl,John Mcenroe,R,L,M,19850108,Tour Finals,F,15:00,Centre,Carpet,,5,1,Edo
 19850106-M-Young_Masters-F-Boris_Becker-Stefan_Edberg,Boris Becker,Stefan Edberg,R,R,M,19850106,Young Masters,F,3pm,Centre,Hard,,5,1,Edo
