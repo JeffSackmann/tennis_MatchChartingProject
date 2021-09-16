@@ -1,5 +1,39 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20210914-W-Luxembourg-R32-Anna_Lena_Friedsam-Arianne_Hartono,Anna Lena Friedsam,Arianne Hartono,R,R,W,20210914,Luxembourg,R32,13:35,Centre Court,Hard,Matthew Kellert,3,1,Zindaras
+20210909-W-US_Open-SF-Emma_Raducanu-Maria_Sakkari,Emma Raducanu,Maria Sakkari,R,R,W,20210909,US Open,SF,10:15 PM,Arthur Ashe Stadium,Hard,,3,1,Lowell
+20210908-W-US_Open-QF-Karolina_Pliskova-Maria_Sakkari,Karolina Pliskova,Maria Sakkari,R,R,W,20210908,US Open,QF,,Arthur Ashe Stadium,Hard,,3,1,Lowell
+20210907-W-US_Open-QF-Leylah_Annie_Fernandez-Elina_Svitolina,Leylah Annie Fernandez,Elina Svitolina,L,R,W,20210907,US Open,QF,15:00,Arthur Ashe,Hard,Julie Kjendlie,3,1,Zindaras
+20210906-W-US_Open-R16-Iga_Swiatek-Belinda_Bencic,Iga Swiatek,Belinda Bencic,R,R,W,20210906,US Open,R16,11:10 AM,Louis Armstrong Stadium,Hard,,3,1,Lowell
+20210906-W-US_Open-R16-Bianca_Andreescu-Maria_Sakkari,Bianca Andreescu,Maria Sakkari,R,R,W,20210906,US Open,R16,22:40,Arthur Ashe,Hard,Louise Azemar Engzell,3,1,Zindaras
+20210905-W-US_Open-R16-Barbora_Krejcikova-Garbine_Muguruza,Barbora Krejcikova,Garbine Muguruza,R,R,W,20210905,US Open,R16,,Arthur Ashe Stadium,Hard,,3,1,Lowell
+20210904-W-US_Open-R32-Petra_Kvitova-Maria_Sakkari,Petra Kvitova,Maria Sakkari,L,R,W,20210904,US Open,R32,12:10 PM,Arthur Ashe Stadium,Hard,,3,1,Lowell
+20210904-W-US_Open-R32-Iga_Swiatek-Anett_Kontaveit,Iga Swiatek,Anett Kontaveit,R,R,W,20210904,US Open,R32,,Grandstand,Hard,,3,1,Lowell
+20210904-W-US_Open-R32-Bianca_Andreescu-Greetje_Minnen,Bianca Andreescu,Greetje Minnen,R,R,W,20210904,US Open,R32,11:10,Armstrong,Hard,James Keothavong,3,1,Zindaras
+20210903-W-US_Open-R32-Leylah_Annie_Fernandez-Naomi_Osaka,Leylah Annie Fernandez,Naomi Osaka,R,R,W,20210903,US Open,R32,,Arthur Ashe Stadium,Hard,Alison Hughes,3,1,Lowell
+20210903-W-US_Open-R32-Darya_Kasatkina-Elina_Svitolina,Darya Kasatkina,Elina Svitolina,R,R,W,20210903,US Open,R32,1:15 PM,Grandstand,Hard,,3,1,Lowell
+20210902-W-US_Open-R64-Sara_Sorribes_Tormo-Su_Wei_Hsieh,Sara Sorribes Tormo,Su Wei Hsieh,R,R,W,20210902,US Open,R64,,12,Hard,Tim Mevel,3,1,Zindaras
+20210902-W-US_Open-R64-Bianca_Andreescu-Lauren_Davis,Bianca Andreescu,Lauren Davis,R,R,W,20210902,US Open,R64,19:10,Louis Armstrong,Hard,Kelly Thomson,3,1,Zindaras
+20210831-W-US_Open-R128-Sara_Sorribes_Tormo-Karolina_Muchova,Sara Sorribes Tormo,Karolina Muchova,R,R,W,20210831,US Open,R128,,6,Hard,Robert Balmforth,3,1,Zindaras
+20210831-W-US_Open-R128-Bianca_Andreescu-Viktorija_Golubic,Bianca Andreescu,Viktorija Golubic,R,R,W,20210831,US Open,R128,,Arthur Ashe,Hard,Julie Kjendlie,3,1,Zindaras
+20210825-W-US_Open-Q1-Emma_Raducanu-Bibiane_Schoofs,Emma Raducanu,Bibiane Schoofs,R,R,W,20210825,US Open,Q1,,11,Hard,Yvette Kahn,3,1,Zindaras
+20210822-W-ITF_San_Bartolome_de_Tirajana-F-Arantxa_Rus-Victoria_Jimenez_Kasintseva,Arantxa Rus,Victoria Jimenez Kasintseva,L,L,W,20210822,ITF San Bartolome de Tirajana,F,,Centre,Clay,Marc Sala,3,1,Zindaras
+20210822-W-Cincinnati-F-Ashleigh_Barty-Jil_Belen_Teichmann,Ashleigh Barty,Jil Belen Teichmann,R,L,W,20210822,Cincinnati,F,,Centre,Hard,Julie Kjendlie,3,1,Zindaras
+20210819-W-Cincinnati-R16-Victoria_Azarenka-Ashleigh_Barty,Victoria Azarenka,Ashleigh Barty,R,R,W,20210819,Cincinnati,R16,,Center,Hard,,3,1,Lowell
+20210819-W-Cincinnati-R16-Petra_Kvitova-Ons_Jabeur,Petra Kvitova,Ons Jabeur,L,R,W,20210819,Cincinnati,R16,,10,Hard,,3,1,Lowell
+20210818-W-Cincinnati-R32-Iga_Swiatek-Ons_Jabeur,Iga Swiatek,Ons Jabeur,R,R,W,20210818,Cincinnati,R32,,10,Hard,,3,1,Lowell
+20210818-W-Cincinnati-R32-Elina_Svitolina-Angelique_Kerber,Elina Svitolina,Angelique Kerber,R,L,W,20210818,Cincinnati,R32,,Center,Hard,,3,1,Lowell
+20210818-W-Cincinnati-R32-Bianca_Andreescu-Karolina_Muchova,Bianca Andreescu,Karolina Muchova,R,R,W,20210818,Cincinnati,R32,10:15,4,Hard,Juan Zhang,3,1,Zindaras
+20210816-W-Cincinnati-R64-Madison_Keys-Petra_Kvitova,Madison Keys,Petra Kvitova,R,L,W,20210816,Cincinnati,R64,2:50 PM,Center,Hard,,3,1,Lowell
+20210815-W-Montreal-F-Karolina_Pliskova-Camila_Giorgi,Karolina Pliskova,Camila Giorgi,R,R,W,20210815,Montreal,F,1:40PM,Center,Hard,,3,1,Lowell
+20210815-W-ITF_San_Bartolome_de_Tirajana-F-Arantxa_Rus-Mayar_Sherif,Arantxa Rus,Mayar Sherif,L,R,W,20210815,ITF San Bartolome de Tirajana,F,,,Clay,Marc Sala,3,1,Zindaras
+20210814-W-Montreal-SF-Camila_Giorgi-Jessica_Pegula,Camila Giorgi,Jessica Pegula,R,R,W,20210814,Montreal,SF,6:10PM,Center,Hard,,3,1,Lowell
+20210813-W-Montreal-QF-Aryna_Sabalenka-Victoria_Azarenka,Aryna Sabalenka,Victoria Azarenka,R,R,W,20210813,Montreal,QF,12:10PM,Center,Hard,,3,1,Lowell
+20210812-W-Montreal-R16-Danielle_Rose_Collins-Jessica_Pegula,Danielle Rose Collins,Jessica Pegula,R,R,W,20210812,Montreal,R16,11:05PM,Center,Hard,Marija Cicak,3,1,Lowell
+20210812-W-Montreal-R16-Camila_Giorgi-Petra_Kvitova,Camila Giorgi,Petra Kvitova,R,L,W,20210812,Montreal,R16,,Center,Hard,,3,1,Lowell
+20210812-W-Montreal-R16-Bianca_Andreescu-Ons_Jabeur,Bianca Andreescu,Ons Jabeur,R,R,W,20210812,Montreal,R16,19:10,Centre,Hard,Juan Zhang,3,1,Zindaras
 20210811-W-Montreal-R32-Rebecca_Marino-Paula_Badosa,Rebecca Marino,Paula Badosa,R,R,W,20210811,Montreal,R32,11:10,Centre,Hard,Morgane Lara,3,1,Zindaras
+20210810-W-Montreal-R64-Elena_Rybakina-Ludmilla_Samsonova,Elena Rybakina,Ludmilla Samsonova,R,R,W,20210810,Montreal,R64,,9,Hard,,3,1,Lowell
+20210810-W-Montreal-R32-Fiona_Ferro-Petra_Kvitova,Fiona Ferro,Petra Kvitova,R,L,W,20210810,Montreal,R32,2:50PM,Center,Hard,,3,1,Lowell
 20210810-W-Montreal-R32-Bianca_Andreescu-Harriet_Dart,Bianca Andreescu,Harriet Dart,R,R,W,20210810,Montreal,R32,19:10,Centre Court,Hard,Cecilia Alberti,3,1,Zindaras
 20210805-W-Cluj_Napoca-R16-Alexandra_Eala-Mayar_Sherif,Alexandra Eala,Mayar Sherif,L,R,W,20210805,Cluj Napoca,R16,,Center,Clay,,3,1,Isaac
 20210729-W-Olympics-SF-Elina_Svitolina-Marketa_Vondrousova,Elina Svitolina,Marketa Vondrousova,R,L,W,20210729,Olympics,SF,19:40,Centre,Hard,Emmanuel Joseph,3,1,Zindaras
@@ -152,6 +186,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210209-W-Australian_Open-R128-Destanee_Aiava-Samantha_Stosur,Destanee Aiava,Samantha Stosur,R,R,W,20210209,Australian Open,R128,18:20,John Cain Arena,Hard,Tom Sweeney,3,A,Zindaras
 20210209-W-Australian_Open-R128-Cori_Gauff-Jil_Belen_Teichmann,Cori Gauff,Jil Belen Teichmann,R,L,W,20210209,Australian Open,R128,14:15,John Cain Arena,Hard,,3,A,Zindaras
 20210209-W-Australian_Open-R128-Chloe_Paquet-Mayar_Sherif,Chloe Paquet,Mayar Sherif,R,R,W,20210209,Australian Open,R128,,6,Hard,John Blom,3,A,ojustino
+20210209-W-Australian_Open-R128-Barbora_Zahlavova_Strycova-Svetlana_Kuznetsova,Barbora Zahlavova Strycova,Svetlana Kuznetsova,R,R,W,20210209,Australian Open,R128,,14,Hard,Nico Helwerth,3,A,Zindaras
 20210208-W-Australian_Open-R128-Tsvetana_Pironkova-Su_Wei_Hsieh,Tsvetana Pironkova,Su Wei Hsieh,R,R,W,20210208,Australian Open,R128,,13,Hard,,3,A,Zindaras
 20210208-W-Australian_Open-R128-Serena_Williams-Laura_Siegemund,Serena Williams,Laura Siegemund,R,R,W,20210208,Australian Open,R128,,Rod Laver Arena,Hard,,3,1,Isaac
 20210208-W-Australian_Open-R128-Rebecca_Marino-Kimberly_Birrell,Rebecca Marino,Kimberly Birrell,R,R,W,20210208,Australian Open,R128,,7,Hard,,3,A,Zindaras
