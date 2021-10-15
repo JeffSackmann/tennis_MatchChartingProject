@@ -1,18 +1,33 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20211013-M-Indian_Wells-R16-Grigor_Dimitrov-Daniil_Medvedev,Grigor Dimitrov,Daniil Medvedev,R,R,M,20211013,Indian Wells,R16,13:15,Stadium 1,Hard,Greg Allensworth,3,1,Zindaras
+20211010-M-Napoli_CH-F-Tallon_Griekspoor-Andrea_Pellegrino,Tallon Griekspoor,Andrea Pellegrino,R,R,M,20211010,Napoli CH,F,,,Clay,,3,1,Zindaras
+20211010-M-Indian_Wells-R64-Andy_Murray-Carlos_Alcaraz_Garfia,Andy Murray,Carlos Alcaraz Garfia,R,R,M,20211010,Indian Wells,R64,13:05,Stadium 2,Hard,Mohamed Lahyani,3,1,Zindaras
+20211007-M-Indian_Wells-R128-Marcos_Giron-Botic_Van_De_Zandschulp,Marcos Giron,Botic Van De Zandschulp,R,R,M,20211007,Indian Wells,R128,,Stadium 3,Hard,Renaud Lichtenstein,3,1,Zindaras
+20211003-M-Sofia-F-Jannik_Sinner-Gael_Monfils,Jannik Sinner,Gael Monfils,R,R,M,20211003,Sofia,F,3pm,Centre,Hard,Nacho Forcadell,3,1,Edo
+20211003-M-Murcia_CH-F-Roberto_Carballes_Baena-Tallon_Griekspoor,Roberto Carballes Baena,Tallon Griekspoor,R,R,M,20211003,Murcia CH,F,12:10,,Clay,,3,1,Zindaras
+20210918-M-Davis_Cup_Group_I-RR-Martin_Cuevas-Tallon_Griekspoor,Martin Cuevas,Tallon Griekspoor,R,R,M,20210918,Davis Cup Group I,RR,,Carrasco Lawn Tenis,Clay,Manuel Absolu,3,1,Zindaras
+20210918-M-Davis_Cup_Group_I-RR-Francisco_Llanes-Botic_Van_De_Zandschulp,Francisco Llanes,Botic Van De Zandschulp,R,R,M,20210918,Davis Cup Group I,RR,11:10,Carrasco Lawn Tenis,Clay,,3,1,Zindaras
 20210912-M-US_Open-F-Novak_Djokovic-Daniil_Medvedev,Novak Djokovic,Daniil Medvedev,R,R,M,20210912,US Open,F,4pm,Ashe,Hard,Damien Dumusois,5,1,Edo
+20210910-M-US_Open-SF-Novak_Djokovic-Alexander_Zverev,Novak Djokovic,Alexander Zverev,R,R,M,20210910,US Open,SF,7pm,Ashe,Hard,Eva Asderaki-Moore,5,1,Edo
 20210910-M-US_Open-SF-Felix_Auger_Aliassime-Daniil_Medvedev,Felix Auger Aliassime,Daniil Medvedev,R,R,M,20210910,US Open,SF,3pm,Ashe,Hard,Jaume Campistol,5,1,Edo
 20210907-M-US_Open-QF-Botic_Van_De_Zandschulp-Daniil_Medvedev,Botic Van De Zandschulp,Daniil Medvedev,R,R,M,20210907,US Open,QF,12:15,Arthur Ashe,Hard,Greg Allensworth,5,1,Zindaras
 20210906-M-US_Open-R16-Jenson_Brooksby-Novak_Djokovic,Jenson Brooksby,Novak Djokovic,R,R,M,20210906,US Open,R16,19:15,Arthur Ashe,Hard,Renaud Lichtenstein,5,1,Zindaras
 20210906-M-US_Open-R16-Jannik_Sinner-Alexander_Zverev,Jannik Sinner,Alexander Zverev,R,R,M,20210906,US Open,R16,12pm,Ashe,Hard,Jaume Campistol,5,1,Edo
+20210905-M-US_Open-R16-Peter_Gojowczyk-Carlos_Alcaraz_Garfia,Peter Gojowczyk,Carlos Alcaraz Garfia,R,R,M,20210905,US Open,R16,17:05,Grandstand,Hard,Jimmy Pinoargote,5,1,Zindaras
 20210905-M-US_Open-R16-Diego_Sebastian_Schwartzman-Botic_Van_De_Zandschulp,Diego Sebastian Schwartzman,Botic Van De Zandschulp,R,R,M,20210905,US Open,R16,11:10,Louis Armstrong Stadium,Hard,Alison Hughes,5,1,Zindaras
 20210904-M-US_Open-R32-Jannik_Sinner-Gael_Monfils,Jannik Sinner,Gael Monfils,R,R,M,20210904,US Open,R32,14:10,Armstrong,Hard,Jennifer Zhang,5,1,Zindaras
+20210903-M-US_Open-R32-Stefanos_Tsitsipas-Carlos_Alcaraz_Garfia,Stefanos Tsitsipas,Carlos Alcaraz Garfia,R,R,M,20210903,US Open,R32,3pm,Ashe,Hard,James Keothavong,5,1,Edo
 20210903-M-US_Open-R32-Facundo_Bagnis-Botic_Van_De_Zandschulp,Facundo Bagnis,Botic Van De Zandschulp,L,R,M,20210903,US Open,R32,17:30,17,Hard,Christian Rask,5,1,Zindaras
+20210902-M-US_Open-R64-Taylor_Harry_Fritz-Jenson_Brooksby,Taylor Harry Fritz,Jenson Brooksby,R,R,M,20210902,US Open,R64,17:40,Grandstand,Hard,Alex Robein,5,1,Zindaras
 20210902-M-US_Open-R64-Novak_Djokovic-Tallon_Griekspoor,Novak Djokovic,Tallon Griekspoor,R,R,M,20210902,US Open,R64,19:15,Arthur Ashe,Hard,Renaud Lichtenstein,5,1,Zindaras
+20210902-M-US_Open-R64-Jordan_Thompson-Aslan_Karatsev,Jordan Thompson,Aslan Karatsev,R,R,M,20210902,US Open,R64,,11,Hard,Greg  Allensworth,5,1,Zindaras
 20210901-M-US_Open-R64-Casper_Ruud-Botic_Van_De_Zandschulp,Casper Ruud,Botic Van De Zandschulp,R,R,M,20210901,US Open,R64,,13,Hard,Jimmy Pinoargote,5,1,Zindaras
+20210831-M-US_Open-R128-Tallon_Griekspoor-Jan_Lennard_Struff,Tallon Griekspoor,Jan Lennard Struff,R,R,M,20210831,US Open,R128,,9,Hard,Jimmy Pinoargote,5,1,Zindaras
 20210831-M-US_Open-R128-Mikael_Ymer-Jenson_Brooksby,Mikael Ymer,Jenson Brooksby,R,R,M,20210831,US Open,R128,,4,Hard,Carlos Bernardes,5,1,Zindaras
 20210831-M-US_Open-R128-Maxime_Cressy-Pablo_Carreno_Busta,Maxime Cressy,Pablo Carreno Busta,R,R,M,20210831,US Open,R128,,4,Hard,Alison Hughes,5,1,Zindaras
 20210831-M-US_Open-R128-Feliciano_Lopez-Bernabe_Zapata_Miralles,Feliciano Lopez,Bernabe Zapata Miralles,L,R,M,20210831,US Open,R128,,6,Hard,Damien Dumusois,5,1,Zindaras
 20210831-M-US_Open-R128-Daniil_Medvedev-Richard_Gasquet,Daniil Medvedev,Richard Gasquet,R,R,M,20210831,US Open,R128,11:05 PM,Arthur Ashe,Hard,,5,1,Ludo
+20210831-M-US_Open-R128-Andreas_Seppi-Marton_Fucsovics,Andreas Seppi,Marton Fucsovics,R,R,M,20210831,US Open,R128,,8,Hard,Marijana Veljovic,5,1,Zindaras
 20210830-M-US_Open-R128-Stefanos_Tsitsipas-Andy_Murray,Stefanos Tsitsipas,Andy Murray,R,R,M,20210830,US Open,R128,,Arthur Ashe,Hard,,5,1,Zindaras
 20210830-M-US_Open-R128-Carlos_Taberner-Botic_Van_De_Zandschulp,Carlos Taberner,Botic Van De Zandschulp,R,R,M,20210830,US Open,R128,17:05,15,Hard,Marko Savic,5,1,Zindaras
 20210830-M-US_Open-R128-Andrey_Rublev-Ivo_Karlovic,Andrey Rublev,Ivo Karlovic,R,R,M,20210830,US Open,R128,13:05,Grandstand,Hard,,5,1,Ludo
@@ -1611,6 +1626,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20141029-M-Paris_Masters-R16-Grigor_Dimitrov-Andy_Murray,Grigor Dimitrov,Andy Murray,R,R,M,20141029,Paris Masters,R16,,,Hard,,3,1,Isaac
 20141026-M-Valencia-F-Andy_Murray-Tommy_Robredo,Andy Murray,Tommy Robredo,R,R,M,20141026,Valencia,F,17:10,Agora,Hard,Carlos Bernardes,3,1,1HandBH
 20141019-M-Vienna-F-David_Ferrer-Andy_Murray,David Ferrer,Andy Murray,R,R,M,20141019,Vienna,F,15:05,Central,Hard,Carlos Bernardes,3,1,Edo
+20141017-M-Stockholm-QF-Grigor_Dimitrov-Jack_Sock,Grigor Dimitrov,Jack Sock,R,R,M,20141017,Stockholm,QF,17:40,Centre Court,Hard,,3,1,1HandBH
 20141011-M-Shanghai_Masters-SF-Feliciano_Lopez-Gilles_Simon,Feliciano Lopez,Gilles Simon,L,R,M,20141011,Shanghai Masters,SF,17:40,Stadium,Hard,,3,1,Carrie
 20141004-M-Beijing-SF-Novak_Djokovic-Andy_Murray,Novak Djokovic,Andy Murray,R,R,M,20141004,Beijing,SF,1pm,National Tennis Stadium,Hard,Damian Steiner,3,1,Edo
 20141003-M-Mons_CH-QF-Alexander_Zverev-David_Goffin,Alexander Zverev,David Goffin,R,R,M,20141003,Mons CH,QF,19:40,,Hard,,3,1,1HandBH
@@ -1761,6 +1777,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20131101-M-Paris_Masters-QF-Novak_Djokovic-Stanislas_Wawrinka,Novak Djokovic,Stanislas Wawrinka,R,R,M,20131101,Paris Masters,QF,,,Hard,,3,1,Isaac
 20131031-M-Paris_Masters-R16-John_Isner-Novak_Djokovic,John Isner,Novak Djokovic,R,R,M,20131031,Paris Masters,R16,,,Hard,,3,1,Isaac
 20131028-M-Paris_Masters-QF-Richard_Gasquet-Rafael_Nadal,Richard Gasquet,Rafael Nadal,R,L,M,20131028,Paris Masters,QF,,,Hard,,3,1,Isaac
+20131027-M-Valencia-F-Mikhail_Youzhny-David_Ferrer,Mikhail Youzhny,David Ferrer,R,R,M,20131027,Valencia,F,3pm,Centre,Hard,Carlos Bernardes,3,1,Edo
 20131027-M-Basel-F-Juan_Martin_Del_Potro-Roger_Federer,Juan Martin Del Potro,Roger Federer,R,R,M,20131027,Basel,F,15:40,Center,Hard (indoor),,3,1,Vaibhav Shevade
 20131025-M-Basel-QF-Grigor_Dimitrov-Roger_Federer,Grigor Dimitrov,Roger Federer,R,R,M,20131025,Basel,QF,,,Hard,,3,1,Amy
 20131013-M-Shanghai_Masters-F-Novak_Djokovic-Juan_Martin_Del_Potro,Novak Djokovic,Juan Martin del Potro,R,R,M,20131013,Shanghai Masters,F,,Stadium,Hard,Damien Dumusois,3,1,Backstop5
@@ -1786,6 +1803,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20130806-M-Canada_Masters-R64-Vasek_Pospisil-John_Isner,Vasek Pospisil,John Isner,R,R,M,20130806,Canada Masters,R64,,Court Central,Hard,,3,1,@CanuckKicker
 20130805-M-Canada_Masters-R64-Peter_Polansky-Kei_Nishikori,Peter Polansky,Kei Nishikori,R,R,M,20130805,Canada Masters,R64,,Court Central,Hard,Damian Steiner,3,1,@CanuckKicker
 20130804-M-Washington-F-John_Isner-Juan_Martin_Del_Potro,John Isner,Juan Martin Del Potro,R,R,M,20130804,Washington,F,3pm,Centre,Hard,Mohamed Lahyani,3,1,Edo
+20130731-M-Hamburg-F-Federico_Delbonis-Fabio_Fognini,Federico Delbonis,Fabio Fognini,R,R,M,20130731,Hamburg,F,2pm,Centre,Clay,Cedric Mourier,3,1,Edo
 20130729-M-Washington-R16-Bernard_Tomic-Juan_Martin_Del_Potro,Bernard Tomic,Juan Martin Del Potro,R,R,M,20130729,Washington,R16,,,Hard,,3,1,Amy
 20130728-M-Atlanta-F-Kevin_Anderson-John_Isner,Kevin Anderson,John Isner,R,R,M,20130728,Atlanta,F,,Center,Hard,,3,1,1HandBH
 20130724-M-Lexington_CH-R16-James_Ward-Mitchell_Krueger,James Ward,Mitchell Krueger,R,R,M,20130724,Lexington CH,R16,,Stadium 1,Hard,,3,1,Joey Hanf
@@ -1847,6 +1865,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20121102-M-Paris_Masters-QF-David_Ferrer-Jo_Wilfried_Tsonga,David Ferrer,Jo Wilfried Tsonga,R,R,M,20121102,Paris Masters,QF,20:40,Centre,Hard,,3,1,cameron10
 20121029-M-Paris_Masters-R16-Michael_Llodra-Juan_Martin_Del_Potro,Michael Llodra,Juan Martin Del Potro,L,R,M,20121029,Paris Masters,R16,,,Hard,,3,1,Isaac
 20121029-M-Paris_Masters-F-David_Ferrer-Jerzy_Janowicz,David Ferrer,Jerzy Janowicz,R,R,M,20121029,Paris Masters,F,,Centre,Hard,,3,1,Isaac
+20121028-M-Valencia-F-David_Ferrer-Alexandr_Dolgopolov,David Ferrer,Alexandr Dolgopolov,R,R,M,20121028,Valencia,F,3pm,Centre,Hard,Damian Steiner,3,1,Edo
 20121028-M-Basel-F-Roger_Federer-Juan_Martin_Del_Potro,Roger Federer,Juan Martin Del Potro,R,R,M,20121028,Basel,F,15:05,Centre,Hard,Lars Graff,3,1,Edo
 20121013-M-Shanghai_Masters-SF-Novak_Djokovic-Tomas_Berdych,Novak Djokovic,Tomas Berdych,R,R,M,20121013,Shanghai Masters,SF,16:40,Stadium,Hard,,3,1,Carrie
 20121012-M-Shanghai_Masters-SF-Roger_Federer-Andy_Murray,Roger Federer,Andy Murray,R,R,M,20121012,Shanghai Masters,SF,,,Hard,,3,1,Isaac
@@ -1891,6 +1910,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20120728-M-Olympics-R64-Roger_Federer-Alejandro_Falla,Roger Federer,Alejandro Falla,R,L,M,20120728,Olympics,R64,,Centre,Grass,Carlos Bernardes,3,0,Salvo
 20120728-M-Kitzbuhel-F-Robin_Haase-Philipp_Kohlschreiber,Robin Haase,Philipp Kohlschreiber,R,R,M,20120728,Kitzbuhel,F,,Stadion am Kapserfeld,Clay,Cedric Mourier,3,1,Zindaras
 20120725-M-Olympics-R32-Roger_Federer-Julien_Benneteau,Roger Federer,Julien Benneteau,R,R,M,20120725,Olympics,R32,,,Grass,,3,1,Isaac
+20120722-M-Hamburg-F-Tommy_Haas-Juan_Monaco,Tommy Haas,Juan Monaco,R,R,M,20120722,Hamburg,F,2pm,Centre,Clay,Carlos Bernardes,3,1,Edo
 20120722-M-Gstaad-F-Janko_Tipsarevic-Thomaz_Bellucci,Janko Tipsarevic,Thomaz Bellucci,R,L,M,20120722,Gstaad,F,,Centre,Clay,Cedric Mourier,3,1,Zindaras
 20120708-M-Wimbledon-F-Roger_Federer-Andy_Murray,Roger Federer,Andy Murray,R,R,M,20120708,Wimbledon,F,14:10,Centre,Grass,Enric Molina,5,0,Paul
 20120706-M-Wimbledon-SF-Roger_Federer-Novak_Djokovic,Roger Federer,Novak Djokovic,R,R,M,20120706,Wimbledon,SF,,Centre,Grass,,5,0,Geethika
@@ -1915,8 +1935,10 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20120325-M-Miami_Masters-R32-Grigor_Dimitrov-Tomas_Berdych,Grigor Dimitrov,Tomas Berdych,R,R,M,20120325,Miami Masters,R32,11:15,Stadium,Hard,Mohamed El Jennati,3,1,1HandBH
 20120319-M-Indian_Wells_Masters-F-Roger_Federer-John_Isner,Roger Federer,John Isner,R,R,M,20120319,Indian Wells Masters,F,14:05,Stadium 1,Hard (outdoor),Mohamed Lahyani,3,1,cameron10
 20120316-M-Indian_Wells_Masters-SF-Roger_Federer-Rafael_Nadal,Roger Federer,Rafael Nadal,R,L,M,20120316,Indian Wells Masters,SF,12:17,Centre Court,Hard,Steve Ullrich,3,1,Sagar Manohar
+20120304-M-Acapulco-F-David_Ferrer-Fernando_Verdasco,David Ferrer,Fernando Verdasco,R,L,M,20120304,Acapulco,F,7pm,Chanca Central,Clay,Carlos Bernardes,3,1,Edo
 20120303-M-Dubai-F-Andy_Murray-Roger_Federer,Andy Murray,Roger Federer,R,R,M,20120303,Dubai,F,20:10,Centre,Hard,Mohamed Lahyani,3,1,Chris Devine
 20120227-M-Dubai-SF-Andy_Murray-Novak_Djokovic,Andy Murray,Novak Djokovic,R,R,M,20120227,Dubai,SF,,Centre,Hard,,3,1,Isaac
+20120226-M-Memphis-F-Milos_Raonic-Jurgen_Melzer,Milos Raonic,Jurgen Melzer,R,L,M,20120226,Memphis,F,3pm,Centre,Hard,Ali Nili,3,1,Edo
 20120225-M-Buenos_Aires-SF-David_Ferrer-David_Nalbandian,David Ferrer,David Nalbandian,R,R,M,20120225,Buenos Aires,SF,,,Clay,,3,1,Isaac
 20120221-M-Buenos_Aires-R32-Nicolas_Almagro-Potito_Starace,Nicolas Almagro,Potito Starace,R,R,M,20120221,Buenos Aires,R32,15:55,Centre,Clay,,3,1,1HandBH
 20120219-M-Rotterdam-F-Roger_Federer-Juan_Martin_Del_Potro,Roger Federer,Juan Martin del Potro,R,R,M,20120219,Rotterdam,F,,,Hard,,3,1,Amy
@@ -2049,6 +2071,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20100404-M-Miami_Masters-F-Tomas_Berdych-Andy_Roddick,Tomas Berdych,Andy Roddick,R,R,M,20100404,Miami Masters,F,13:10,Stadium,Hard,Cedric Mourier,3,1,Edo
 20100403-M-Miami_Masters-SF-Andy_Roddick-Rafael_Nadal,Andy Roddick,Rafael Nadal,R,L,M,20100403,Miami Masters,SF,3pm,Centre,Hard,Fergus Murphy,3,1,Edo
 20100227-M-Dubai-F-Novak_Djokovic-Mikhail_Youzhny,Novak Djokovic,Mikhail Youzhny,R,R,M,20100227,Dubai,F,7pm,Centre,Hard,Mohamed Lahyani / Cedric Mourier,3,1,Edo
+20100214-M-Rotterdam-F-Robin_Soderling-Mikhail_Youzhny,Robin Soderling,Mikhail Youzhny,R,R,M,20100214,Rotterdam,F,3pm,Centre,Hard,Gerry Armstrong,3,1,Edo
 20100131-M-Australian_Open-F-Roger_Federer-Andy_Murray,Roger Federer,Andy Murray,R,R,M,20100131,Australian Open,F,,Rod Laver,Hard,,5,0,Edged
 20100128-M-Australian_Open-SF-Roger_Federer-Jo_Wilfried_Tsonga,Roger Federer,Jo Wilfried Tsonga,R,R,M,20100128,Australian Open,SF,20:40,Rod Laver Arena,Hard,Jake Garner,5,0,Edo
 20100128-M-Australian_Open-SF-Andy_Murray-Marin_Cilic,Andy Murray,Marin Cilic,R,R,M,20100128,Australian Open,SF,6.30pm,Rod Laver Arena,Hard,Pascal Maria,5,0,Edo
@@ -2090,6 +2113,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20090815-M-Canada_Masters-SF-Andy_Roddick-Juan_Martin_Del_Potro,Andy Roddick,Juan Martin Del Potro,R,R,M,20090815,Canada Masters,SF,7pm,Centre,Hard,Carlos Bernardes,3,1,Edo
 20090815-M-Canada_Masters-SF-Andy_Murray-Jo_Wilfried_Tsonga,Andy Murray,Jo Wilfried Tsonga,R,R,M,20090815,Canada Masters,SF,2pm,Centre,Hard,Steve Ullrich,3,1,Edo
 20090809-M-Washington-F-Andy_Roddick-Juan_Martin_Del_Potro,Andy Roddick,Juan Martin Del Potro,R,R,M,20090809,Washington,F,,Stadium,Hard,Norm Chryst,3,1,ojustino
+20090726-M-Hamburg-F-Paul_Henri_Mathieu-Nikolay_Davydenko,Paul Henri Mathieu,Nikolay Davydenko,R,R,M,20090726,Hamburg,F,2pm,Centre,Clay,Carlos Bernardes,3,1,Edo
 20090705-M-Wimbledon-F-Andy_Roddick-Roger_Federer,Andy Roddick,Roger Federer,R,R,M,20090705,Wimbledon,F,,Centre,Grass,Lars Graff,5,0,Paul
 20090703-M-Wimbledon-SF-Tommy_Haas-Roger_Federer,Tommy Haas,Roger Federer,R,R,M,20090703,Wimbledon,SF,13:10,Centre,Grass,Enric Molina,5,0,Edo
 20090703-M-Wimbledon-SF-Andy_Roddick-Andy_Murray,Andy Roddick,Andy Murray,R,R,M,20090703,Wimbledon,SF,15:35,Centre,Grass,Pascal Maria,5,0,Edo
@@ -2640,6 +2664,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19990912-M-US_Open-F-Todd_Martin-Andre_Agassi,Todd Martin,Andre Agassi,R,R,M,19990912,US Open,F,16:00,Ashe,Hard,Norm Chryst,5,1,Edo
 19990904-M-US_Open-SF-Yevgeny_Kafelnikov-Andre_Agassi,Yevgeny Kafelnikov,Andre Agassi,R,R,M,19990904,US Open,SF,14:30,Ashe,Hard,Mike Morrissey,5,1,Edo
 19990904-M-US_Open-SF-Todd_Martin-Cedric_Pioline,Todd Martin,Cedric Pioline,R,R,M,19990904,US Open,SF,11:00,Ashe,Hard,Steve Ullrich,5,1,Edo
+19990822-M-Washington-F-Yevgeny_Kafelnikov-Andre_Agassi,Yevgeny Kafelnikov,Andre Agassi,R,R,M,19990822,Washington,F,3pm,Centre,Hard,Lars Graff,3,1,Edo
 19990816-M-Cincinnati_Masters-F-Patrick_Rafter-Pete_Sampras,Patrick Rafter,Pete Sampras,R,R,M,19990816,Cincinnati Masters,F,16:00,Center,Hard,Norm Chryst,3,1,Edo
 19990815-M-Cincinnati_Masters-SF-Pete_Sampras-Andre_Agassi,Pete Sampras,Andre Agassi,R,R,M,19990815,Cincinnati Masters,SF,,Centre,Hard,,3,1,Damian Kust
 19990814-M-Cincinnati_Masters-SF-Patrick_Rafter-Yevgeny_Kafelnikov,Patrick Rafter,Yevgeny Kafelnikov,R,R,M,19990814,Cincinnati Masters,SF,7pm,Centre,Hard,,3,1,Edo
@@ -2996,6 +3021,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19910825-M-Long_Island-F-Stefan_Edberg-Ivan_Lendl,Stefan Edberg,Ivan Lendl,R,R,M,19910825,Long Island,F,3pm,Centre,Hard,Rudy Berger,3,1,Edo
 19910818-M-Indianapolis-F-Pete_Sampras-Boris_Becker,Pete Sampras,Boris Becker,R,R,M,19910818,Indianapolis,F,11am,Centre,Hard,Paulo Pereira,3,1,Edo
 19910811-M-Cincinnati_Masters-F-Pete_Sampras-Guy_Forget,Pete Sampras,Guy Forget,R,L,M,19910811,Cincinnati Masters,F,,Centre,Hard,Dana Loconto,3,1,Palaver
+19910810-M-Cincinnati_Masters-SF-Boris_Becker-Guy_Forget,Boris Becker,Guy Forget,R,L,M,19910810,Cincinnati Masters,SF,3pm,Central,Hard,Paulo Pereira,3,1,Edo
 19910728-M-Canada_Masters-F-Petr_Korda-Andrei_Chesnokov,Petr Korda,Andrei Chesnokov,L,R,M,19910728,Canada Masters,F,15:00,Montreal,Hard,Richard Ings,3,1,Edo
 19910727-M-Canada_Masters-SF-Jim_Courier-Petr_Korda,Jim Courier,Petr Korda,R,L,M,19910727,Canada Masters,SF,,Central,Hard,Paulo Pereira,3,1,Edo
 19910727-M-Canada_Masters-SF-Ivan_Lendl-Andrei_Chesnokov,Ivan Lendl,Andrei Chesnokov,R,R,M,19910727,Canada Masters,SF,,Central,Hard,Dana Loconto,3,1,Edo
