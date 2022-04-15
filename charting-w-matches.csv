@@ -1,11 +1,40 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20220407-W-Bogota-R16-Suzan_Lamens-Irina_Maria_Bara,Suzan Lamens,Irina Maria Bara,R,R,W,20220407,Bogota,R16,,Cancha Central,Clay,Fabio Souza,3,1,Zindaras
+20220406-W-Charleston-R32-Linda_Fruhvirtova-Belinda_Bencic,Linda Fruhvirtova,Belinda Bencic,R,R,W,20220406,Charleston,R32,,,Clay,Yvette Kahn,3,1,Elephant
+20220405-W-Bogota-R32-Suzan_Lamens-Astra_Sharma,Suzan Lamens,Astra Sharma,R,R,W,20220405,Bogota,R32,,Cancha 3,Clay,F. Baron Santly,3,1,Zindaras
+20220404-W-Charleston-R64-Linda_Fruhvirtova-Ana_Konjuh,Linda Fruhvirtova,Ana Konjuh,R,R,W,20220404,Charleston,R64,,,Clay,Katarzyna Radwan-Cho,3,1,Elephant
+20220402-W-Miami-F-Naomi_Osaka-Iga_Swiatek,Naomi Osaka,Iga Swiatek,R,R,W,20220402,Miami,F,13:10,Stadium,Hard,Marija Cicak,3,1,Zindaras
+20220331-W-Miami-SF-Jessica_Pegula-Iga_Swiatek,Jessica Pegula,Iga Swiatek,R,R,W,20220331,Miami,SF,,,Hard,Juan Zhang,3,1,Elephant
+20220330-W-Miami-QF-Iga_Swiatek-Petra_Kvitova,Iga Swiatek,Petra Kvitova,R,L,W,20220330,Miami,QF,,,Hard,Marija Cicak,3,1,Elephant
+20220328-W-Miami-R16-Linda_Fruhvirtova-Paula_Badosa,Linda Fruhvirtova,Paula Badosa,R,R,W,20220328,Miami,R16,21:10,Stadium,Hard,Marija Cicak,3,1,Zindaras
+20220328-W-Miami-R16-Cori_Gauff-Iga_Swiatek,Cori Gauff,Iga Swiatek,R,R,W,20220328,Miami,R16,,,Hard,Juan Zhang,3,1,Elephant
+20220327-W-Miami-R32-Linda_Fruhvirtova-Victoria_Azarenka,Linda Fruhvirtova,Victoria Azarenka,R,R,W,20220327,Miami,R32,13:35,,Hard,Cecilia Alberti,3,1,Zindaras
+20220327-W-Miami-R32-Iga_Swiatek-Madison_Brengle,Iga Swiatek,Madison Brengle,R,R,W,20220327,Miami,R32,,,Hard,Miriam Bley,3,1,Elephant
+20220325-W-Miami-R64-Linda_Fruhvirtova-Elise_Mertens,Linda Fruhvirtova,Elise Mertens,R,R,W,20220325,Miami,R64,,,Hard,,3,1,Elephant
+20220325-W-Miami-R64-Iga_Swiatek-Viktorija_Golubic,Iga Swiatek,Viktorija Golubic,R,R,W,20220325,Miami,R64,,,Hard,Marija Cicak,3,1,Elephant
+20220324-W-Miami-R64-Emma_Raducanu-Katerina_Siniakova,Emma Raducanu,Katerina Siniakova,R,R,W,20220324,Miami,R64,15:05,Stadium,Hard,Marija Cicak,3,1,Zindaras
+20220323-W-Miami-R128-Danka_Kovinic-Linda_Fruhvirtova,Danka Kovinic,Linda Fruhvirtova,R,R,W,20220323,Miami,R128,,,Hard,,3,1,Elephant
+20220320-W-Indian_Wells-F-Iga_Swiatek-Maria_Sakkari,Iga Swiatek,Maria Sakkari,R,R,W,20220320,Indian Wells,F,13:10,Stadium 1,Hard,Juan Zhang,3,1,Zindaras
+20220318-W-Indian_Wells-SF-Maria_Sakkari-Paula_Badosa,Maria Sakkari,Paula Badosa,R,R,W,20220318,Indian Wells,SF,20:15,Stadium 1,Hard,Kader Nouni,3,1,Zindaras
+20220316-W-Indian_Wells-QF-Iga_Swiatek-Madison_Keys,Iga Swiatek,Madison Keys,R,R,W,20220316,Indian Wells,QF,,,Hard,Paula Vieira Souza,3,1,Elephant
+20220315-W-Indian_Wells-R16-Iga_Swiatek-Angelique_Kerber,Iga Swiatek,Angelique Kerber,R,L,W,20220315,Indian Wells,R16,,,Hard,Thomas Sweeney,3,1,Elephant
+20220314-W-Indian_Wells-R32-Jasmine_Paolini-Viktorija_Golubic,Jasmine Paolini,Viktorija Golubic,R,R,W,20220314,Indian Wells,R32,14:25,Stadium 3,Hard,Thomas Sweeney,3,1,Zindaras
+20220313-W-Indian_Wells-R64-Kaja_Juvan-Sara_Sorribes_Tormo,Kaja Juvan,Sara Sorribes Tormo,R,R,W,20220313,Indian Wells,R64,,,Hard,Paula Vieira Souza,3,1,Zindaras
 20220313-W-Indian_Wells-R32-Iga_Swiatek-Clara_Tauson,Iga Swiatek,Clara Tauson,R,R,W,20220313,Indian Wells,R32,,,Hard,Kader Nouni,3,1,Elephant
+20220312-W-Indian_Wells-R64-Tereza_Martincova-Paula_Badosa,Tereza Martincova,Paula Badosa,R,R,W,20220312,Indian Wells,R64,15:40,Stadium 1,Hard,Marija Cicak,3,1,Zindaras
+20220312-W-Indian_Wells-R64-Garbine_Muguruza-Alison_Riske,Garbine Muguruza,Alison Riske,R,R,W,20220312,Indian Wells,R64,15:20,Stadium 1,Hard,Paula Vieira Souza,3,1,Zindaras
+20220312-W-Indian_Wells-R64-Daria_Gavrilova-Ons_Jabeur,Daria Gavrilova,Ons Jabeur,R,R,W,20220312,Indian Wells,R64,,Stadium 9,Hard,Pablo Rodriguez,3,1,Zindaras
 20220311-W-Indian_Wells-R64-Iga_Swiatek-Anhelina_Kalinina,Iga Swiatek,Anhelina Kalinina,R,R,W,20220311,Indian Wells,R64,,,Hard,,3,1,Elephant
 20220311-W-Indian_Wells-R64-Beatriz_Haddad_Maia-Clara_Tauson,Beatriz Haddad Maia,Clara Tauson,L,R,W,20220311,Indian Wells,R64,,,Hard,Marija Cicak,,1,Elephant
+20220311-W-Indian_Wells-R64-Angelique_Kerber-Qinwen_Zheng,Angelique Kerber,Qinwen Zheng,L,R,W,20220311,Indian Wells,R64,,Stadium 4,Hard,Joshua Brace,3,1,Zindaras
 20220310-W-Indian_Wells-R128-Naomi_Osaka-Sloane_Stephens,Naomi Osaka,Sloane Stephens,R,R,W,20220310,Indian Wells,R128,15:40,Stadium 1,Hard,Juan Zhang,3,1,Zindaras
+20220310-W-Indian_Wells-R128-Marta_Kostyuk-Maryna_Zanevska,Marta Kostyuk,Maryna Zanevska,R,R,W,20220310,Indian Wells,R128,,,Hard,,3,1,Zindaras
+20220309-W-Indian_Wells-R128-Ekaterina_Alexandrova-Elvina_Kalieva,Ekaterina Alexandrova,Elvina Kalieva,R,R,W,20220309,Indian Wells,R128,,Stadium 6,Hard,Ana Cabalho,3,1,Zindaras
 20220309-W-Indian_Wells-R128-Clara_Burel-Anhelina_Kalinina,Clara Burel,Anhelina Kalinina,R,R,W,20220309,Indian Wells,R128,,,Hard,,3,1,Elephant
 20220306-W-Lyon-F-Dayana_Yastremska-Shuai_Zhang,Dayana Yastremska,Shuai Zhang,R,R,W,20220306,Lyon,F,15:10,Court Central,Hard,Marta Mrozinska,3,1,Zindaras
+20220302-W-Monterrey-R32-Anastasia_Potapova-Elina_Svitolina,Anastasia Potapova,Elina Svitolina,R,R,W,20220302,Monterrey,R32,,Centre Court,Hard,Paula Vieira Souza,3,1,Zindaras
 20220301-W-Lyon-R32-Danka_Kovinic-Arantxa_Rus,Danka Kovinic,Arantxa Rus,R,L,W,20220301,Lyon,R32,14:10,1,Hard,,3,1,Zindaras
+20220228-W-Monterrey-R32-Emma_Navarro-Marcela_Zacarias,Emma Navarro,Marcela Zacarias,R,R,W,20220228,Monterrey,R32,,Centre Court,Hard,Morgane Lara,3,1,Zindaras
 20220226-W-Doha-F-Anett_Kontaveit-Iga_Swiatek,Anett Kontaveit,Iga Swiatek,R,R,W,20220226,Doha,F,18:10,Center,Hard,Marija Cicak,3,1,Zindaras
 20220225-W-Doha-SF-Iga_Swiatek-Maria_Sakkari,Iga Swiatek,Maria Sakkari,R,R,W,20220225,Doha,SF,,,Hard,Kader Nouni,3,1,Elephant
 20220225-W-Doha-SF-Anett_Kontaveit-Jelena_Ostapenko,Anett Kontaveit,Jelena Ostapenko,R,R,W,20220225,Doha,SF,,,Hard,Miriam Bley,3,1,Elephant
@@ -16,6 +45,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20220222-W-Doha-R32-Iga_Swiatek-Viktorija_Golubic,Iga Swiatek,Viktorija Golubic,R,R,W,20220222,Doha,R32,,,Hard,,3,1,Elephant
 20220221-W-Guadalajara-R32-Brenda_Fruhvirtova-Sloane_Stephens,Brenda Fruhvirtova,Sloane Stephens,R,R,W,20220221,Guadalajara,R32,,,Hard,Yamila Halle,3,1,Elephant
 20220221-W-Doha-R32-Anett_Kontaveit-Ana_Konjuh,Anett Kontaveit,Ana Konjuh,R,R,W,20220221,Doha,R32,,,Hard,Katarzyna Radwan-Cho,3,1,Elephant
+20220220-W-Doha-R64-Yulia_Putintseva-Victoria_Azarenka,Yulia Putintseva,Victoria Azarenka,R,R,W,20220220,Doha,R64,19:20,,Hard,Marija Cicak,3,1,Zindaras
 20220220-W-Doha-R64-Belinda_Bencic-Clara_Tauson,Belinda Bencic,Clara Tauson,R,R,W,20220220,Doha,R64,,,Hard,Kader Nouni,3,1,Elephant
 20220214-W-Dubai-R32-Iga_Swiatek-Daria_Kasatkina,Iga Swiatek,Daria Kasatkina,R,R,W,20220214,Dubai,R32,,,Hard,Cecilia Alberti,3,1,Elephant
 20220213-W-St_Petersburg-F-Anett_Kontaveit-Maria_Sakkari,Anett Kontaveit,Maria Sakkari,R,R,W,20220213,St Petersburg,F,,,Hard,Pierre Bacchi,3,1,Elephant
@@ -33,6 +63,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20220122-W-Australian_Open-R32-Ashleigh_Barty-Camila_Giorgi,Ashleigh Barty,Camila Giorgi,R,R,W,20220122,Australian Open,R32,6pm,Rod Laver Arena,Hard,Marijana Veljovi?,3,A,Edo
 20220121-W-Australian_Open-R32-Marta_Kostyuk-Paula_Badosa,Marta Kostyuk,Paula Badosa,R,R,W,20220121,Australian Open,R32,13:00,Margaret Court Arena,Hard,Thomas Sweeney,3,A,Zindaras
 20220120-W-Australian_Open-R64-Samantha_Stosur-Anastasia_Pavlyuchenkova,Samantha Stosur,Anastasia Pavlyuchenkova,R,R,W,20220120,Australian Open,R64,11:20,Kia Arena,Hard,Marijana Veljovic,3,A,Zindaras
+20220120-W-Australian_Open-R64-Alize_Cornet-Garbine_Muguruza,Alize Cornet,Garbine Muguruza,R,R,W,20220120,Australian Open,R64,11:15,Rod Laver Arena,Hard,Julie Kjendlie,3,A,Zindaras
 20220119-W-Australian_Open-R64-Tereza_Martincova-Camila_Giorgi,Tereza Martincova,Camila Giorgi,R,R,W,20220119,Australian Open,R64,2pm,John Cain,Hard,Timothee Mevel,3,A,Edo
 20220118-W-Australian_Open-R128-Robin_Anderson-Samantha_Stosur,Robin Anderson,Samantha Stosur,R,R,W,20220118,Australian Open,R128,11:10,Kia Arena,Hard,Isabell Seefried,3,A,Zindaras
 20220118-W-Australian_Open-R128-Rebecca_Marino-Marie_Bouzkova,Rebecca Marino,Marie Bouzkova,R,R,W,20220118,Australian Open,R128,,14,Hard,Mohamed Lahyani,3,A,Zindaras
@@ -278,6 +309,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20210331-W-Miami-QF-Naomi_Osaka-Maria_Sakkari,Naomi Osaka,Maria Sakkari,R,R,W,20210331,Miami,QF,,Grandstand,Hard,Cecilia Alberti,3,1,garibaldireds
 20210331-W-Miami-QF-Bianca_Andreescu-Sara_Sorribes_Tormo,Bianca Andreescu,Sara Sorribes Tormo,R,R,W,20210331,Miami,QF,19:10,Grandstand,Hard,Paula Vieira Souza,3,1,Zindaras
 20210329-W-Miami-R16-Naomi_Osaka-Elise_Mertens,Naomi Osaka,Elise Mertens,R,R,W,20210329,Miami,R16,3:10PM,Grandstand,Hard,,3,1,Lowell
+20210329-W-Miami-R16-Jessica_Pegula-Maria_Sakkari,Jessica Pegula,Maria Sakkari,R,R,W,20210329,Miami,R16,17:15,1,Hard,Marija Cicak,3,1,Zindaras
 20210329-W-Miami-R16-Garbine_Muguruza-Bianca_Andreescu,Garbine Muguruza,Bianca Andreescu,R,R,W,20210329,Miami,R16,,,Hard,,3,1,garibaldireds
 20210329-W-Miami-R16-Ashleigh_Barty-Victoria_Azarenka,Ashleigh Barty,Victoria Azarenka,R,R,W,20210329,Miami,R16,,,Hard,,3,1,garibaldireds
 20210328-W-Miami-R32-Amanda_Anisimova-Bianca_Andreescu,Amanda Anisimova,Bianca Andreescu,R,R,W,20210328,Miami,R32,19:10,Grandstand,Hard,Pierre Bacchi,3,1,Zindaras
@@ -823,6 +855,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20190210-W-Fed_Cup_World_Group_II-RR-Arantxa_Rus-Bianca_Andreescu,Arantxa Rus,Bianca Andreescu,L,R,W,20190210,Fed Cup World Group II,RR,12:10,Centre,Clay,Louise Azemar Engzell,3,1,Zindaras
 20190209-W-Fed_Cup_World_Group_II_R1-RR-Francoise_Abanda-Arantxa_Rus,Francoise Abanda,Arantxa Rus,R,L,W,20190209,Fed Cup World Group II R1,RR,,Centre,Clay,Marta Mrozinska,3,1,Zindaras
 20190209-W-Fed_Cup_World_Group_II-RR-Bianca_Andreescu-Richel_Hogenkamp,Bianca Andreescu,Richel Hogenkamp,R,R,W,20190209,Fed Cup World Group II,RR,,Centre,Clay,Louise Azemar Engzell,3,1,Zindaras
+20190208-W-Fed_Cup_G1-RR-Yulia_Putintseva-Ankita_Raina,Yulia Putintseva,Ankita Raina,R,R,W,20190208,Fed Cup G1,RR,,,Hard,,3,1,Shreyas
 20190202-W-St_Petersburg-SF-Vera_Zvonareva-Donna_Vekic,Vera Zvonareva,Donna Vekic,R,R,W,20190202,St Petersburg,SF,4:05 PM,Sibur Arena,Hard,Julie Kjendlie,3,1,tsitsi
 20190202-W-St_Petersburg-SF-Aryna_Sabalenka-Kiki_Bertens,Aryna Sabalenka,Kiki Bertens,R,R,W,20190202,St Petersburg,SF,14:10,Sibur Arena,Hard,Kader Nouni,3,1,tsitsi
 20190202-W-Hua_Hin-SF-Tamara_Zidansek-Ajla_Tomljanovic,Tamara Zidansek,Ajla Tomljanovic,R,R,W,20190202,Hua Hin,SF,5:10 PM,Centre,Gard,I-Ting Wang,3,1,tsitsi
