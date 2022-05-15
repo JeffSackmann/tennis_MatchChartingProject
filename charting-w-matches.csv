@@ -1,11 +1,39 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20220512-W-Rome-R16-Petra_Martic-Bianca_Andreescu,Petra Martic,Bianca Andreescu,R,R,W,20220512,Rome,R16,,,Clay,,3,1,Zindaras
+20220512-W-Rome-R16-Iga_Swiatek-Victoria_Azarenka,Iga Swiatek,Victoria Azarenka,R,R,W,20220512,Rome,R16,,,Clay,Pierre Bacchi,3,1,Elephent
+20220511-W-Rome-R32-Elena_Gabriela_Ruse-Iga_Swiatek,Elena Gabriela Ruse,Iga Swiatek,R,R,W,20220511,Rome,R32,,,Clay,Cecilia Alberti,3,1,Elephant
+20220511-W-Rome-R32-Bianca_Andreescu-Nuria_Parrizas_Diaz,Bianca Andreescu,Nuria Parrizas Diaz,R,R,W,20220511,Rome,R32,,3,Clay,Miriam Bley,3,1,Zindaras
+20220510-W-Rome-R64-Emma_Raducanu-Bianca_Andreescu,Emma Raducanu,Bianca Andreescu,R,R,W,20220510,Rome,R64,17:30,Grand Stand Arena,Clay,Cecilia Alberti,3,1,Zindaras
+20220505-W-Madrid-SF-Ons_Jabeur-Ekaterina_Alexandrova,Ons Jabeur,Ekaterina Alexandrova,R,R,W,20220505,Madrid,SF,15:00,Santana,Clay,Julie Kjendlie,3,1,Zindaras
+20220503-W-Madrid-R16-Sara_Sorribes_Tormo-Daria_Kasatkina,Sara Sorribes Tormo,Daria Kasatkina,R,R,W,20220503,Madrid,R16,14:50,Santana,Clay,Thomas Sweeney,3,1,Zindaras
+20220501-W-Madrid-R32-Danielle_Collins-Bianca_Andreescu,Danielle Collins,Bianca Andreescu,R,R,W,20220501,Madrid,R32,11:10,Santana,Clay,Alessandro Germani,3,1,Zindaras
+20220501-W-ITF_Santa_Margherita_Di_Pula-F-Arantxa_Rus-Marie_Benoit,Arantxa Rus,Marie Benoit,L,L,W,20220501,ITF Santa Margherita Di Pula,F,,,Clay,,3,1,Zindaras
+20220429-W-Madrid-R64-Danielle_Collins-Monica_Puig,Danielle Collins,Monica Puig,R,R,W,20220429,Madrid,R64,14:05,Sanchez,Clay,Miriam Bley,3,1,Zindaras
+20220429-W-Madrid-R64-Alison_Riske-Bianca_Andreescu,Alison Riske,Bianca Andreescu,R,R,W,20220429,Madrid,R64,15:45,Arantxa Sanchez Stadium,Clay,Thomas Sweeney,3,1,Zindaras
+20220424-W-Stuttgart-F-Iga_Swiatek-Aryna_Sabalenka,Iga Swiatek,Aryna Sabalenka,R,R,W,20220424,Stuttgart,F,,,Clay,Marija Cicak,3,1,Elephant
+20220423-W-Stuttgart-SF-Iga_Swiatek-Liudmila_Samsonova,Iga Swiatek,Liudmila Samsonova,R,R,W,20220423,Stuttgart,SF,,,Clay,Kader Nouni,3,1,Elephant
+20220422-W-Stuttgart-QF-Emma_Raducanu-Iga_Swiatek,Emma Raducanu,Iga Swiatek,R,R,W,20220422,Stuttgart,QF,,,Clay,Timo janzen,3,1,Elephant
+20220421-W-Stuttgart-R16-Aryna_Sabalenka-Bianca_Andreescu,Aryna Sabalenka,Bianca Andreescu,R,R,W,20220421,Stuttgart,R16,,Center,Clay,Julie Kjendlie,3,1,Zindaras
+20220420-W-Stuttgart-R16-Iga_Swiatek-Eva_Lys,Iga Swiatek,Eva Lys,R,R,W,20220420,Stuttgart,R16,,,Clay,Marija Cicak,3,1,Elephant
+20220420-W-Istanbul-R32-Nikola_Bartunkova-Anastasia_Potapova,Nikola Bartunkova,Anastasia Potapova,R,R,W,20220420,Istanbul,R32,,,Clay,Serdar Sumer,3,1,Elephant
+20220419-W-Stuttgart-R32-Bianca_Andreescu-Jule_Niemeier,Bianca Andreescu,Jule Niemeier,R,R,W,20220419,Stuttgart,R32,20:20,Centre Court,Clay,Marija Cicak,3,1,Zindaras
+20220419-W-Istanbul-R32-Julia_Grabher-Pemra_Ozgen,Julia Grabher,Pemra Ozgen,R,R,W,20220419,Istanbul,R32,,,Clay,,3,1,andy
+20220416-W-BJK_Cup_Qualifiers-RR-Sara_Sorribes_Tormo-Arantxa_Rus,Sara Sorribes Tormo,Arantxa Rus,R,L,W,20220416,BJK Cup Qualifiers,RR,13:10,Den Bosch,Clay,Marta Mrozinska,3,1,Zindaras
+20220416-W-BJK_Cup_Qualifiers-RR-Andreea_Prisacariu-Iga_Swiatek,Andreea Prisacariu,Iga Swiatek,R,R,W,20220416,BJK Cup Qualifiers,RR,,,Hard,Isabell Seefried,3,1,Elephant
+20220415-W-BJK_Cup_Qualifiers-RR-Sara_Sorribes_Tormo-Lesley_Kerkhove,Sara Sorribes Tormo,Lesley Kerkhove,R,R,W,20220415,BJK Cup Qualifiers,RR,16:25,Den Bosch,Clay,Marta Mrozinska,3,1,Zindaras
+20220415-W-BJK_Cup_Qualifiers-RR-Rebecca_Marino-Daniela_Vismane,Rebecca Marino,Daniela Vismane,R,R,W,20220415,BJK Cup Qualifiers,RR,,Pacific Coliseum Vancouver,Hard,,3,1,Zindaras
+20220415-W-BJK_Cup_Qualifiers-RR-Iga_Swiatek-Mihaela_Buzarnescu,Iga Swiatek,Mihaela Buzarnescu,R,L,W,20220415,BJK Cup Qualifiers,RR,,,Hard,Isabell Seefried,3,1,Elephant
+20220415-W-BJK_Cup_Qualifiers-RR-Arantxa_Rus-Nuria_Parrizas_Diaz,Arantxa Rus,Nuria Parrizas Diaz,L,R,W,20220415,BJK Cup Qualifiers,RR,14:15,Den Bosch,Clay,Damien Dumusois,3,1,Zindaras
+20220410-W-Bogota-F-Tatjana_Maria-Laura_Pigossi,Tatjana Maria,Laura Pigossi,R,R,W,20220410,Bogota,F,,Cancha Central,Clay,Julie Kjendlie,3,1,Zindaras
 20220407-W-Bogota-R16-Suzan_Lamens-Irina_Maria_Bara,Suzan Lamens,Irina Maria Bara,R,R,W,20220407,Bogota,R16,,Cancha Central,Clay,Fabio Souza,3,1,Zindaras
 20220406-W-Charleston-R32-Linda_Fruhvirtova-Belinda_Bencic,Linda Fruhvirtova,Belinda Bencic,R,R,W,20220406,Charleston,R32,,,Clay,Yvette Kahn,3,1,Elephant
 20220405-W-Bogota-R32-Suzan_Lamens-Astra_Sharma,Suzan Lamens,Astra Sharma,R,R,W,20220405,Bogota,R32,,Cancha 3,Clay,F. Baron Santly,3,1,Zindaras
 20220404-W-Charleston-R64-Linda_Fruhvirtova-Ana_Konjuh,Linda Fruhvirtova,Ana Konjuh,R,R,W,20220404,Charleston,R64,,,Clay,Katarzyna Radwan-Cho,3,1,Elephant
+20220404-W-Charleston-R64-Anna_Bondar-Arianne_Hartono,Anna Bondar,Arianne Hartono,R,R,W,20220404,Charleston,R64,,,Clay,,3,1,andy
 20220402-W-Miami-F-Naomi_Osaka-Iga_Swiatek,Naomi Osaka,Iga Swiatek,R,R,W,20220402,Miami,F,13:10,Stadium,Hard,Marija Cicak,3,1,Zindaras
 20220331-W-Miami-SF-Jessica_Pegula-Iga_Swiatek,Jessica Pegula,Iga Swiatek,R,R,W,20220331,Miami,SF,,,Hard,Juan Zhang,3,1,Elephant
 20220330-W-Miami-QF-Iga_Swiatek-Petra_Kvitova,Iga Swiatek,Petra Kvitova,R,L,W,20220330,Miami,QF,,,Hard,Marija Cicak,3,1,Elephant
+20220328-W-Miami-R16-Lucia_Bronzetti-Daria_Gavrilova,Lucia Bronzetti,Daria Gavrilova,R,R,W,20220328,Miami,R16,,Butch Buchholtz,Hard,Pablo Rodriguez,3,1,Zindaras
 20220328-W-Miami-R16-Linda_Fruhvirtova-Paula_Badosa,Linda Fruhvirtova,Paula Badosa,R,R,W,20220328,Miami,R16,21:10,Stadium,Hard,Marija Cicak,3,1,Zindaras
 20220328-W-Miami-R16-Cori_Gauff-Iga_Swiatek,Cori Gauff,Iga Swiatek,R,R,W,20220328,Miami,R16,,,Hard,Juan Zhang,3,1,Elephant
 20220327-W-Miami-R32-Linda_Fruhvirtova-Victoria_Azarenka,Linda Fruhvirtova,Victoria Azarenka,R,R,W,20220327,Miami,R32,13:35,,Hard,Cecilia Alberti,3,1,Zindaras
@@ -32,6 +60,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20220309-W-Indian_Wells-R128-Ekaterina_Alexandrova-Elvina_Kalieva,Ekaterina Alexandrova,Elvina Kalieva,R,R,W,20220309,Indian Wells,R128,,Stadium 6,Hard,Ana Cabalho,3,1,Zindaras
 20220309-W-Indian_Wells-R128-Clara_Burel-Anhelina_Kalinina,Clara Burel,Anhelina Kalinina,R,R,W,20220309,Indian Wells,R128,,,Hard,,3,1,Elephant
 20220306-W-Lyon-F-Dayana_Yastremska-Shuai_Zhang,Dayana Yastremska,Shuai Zhang,R,R,W,20220306,Lyon,F,15:10,Court Central,Hard,Marta Mrozinska,3,1,Zindaras
+20220304-W-Monterrey-QF-Sara_Sorribes_Tormo-Nuria_Parrizas_Diaz,Sara Sorribes Tormo,Nuria Parrizas Diaz,R,R,W,20220304,Monterrey,QF,16:00,,Hard,Fabio Souza,3,1,Zindaras
 20220302-W-Monterrey-R32-Anastasia_Potapova-Elina_Svitolina,Anastasia Potapova,Elina Svitolina,R,R,W,20220302,Monterrey,R32,,Centre Court,Hard,Paula Vieira Souza,3,1,Zindaras
 20220301-W-Lyon-R32-Danka_Kovinic-Arantxa_Rus,Danka Kovinic,Arantxa Rus,R,L,W,20220301,Lyon,R32,14:10,1,Hard,,3,1,Zindaras
 20220228-W-Monterrey-R32-Emma_Navarro-Marcela_Zacarias,Emma Navarro,Marcela Zacarias,R,R,W,20220228,Monterrey,R32,,Centre Court,Hard,Morgane Lara,3,1,Zindaras
@@ -123,6 +152,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20211008-W-Indian_Wells-R64-Tereza_Martincova-Elina_Svitolina,Tereza Martincova,Elina Svitolina,R,R,W,20211008,Indian Wells,R64,,4,Hard,,3,1,Lowell
 20211008-W-Indian_Wells-R64-Iga_Swiatek-Petra_Martic,Iga Swiatek,Petra Martic,R,R,W,20211008,Indian Wells,R64,,,Hard,Paula Souza,3,1,Elephant
 20211008-W-Indian_Wells-R64-Emma_Raducanu-Aliaksandra_Sasnovich,Emma Raducanu,Aliaksandra Sasnovich,R,R,W,20211008,Indian Wells,R64,,Stadium 1,Hard,Julie Kjendlie,3,1,Zindaras
+20211007-W-Indian_Wells-R128-Kim_Clijsters-Katerina_Siniakova,Kim Clijsters,Katerina Siniakova,R,R,W,20211007,Indian Wells,R128,15:10,Stadium 1,Hard,Miriam Bley,3,1,Zindaras
 20211006-W-Indian_Wells-R128-Shuai_Zhang-Marta_Kostyuk,Shuai Zhang,Marta Kostyuk,R,R,W,20211006,Indian Wells,R128,4:00 PM,2,Hard,Yamila Halle,3,1,Lowell
 20211006-W-Indian_Wells-R128-Liudmila_Samsonova-Kateryna_Kozlova,Liudmila Samsonova,Kateryna Kozlova,R,R,W,20211006,Indian Wells,R128,,6,Hard,,3,1,Lowell
 20211006-W-Indian_Wells-R128-Jasmine_Paolini-Mai_Hontama,Jasmine Paolini,Mai Hontama,R,R,W,20211006,Indian Wells,R128,,Stadium 4,Hard,,3,1,Zindaras
