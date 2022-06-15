@@ -1,4 +1,36 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20220612-W-s_Hertogenbosch-F-Aryna_Sabalenka-Ekaterina_Alexandrova,Aryna Sabalenka,Ekaterina Alexandrova,R,R,W,20220612,s Hertogenbosch,F,12:10,Centre Court,Grass,Cecilia Alberti,3,1,Zindaras
+20220607-W-s_Hertogenbosch-R32-Taylah_Preston-Arianne_Hartono,Taylah Preston,Arianne Hartono,R,R,W,20220607,s Hertogenbosch,R32,,,Grass,Morgane Lara,3,1,Elephant
+20220607-W-Nottingham-R32-Magdalena_Frech-Yuriko_Miyazaki,Magdalena Frech,Yuriko Miyazaki,R,R,W,20220607,Nottingham,R32,,,Grass,,3,1,andy
+20220606-W-s_Hertogenbosch-R32-Anna_Kalinskaya-Suzan_Lamens,Anna Kalinskaya,Suzan Lamens,R,R,W,20220606,s Hertogenbosch,R32,11:10,Centre,Grass,Morgane Lara,3,1,Zindaras
+20220604-W-Roland_Garros-F-Cori_Gauff-Iga_Swiatek,Cori Gauff,Iga Swiatek,R,R,W,20220604,Roland Garros,F,,Philippe Chatrier,Clay,Damien Dumusois,3,A,Elephant
+20220602-W-Roland_Garros-SF-Martina_Trevisan-Cori_Gauff,Martina Trevisan,Cori Gauff,L,R,W,20220602,Roland Garros,SF,4pm,Centre,Clay,Marijana Veljovic,3,1,Edo
+20220602-W-Roland_Garros-SF-Iga_Swiatek-Daria_Kasatkina,Iga Swiatek,Daria Kasatkina,R,R,W,20220602,Roland Garros,SF,15:10,Philippe Chatrier,Clay,Pierre Bacchi,3,A,Zindaras
+20220601-W-Roland_Garros-QF-Jessica_Pegula-Iga_Swiatek,Jessica Pegula,Iga Swiatek,R,R,W,20220601,Roland Garros,QF,,Philippe Chatrier,Clay,Emmanuel Joseph,3,A,Elephant
+20220531-W-Roland_Garros-QF-Leylah_Fernandez-Martina_Trevisan,Leylah Fernandez,Martina Trevisan,L,L,W,20220531,Roland Garros,QF,12:10,Philippe Chatrier,Clay,Arnaud Gabas,3,A,Zindaras
+20220530-W-Roland_Garros-R16-Iga_Swiatek-Qinwen_Zheng,Iga Swiatek,Qinwen Zheng,R,R,W,20220530,Roland Garros,R16,17:40,Philippe Chatrier,Clay,Kader Nouni,3,A,Zindaras
+20220528-W-Roland_Garros-R32-Iga_Swiatek-Danka_Kovinic,Iga Swiatek,Danka Kovinic,R,R,W,20220528,Roland Garros,R32,,Chatrier,Clay,Timothee Mevel,3,A,Elephant
+20220526-W-Roland_Garros-R64-Kaja_Juvan-Paula_Badosa,Kaja Juvan,Paula Badosa,R,R,W,20220526,Roland Garros,R64,11:10,Suzanne Lenglen,Clay,,3,A,Zindaras
+20220525-W-Roland_Garros-R64-Bianca_Andreescu-Belinda_Bencic,Bianca Andreescu,Belinda Bencic,R,R,W,20220525,Roland Garros,R64,18:35,Philippe Chatrier,Clay,Pierre Bacchi,3,A,Zindaras
+20220524-W-Roland_Garros-R128-Panna_Udvardy-Fernanda_Contreras_Gomez,Panna Udvardy,Fernanda Contreras Gomez,R,R,W,20220524,Roland Garros,R128,,6,Clay,Marijana Veljovic,3,A,Zindaras
+20220523-W-Roland_Garros-R128-Linda_Noskova-Emma_Raducanu,Linda Noskova,Emma Raducanu,R,R,W,20220523,Roland Garros,R128,17:50,Mathieu,Clay,Alexandre Robein,3,A,Zindaras
+20220523-W-Roland_Garros-R128-Iga_Swiatek-Lesia_Tsurenko,Iga Swiatek,Lesia Tsurenko,R,R,W,20220523,Roland Garros,R128,12:00:00 PM,Philippe Chatrier,Clay,Kader Nouni,3,1,Roger
+20220523-W-Roland_Garros-R128-Bianca_Andreescu-Ysaline_Bonaventure,Bianca Andreescu,Ysaline Bonaventure,R,L,W,20220523,Roland Garros,R128,11:15,7,Clay,Carlos Ramos,3,A,Zindaras
+20220517-W-Strasbourg-R32-Fiona_Ferro-Angelina_Gabueva,Fiona Ferro,Angelina Gabueva,R,R,W,20220517,Strasbourg,R32,,,Clay,,3,1,andy
+20220517-W-Roland_Garros-Q1-Elisabetta_Cocciaretto-Arianne_Hartono,Elisabetta Cocciaretto,Arianne Hartono,R,R,W,20220517,Roland Garros,Q1,,10,Clay,Floriane Dierckx,3,A,Zindaras
+20220517-W-Roland_Garros-Q1-Aliona_Bolsova-Kathinka_Von_Deichmann,Aliona Bolsova,Kathinka Von Deichmann,R,R,W,20220517,Roland Garros,Q1,,13,Clay,Vincent Dugravier,3,A,Zindaras
+20220516-W-Strasbourg-R32-Lina_Glushko-Kaja_Juvan,Lina Glushko,Kaja Juvan,R,R,W,20220516,Strasbourg,R32,,2,Clay,Jennifer Travers,3,1,Zindaras
+20220516-W-Strasbourg-R32-Carole_Monnet-Elise_Mertens,Carole Monnet,Elise Mertens,R,R,W,20220516,Strasbourg,R32,,Patrice Dominguez,Clay,Meruyert Kaukeyeva,3,1,Zindaras
+20220516-W-Strasbourg-R32-Aliaksandra_Sasnovich-Julie_Gervais,Aliaksandra Sasnovich,Julie Gervais,R,R,W,20220516,Strasbourg,R32,,1,Clay,T. Soares,3,1,Zindaras
+20220516-W-Roland_Garros-Q1-Cristina_Bucsa-Olga_Govortsova,Cristina Bucsa,Olga Govortsova,R,R,W,20220516,Roland Garros,Q1,,,Clay,,3,A,andy
+20220516-W-Rabat-R32-Arantxa_Rus-Lulu_Radovcic,Arantxa Rus,Lulu Radovcic,L,L,W,20220516,Rabat,R32,,Centre,Clay,Ahmed Youssef,3,1,Zindaras
+20220516-W-Rabat-R32-Anna_Karolina_Schmiedlova-Ekaterina_Reyngold,Anna Karolina Schmiedlova,Ekaterina Reyngold,R,R,W,20220516,Rabat,R32,,,Clay,,3,1,andy
+20220515-W-Strasbourg-R32-Harmony_Tan-Samantha_Stosur,Harmony Tan,Samantha Stosur,R,R,W,20220515,Strasbourg,R32,,Patrice Dominguez,Clay,Juan Zhang,3,1,Zindaras
+20220515-W-Rome-F-Iga_Swiatek-Ons_Jabeur,Iga Swiatek,Ons Jabeur,R,R,W,20220515,Rome,F,13:10,Center Court,Clay,Maria Cicak,3,1,Zindaras
+20220515-W-Rabat-R32-Rebecca_Peterson-Petra_Marcinko,Rebecca Peterson,Petra Marcinko,R,R,W,20220515,Rabat,R32,,,Clay,Gianluca Moscarella,3,1,Elephant
+20220514-W-Rome-SF-Daria_Kasatkina-Ons_Jabeur,Daria Kasatkina,Ons Jabeur,R,R,W,20220514,Rome,SF,,Centrale,Clay,Cecilia Alberti,3,1,Zindaras
+20220514-W-Rome-SF-Aryna_Sabalenka-Iga_Swiatek,Aryna Sabalenka,Iga Swiatek,R,R,W,20220514,Rome,SF,,,Clay,Pierre Bacchi,3,1,Elephant
+20220513-W-Rome-QF-Iga_Swiatek-Bianca_Andreescu,Iga Swiatek,Bianca Andreescu,R,R,W,20220513,Rome,QF,14:40,Grandstand,Clay,Cecilia Alberti,3,1,Zindaras
 20220512-W-Rome-R16-Petra_Martic-Bianca_Andreescu,Petra Martic,Bianca Andreescu,R,R,W,20220512,Rome,R16,,,Clay,,3,1,Zindaras
 20220512-W-Rome-R16-Iga_Swiatek-Victoria_Azarenka,Iga Swiatek,Victoria Azarenka,R,R,W,20220512,Rome,R16,,,Clay,Pierre Bacchi,3,1,Elephent
 20220511-W-Rome-R32-Elena_Gabriela_Ruse-Iga_Swiatek,Elena Gabriela Ruse,Iga Swiatek,R,R,W,20220511,Rome,R32,,,Clay,Cecilia Alberti,3,1,Elephant
@@ -6,6 +38,8 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20220510-W-Rome-R64-Emma_Raducanu-Bianca_Andreescu,Emma Raducanu,Bianca Andreescu,R,R,W,20220510,Rome,R64,17:30,Grand Stand Arena,Clay,Cecilia Alberti,3,1,Zindaras
 20220505-W-Madrid-SF-Ons_Jabeur-Ekaterina_Alexandrova,Ons Jabeur,Ekaterina Alexandrova,R,R,W,20220505,Madrid,SF,15:00,Santana,Clay,Julie Kjendlie,3,1,Zindaras
 20220503-W-Madrid-R16-Sara_Sorribes_Tormo-Daria_Kasatkina,Sara Sorribes Tormo,Daria Kasatkina,R,R,W,20220503,Madrid,R16,14:50,Santana,Clay,Thomas Sweeney,3,1,Zindaras
+20220503-W-Madrid-R16-Jessica_Pegula-Bianca_Andreescu,Jessica Pegula,Bianca Andreescu,R,R,W,20220503,Madrid,R16,16:30,Arantxa Sanchez Stadium,Clay,Marta Mrozinska,3,1,Zindaras
+20220501-W-Madrid-R32-Naomi_Osaka-Sara_Sorribes_Tormo,Naomi Osaka,Sara Sorribes Tormo,R,R,W,20220501,Madrid,R32,19:15,Manolo Santana Stadium,Clay,Kader Nouni,3,1,Zindaras
 20220501-W-Madrid-R32-Danielle_Collins-Bianca_Andreescu,Danielle Collins,Bianca Andreescu,R,R,W,20220501,Madrid,R32,11:10,Santana,Clay,Alessandro Germani,3,1,Zindaras
 20220501-W-ITF_Santa_Margherita_Di_Pula-F-Arantxa_Rus-Marie_Benoit,Arantxa Rus,Marie Benoit,L,L,W,20220501,ITF Santa Margherita Di Pula,F,,,Clay,,3,1,Zindaras
 20220429-W-Madrid-R64-Danielle_Collins-Monica_Puig,Danielle Collins,Monica Puig,R,R,W,20220429,Madrid,R64,14:05,Sanchez,Clay,Miriam Bley,3,1,Zindaras
@@ -452,6 +486,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20200905-W-US_Open-R32-Victoria_Azarenka-Iga_Swiatek,Victoria Azarenka,Iga Swiatek,R,R,W,20200905,US Open,R32,18:35,Louis Armstrong Stadium,Hard,Marijana Veljovic,3,1,Carrie
 20200904-W-US_Open-R32-Jennifer_Brady-Caroline_Garcia,Jennifer Brady,Caroline Garcia,R,R,W,20200904,US Open,R32,,17,Hard,Julie Kjendlie,3,1,ojustino
 20200903-W-US_Open-R64-Katrina_Scott-Amanda_Anisimova,Katrina Scott,Amanda Anisimova,R,R,W,20200903,US Open,R64,,,Hard,,3,1,Jim Albert
+20200902-W-US_Open-R64-Shelby_Rogers-Elena_Rybakina,Shelby Rogers,Elena Rybakina,R,R,W,20200902,US Open,R64,,,Hard,,3,1,Roger
 20200902-W-US_Open-R64-Caroline_Garcia-Karolina_Pliskova,Caroline Garcia,Karolina Pliskova,R,R,W,20200902,US Open,R64,16:30,Louis Armstrong Stadium,Hard,,3,1,Carrie
 20200902-W-US_Open-R64-Angelique_Kerber-Anna_Lena_Friedsam,Angelique Kerber,Anna Lena Friedsam,L,R,W,20200902,US Open,R64,,Louis Armstrong Stadium,Hard,Christian Rask,3,1,ojustino
 20200901-W-US_Open-R128-Victoria_Azarenka-Barbara_Haas,Victoria Azarenka,Barbara Haas,R,R,W,20200901,US Open,R128,,5,Hard,,3,1,Isaac
@@ -1768,7 +1803,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20060221-W-Dubai-R32-Martina_Hingis-Sania_Mirza,Martina Hingis,Sania Mirza,R,R,W,20060221,Dubai,R32,,,Hard,,3,1,Isaac
 20060128-W-Australian_Open-F-Amelie_Mauresmo-Justine_Henin,Amelie Mauresmo,Justine Henin,R,R,W,20060128,Australian Open,F,8:00 PM,Rod Laver Arena,Hard,,3,0,Edo
 20051113-W-WTA_Championships-F-Amelie_Mauresmo-Mary_Pierce,Amelie Mauresmo,Mary Pierce,R,R,W,20051113,WTA Championships,F,,Centre,Hard,Sandra de Jenken,3,1,tsitsi
-20051023-W-Zurich-F-Patty_Schnyder-Lindsey_Davenport,Patty Schnyder,Lindsey Davenport,L,R,W,20051023,Zurich,F,3pm,Centre,Hard,Carlos Ramos,3,1,Edo
+20051023-W-Zurich-F-Patty_Schnyder-Lindsay_Davenport,Patty Schnyder,Lindsay Davenport,L,R,W,20051023,Zurich,F,3pm,Centre,Hard,Carlos Ramos,3,1,Edo
 20050911-W-US_Open-F-Mary_Pierce-Kim_Clijsters,Mary Pierce,Kim Clijsters,R,R,W,20050911,US Open,F,8:00 PM,Ashe,Hard,Lynn Welch,3,1,Edo
 20050908-W-US_Open-SF-Mary_Pierce-Elena_Dementieva,Mary Pierce,Elena Dementieva,R,R,W,20050908,US Open,SF,,Arthur Ashe Stadium,Hard,,3,1,cefperry
 20050904-W-US_Open-R16-Serena_Williams-Venus_Williams,Serena Williams,Venus Williams,R,R,W,20050904,US Open,R16,,Arthur Ashe Stadium,Hard,Lynn Welch,3,1,ojustino
@@ -1845,7 +1880,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19980604-W-Roland_Garros-F-Monica_Seles-Arantxa_Sanchez_Vicario,Monica Seles,Arantxa Sanchez Vicario,L,R,W,19980604,Roland Garros,F,,Court Central,Clay,Anne Lassere-Ullrich,3,0,Isaac
 19980131-W-Australian_Open-F-Martina_Hingis-Conchita_Martinez,Martina Hingis,Conchita Martinez,R,R,W,19980131,Australian Open,F,3:00 PM,Rod Laver Arena,Hard,,3,0,Edo
 19980121-W-Australian_Open-R64-Serena_Williams-Venus_Williams,Serena Williams,Venus Williams,R,R,W,19980121,Australian Open,R64,,Centre,Hard,Jane Harvey,3,0,ojustino
-19970906-W-US_Open-SF-Martina_Hingis-Lindsey_Davenport,Martina Hingis,Lindsey Davenport,R,R,W,19970906,US Open,SF,1pm,Ashe,Hard,,3,1,Edo
+19970906-W-US_Open-SF-Martina_Hingis-Lindsay_Davenport,Martina Hingis,Lindsay Davenport,R,R,W,19970906,US Open,SF,1pm,Ashe,Hard,,3,1,Edo
 19970906-W-US_Open-F-Venus_Williams-Martina_Hingis,Venus Williams,Martina Hingis,R,R,W,19970906,US Open,F,3:00 PM,Ashe,Hard,Alison Lang,3,1,Edo
 19970705-W-Wimbledon-F-Martina_Hingis-Jana_Novotna,Martina Hingis,Jana Novotna,R,R,W,19970705,Wimbledon,F,2:00 PM,Centre,Grass,Jeremy Shales,3,0,Edo
 19970704-W-Wimbledon-SF-Martina_Hingis-Anna_Kournikova,Martina Hingis,Anna Kournikova,R,R,W,19970704,Wimbledon,SF,12am,Centre,Grass,A woman,3,0,Edo
