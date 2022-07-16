@@ -1,12 +1,31 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20220713-M-Newport-R16-Andy_Murray-Max_Purcell,Andy Murray,Max Purcell,R,R,M,20220713,Newport,R16,,Center,Grass,D. Torella,3,1,BG
+20220712-M-Newport-R32-Andy_Murray-Sam_Querrey,Andy Murray,Sam Querrey,R,R,M,20220712,Newport,R32,,Stadium,Grass,R. Andrei,3,1,BG
+20220712-M-Bastad-R32-Emil_Ruusuvuori-Dominic_Thiem,Emil Ruusuvuori,Dominic Thiem,R,R,M,20220712,Bastad,R32,,Center,Clay,Adel Nour,3,1,BG
+20220706-M-Wimbledon-QF-Nick_Kyrgios-Cristian_Garin,Nick Kyrgios,Cristian Garin,R,R,M,20220706,Wimbledon,QF,,1,Grass,,5,A,Ludo
+20220704-M-Wimbledon-R16-Rafael_Nadal-Botic_Van_De_Zandschulp,Rafael Nadal,Botic Van De Zandschulp,L,R,M,20220704,Wimbledon,R16,18:40,Centre Court,Grass,Carlos Bernardes,5,A,Zindaras
+20220703-M-Wimbledon-R16-Novak_Djokovic-Tim_Van_Rijthoven,Novak Djokovic,Tim Van Rijthoven,R,R,M,20220703,Wimbledon,R16,20:00,Centre Court,Grass,James Keothavong,5,A,Zindaras
+20220702-M-Wimbledon-R32-Stefanos_Tsitsipas-Nick_Kyrgios,Stefanos Tsitsipas,Nick Kyrgios,R,R,M,20220702,Wimbledon,R32,,,Grass,Damien Dumusois,5,A,Ludo
+20220630-M-Wimbledon-R64-Nick_Kyrgios-Filip_Krajinovic,Nick Kyrgios,Filip Krajinovic,R,R,M,20220630,Wimbledon,R64,,2,Grass,,5,A,Ludo
+20220628-M-Wimbledon-R128-Feliciano_Lopez-Botic_Van_De_Zandschulp,Feliciano Lopez,Botic Van De Zandschulp,L,R,M,20220628,Wimbledon,R128,16:20,4,Grass,,5,A,Zindaras
+20220627-M-Wimbledon-R128-Federico_Delbonis-Tim_Van_Rijthoven,Federico Delbonis,Tim Van Rijthoven,L,R,M,20220627,Wimbledon,R128,17:40,11,Grass,Jacob Miles,5,A,Zindaras
+20220619-M-Queens_Club-F-Filip_Krajinovic-Matteo_Berrettini,Filip Krajinovic,Matteo Berrettini,R,R,M,20220619,Queens Club,F,,Centre,Grass,,3,1,Ludo
+20220617-M-Halle-QF-Roberto_Bautista_Agut-Daniil_Medvedev,Roberto Bautista Agut,Daniil Medvedev,R,R,M,20220617,Halle,QF,,,Grass,,3,1,Ludo
+20220617-M-Halle-QF-Pablo_Carreno_Busta-Nick_Kyrgios,Pablo Carreno Busta,Nick Kyrgios,R,R,M,20220617,Halle,QF,,,Grass,,3,1,Ludo
+20220615-M-Halle-R32-Daniil_Medvedev-David_Goffin,Daniil Medvedev,David Goffin,R,R,M,20220615,Halle,R32,,,Grass,,3,1,Ludo
+20220615-M-Halle-R16-Stefanos_Tsitsipas-Nick_Kyrgios,Stefanos Tsitsipas,Nick Kyrgios,R,R,M,20220615,Halle,R16,,,Grass,,3,1,Ludo
 20220612-M-s_Hertogenbosch-F-Tim_Van_Rijthoven-Daniil_Medvedev,Tim Van Rijthoven,Daniil Medvedev,R,R,M,20220612,s Hertogenbosch,F,14:40,Centre Court,Grass,Richard Haigh,3,1,Zindaras
+20220612-M-Stuttgart-F-Andy_Murray-Matteo_Berrettini,Andy Murray,Matteo Berrettini,R,R,M,20220612,Stuttgart,F,,,Grass,,3,1,Ludo
 20220611-M-s_Hertogenbosch-SF-Tim_Van_Rijthoven-Felix_Auger_Aliassime,Tim Van Rijthoven,Felix Auger Aliassime,R,R,M,20220611,s Hertogenbosch,SF,14:40,Centre,Grass,Arnaud Gabas,3,1,Zindaras
+20220611-M-Stuttgart-SF-Andy_Murray-Nick_Kyrgios,Andy Murray,Nick Kyrgios,R,R,M,20220611,Stuttgart,SF,,,Grass,Nico Helwerth,3,1,Ludo
 20220610-M-s_Hertogenbosch-QF-Tim_Van_Rijthoven-Hugo_Gaston,Tim Van Rijthoven,Hugo Gaston,R,L,M,20220610,s Hertogenbosch,QF,11:10,1,Grass,Raluca Alexandra Andrei,3,1,Zindaras
 20220610-M-Stuttgart-QF-Stefanos_Tsitsipas-Andy_Murray,Stefanos Tsitsipas,Andy Murray,R,R,M,20220610,Stuttgart,QF,,,Grass,Carlos Bernardes,3,1,Ludo
 20220609-M-s_Hertogenbosch-R16-Gilles_Simon-Daniil_Medvedev,Gilles Simon,Daniil Medvedev,R,R,M,20220609,s Hertogenbosch,R16,15:55,Centre Court,Grass,,3,1,Zindaras
+20220609-M-Stuttgart-R16-Nick_Kyrgios-Nikoloz_Basilashvili,Nick Kyrgios,Nikoloz Basilashvili,R,R,M,20220609,Stuttgart,R16,,,Grass,,3,1,Ludo
 20220609-M-Stuttgart-R16-Andy_Murray-Alexander_Bublik,Andy Murray,Alexander Bublik,R,R,M,20220609,Stuttgart,R16,,,Grass,,3,1,Ludo
 20220605-M-Roland_Garros-F-Rafael_Nadal-Casper_Ruud,Rafael Nadal,Casper Ruud,L,R,M,20220605,Roland Garros,F,15:10,Philippe Chatrier,Clay,James Keothavong,5,A,Zindaras
 20220603-M-Roland_Garros-SF-Casper_Ruud-Marin_Cilic,Casper Ruud,Marin Cilic,R,R,M,20220603,Roland Garros,SF,3pm,Chatrier,Clay,Nico Helwerth,5,1,Edo
+20220603-M-Roland_Garros-R64-Carlos_Alcaraz-Albert_Ramos,Carlos Alcaraz,Albert Ramos,R,L,M,20220603,Roland Garros,R64,4pm,Simonne Mathieu,Clay,Carlos Ramos,5,A,Edo
 20220531-M-Roland_Garros-QF-Novak_Djokovic-Rafael_Nadal,Novak Djokovic,Rafael Nadal,R,L,M,20220531,Roland Garros,QF,9:15 PM,Philippe Chatrier,Clay,Dumusois,5,A,Ludo
 20220531-M-Roland_Garros-QF-Carlos_Alcaraz-Alexander_Zverev,Carlos Alcaraz,Alexander Zverev,R,R,M,20220531,Roland Garros,QF,16:45 PM,Philippe Chatrier,Clay,,5,A,Ángel Moreno
 20220530-M-Roland_Garros-R16-Marin_Cilic-Daniil_Medvedev,Marin Cilic,Daniil Medvedev,R,R,M,20220530,Roland Garros,R16,21:00,Philippe Chatrier,Clay,Eva Asderaki Moore,5,A,Zindaras
@@ -23,7 +42,9 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20220522-M-Geneva-SF-Casper_Ruud-Reilly_Opelka,Casper Ruud,Reilly Opelka,R,R,M,20220522,Geneva,SF,2:30 PM,Centre,Clay,Jaume Campistol,3,1,Ludo
 20220521-M-Shymkent_CH-F-Robin_Haase-Sergey_Fomin,Robin Haase,Sergey Fomin,R,R,M,20220521,Shymkent CH,F,,Center,Clay,,3,1,Zindaras
 20220519-M-Lyon-R16-Alex_Molcan_-Karen_Khachanov_,Alex Molcan ,Karen Khachanov ,L,R,M,20220519,Lyon,R16,,Centre,Clay,,3,1,Ángel Moreno
+20220518-M-Roland_Garros-Q2-Radu_Albot-Jason_Kubler,Radu Albot,Jason Kubler,R,R,M,20220518,Roland Garros,Q2,,6,Clay,Scott Noble,3,A,Zindaras
 20220518-M-Geneva-R16-Casper_Ruud-Benoit_Paire,Casper Ruud,Benoit Paire,R,R,M,20220518,Geneva,R16,6:05 PM,Centre,Clay,Jaume Campistol,3,1,Ludo
+20220517-M-Roland_Garros-Q1-Christopher_Eubanks-Paul_Jubb,Christopher Eubanks,Paul Jubb,R,R,M,20220517,Roland Garros,Q1,,4,Clay,Aurelie Vaseneix,3,A,Zindaras
 20220516-M-Roland_Garros-Q1-Sascha_Gueymard_Wayenburg-Flavio_Cobolli,Sascha Gueymard Wayenburg,Flavio Cobolli,R,R,M,20220516,Roland Garros,Q1,,,Clay,,3,A,andy
 20220515-M-Rome_Masters-F-Stefanos_Tsitsipas-Novak_Djokovic,Stefanos Tsitsipas,Novak Djokovic,R,R,M,20220515,Rome Masters,F,16:15 PM,Centre,Clay,,3,1,Ángel Moreno
 20220514-M-Zagreb_CH-F-Filip_Misolic-Mili_Poljicak,Filip Misolic,Mili Poljicak,R,R,M,20220514,Zagreb CH,F,,,Clay,,3,1,Zindaras
@@ -3064,6 +3085,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 19971025-M-Stuttgart_Masters-SF-Petr_Korda-Patrick_Rafter,Petr Korda,Patrick Rafter,L,R,M,19971025,Stuttgart Masters,SF,,Centre,Hard,Steve Ullrich,3,1,Edo
 19971025-M-Stuttgart_Masters-SF-Jonas_Bjorkman-Richard_Krajicek,Jonas Bjorkman,Richard Krajicek,R,R,M,19971025,Stuttgart Masters,SF,,Centre,Hard,Paulo Pererira,3,1,Edo
 19971020-M-Stuttgart_Masters-R32-Pete_Sampras-Magnus_Gustafsson,Pete Sampras,Magnus Gustafsson,R,R,M,19971020,Stuttgart Masters,R32,,,Hard,Rudy Berger,3,1,Isaac
+19971002-M-Basel-QF-Mark_Philippoussis-Yevgeny_Kafelnikov,Mark Philippoussis,Yevgeny Kafelnikov,R,R,M,19971002,Basel,QF,,,Hard,,3,1,amlh
 19970928-M-Grand_Slam_Cup-F-Patrick_Rafter-Pete_Sampras,Patrick Rafter,Pete Sampras,R,R,M,19970928,Grand Slam Cup,F,3pm,Centre,Hard,Jorge Dias,5,0,Edo
 19970923-M-Grand_Slam_Cup-QF-Pete_Sampras-Jonas_Bjorkman,Pete Sampras,Jonas Bjorkman,R,R,M,19970923,Grand Slam Cup,QF,,,Hard,,3,1,Isaac
 19970907-M-US_Open-F-Patrick_Rafter-Greg_Rusedski,Patrick Rafter,Greg Rusedski,R,L,M,19970907,US Open,F,16:00,Ashe,Hard,,5,1,Edo

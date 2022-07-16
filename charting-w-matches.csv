@@ -1,4 +1,19 @@
 match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by
+20220709-W-Wimbledon_Juniors-F-Liv_Hovde-Luca_Udvardy,Liv Hovde,Luca Udvardy,R,R,W,20220709,Wimbledon Juniors,F,,1,Grass,Luke Smith,3,A,Elephant
+20220709-W-Wimbledon-F-Elena_Rybakina-Ons_Jabeur,Elena Rybakina,Ons Jabeur,R,R,W,20220709,Wimbledon,F,14:10,Centre Court,Grass,Aurelie Tourte,3,A,Zindaras
+20220706-W-Wimbledon-QF-Elena_Rybakina-Ajla_Tomljanovic,Elena Rybakina,Ajla Tomljanovic,R,R,W,20220706,Wimbledon,QF,,1,Grass,Jaume Campistol,3,A,Elephant
+20220630-W-Wimbledon-R64-Iga_Swiatek-Lesley_Kerkhove,Iga Swiatek,Lesley Kerkhove,R,R,W,20220630,Wimbledon,R64,,1,Grass,Marijana Veljovic,3,A,Zindaras
+20220630-W-Wimbledon-R64-Elena_Rybakina-Bianca_Andreescu,Elena Rybakina,Bianca Andreescu,R,R,W,20220630,Wimbledon,R64,13:35,12,Grass,Fiona Edwards,3,A,Zindaras
+20220628-W-Wimbledon-R128-Iga_Swiatek-Jana_Fett,Iga Swiatek,Jana Fett,R,R,W,20220628,Wimbledon,R128,,Centre,Grass,James Keothavong,3,A,Elephant
+20220628-W-Wimbledon-R128-Emina_Bektas-Bianca_Andreescu,Emina Bektas,Bianca Andreescu,R,R,W,20220628,Wimbledon,R128,19:15,14,Grass,Jamie Crowson,3,A,Zindaras
+20220625-W-Eastbourne-F-Petra_Kvitova-Jelena_Ostapenko,Petra Kvitova,Jelena Ostapenko,L,R,W,20220625,Eastbourne,F,,,Grass,Kader Nouni,3,1,Elephant
+20220623-W-Bad_Homburg-QF-Bianca_Andreescu-Daria_Kasatkina,Bianca Andreescu,Daria Kasatkina,R,R,W,20220623,Bad Homburg,QF,,Centre Court,Grass,Timo Janzen,3,1,Zindaras
+20220622-W-Bad_Homburg-R16-Katie_Swan-Bianca_Andreescu,Katie Swan,Bianca Andreescu,R,R,W,20220622,Bad Homburg,R16,,Centre Court,Grass,Isabell Seefried,3,1,Zindaras
+20220621-W-Bad_Homburg-R32-Martina_Trevisan-Bianca_Andreescu,Martina Trevisan,Bianca Andreescu,L,R,W,20220621,Bad Homburg,R32,,Centre Court,Grass,Marta Mrozinska,3,1,Zindaras
+20220619-W-Eastbourne-R64-Magdalena_Frech-Qinwen_Zheng,Magdalena Frech,Qinwen Zheng,R,R,W,20220619,Eastbourne,R64,,,Grass,Cecilia Alberti,3,1,Elephant
+20220618-W-Berlin-SF-Cori_Gauff-Ons_Jabeur,Cori Gauff,Ons Jabeur,R,R,W,20220618,Berlin,SF,,,Grass,Pierre Bacchi,3,1,Elephant
+20220615-W-Berlin-R16-Karolina_Pliskova-Bianca_Andreescu,Karolina Pliskova,Bianca Andreescu,R,R,W,20220615,Berlin,R16,,Graf,Grass,Thomas Sweeney,3,1,Zindaras
+20220613-W-Berlin-R32-Katerina_Siniakova-Bianca_Andreescu,Katerina Siniakova,Bianca Andreescu,R,R,W,20220613,Berlin,R32,,Graf,Grass,Miriam Bley,3,1,Zindaras
 20220612-W-s_Hertogenbosch-F-Aryna_Sabalenka-Ekaterina_Alexandrova,Aryna Sabalenka,Ekaterina Alexandrova,R,R,W,20220612,s Hertogenbosch,F,12:10,Centre Court,Grass,Cecilia Alberti,3,1,Zindaras
 20220607-W-s_Hertogenbosch-R32-Taylah_Preston-Arianne_Hartono,Taylah Preston,Arianne Hartono,R,R,W,20220607,s Hertogenbosch,R32,,,Grass,Morgane Lara,3,1,Elephant
 20220607-W-Nottingham-R32-Magdalena_Frech-Yuriko_Miyazaki,Magdalena Frech,Yuriko Miyazaki,R,R,W,20220607,Nottingham,R32,,,Grass,,3,1,andy
@@ -12,10 +27,12 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20220528-W-Roland_Garros-R32-Iga_Swiatek-Danka_Kovinic,Iga Swiatek,Danka Kovinic,R,R,W,20220528,Roland Garros,R32,,Chatrier,Clay,Timothee Mevel,3,A,Elephant
 20220526-W-Roland_Garros-R64-Kaja_Juvan-Paula_Badosa,Kaja Juvan,Paula Badosa,R,R,W,20220526,Roland Garros,R64,11:10,Suzanne Lenglen,Clay,,3,A,Zindaras
 20220525-W-Roland_Garros-R64-Bianca_Andreescu-Belinda_Bencic,Bianca Andreescu,Belinda Bencic,R,R,W,20220525,Roland Garros,R64,18:35,Philippe Chatrier,Clay,Pierre Bacchi,3,A,Zindaras
+20220524-W-Roland_Garros-R128-Yulia_Putintseva-Irina_Maria_Bara,Yulia Putintseva,Irina Maria Bara,R,R,W,20220524,Roland Garros,R128,,11,Clay,Ana Carvalho,3,A,Zindaras
 20220524-W-Roland_Garros-R128-Panna_Udvardy-Fernanda_Contreras_Gomez,Panna Udvardy,Fernanda Contreras Gomez,R,R,W,20220524,Roland Garros,R128,,6,Clay,Marijana Veljovic,3,A,Zindaras
 20220523-W-Roland_Garros-R128-Linda_Noskova-Emma_Raducanu,Linda Noskova,Emma Raducanu,R,R,W,20220523,Roland Garros,R128,17:50,Mathieu,Clay,Alexandre Robein,3,A,Zindaras
 20220523-W-Roland_Garros-R128-Iga_Swiatek-Lesia_Tsurenko,Iga Swiatek,Lesia Tsurenko,R,R,W,20220523,Roland Garros,R128,12:00:00 PM,Philippe Chatrier,Clay,Kader Nouni,3,1,Roger
 20220523-W-Roland_Garros-R128-Bianca_Andreescu-Ysaline_Bonaventure,Bianca Andreescu,Ysaline Bonaventure,R,L,W,20220523,Roland Garros,R128,11:15,7,Clay,Carlos Ramos,3,A,Zindaras
+20220522-W-Roland_Garros-R128-Magda_Linette-Ons_Jabeur,Magda Linette,Ons Jabeur,R,R,W,20220522,Roland Garros,R128,11:10,Philippe Chatrier,Clay,Emmanuel Joseph,3,A,Zindaras
 20220517-W-Strasbourg-R32-Fiona_Ferro-Angelina_Gabueva,Fiona Ferro,Angelina Gabueva,R,R,W,20220517,Strasbourg,R32,,,Clay,,3,1,andy
 20220517-W-Roland_Garros-Q1-Elisabetta_Cocciaretto-Arianne_Hartono,Elisabetta Cocciaretto,Arianne Hartono,R,R,W,20220517,Roland Garros,Q1,,10,Clay,Floriane Dierckx,3,A,Zindaras
 20220517-W-Roland_Garros-Q1-Aliona_Bolsova-Kathinka_Von_Deichmann,Aliona Bolsova,Kathinka Von Deichmann,R,R,W,20220517,Roland Garros,Q1,,13,Clay,Vincent Dugravier,3,A,Zindaras
@@ -167,6 +184,7 @@ match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Gender,Date,Tournament,Round,Time
 20211109-W-Linz-R16-Emma_Raducanu-Xin_Yu_Wang,Emma Raducanu,Xin Yu Wang,R,R,W,20211109,Linz,R16,,Center Court,Hard,Adelka Cinko,3,1,Zindaras
 20211108-W-Linz-R32-Jaqueline_Cristian-Kamilla_Rakhimova,Jaqueline Cristian,Kamilla Rakhimova,R,R,W,20211108,Linz,R32,,1,Hard,Eva Rungaldier,3,1,Zindaras
 20211102-W-BJK_Cup_Finals-RR-Storm_Sanders-Elise_Mertens,Storm Sanders,Elise Mertens,L,R,W,20211102,BJK Cup Finals,RR,,Center,Hard,Damien Dumusois,3,1,Zindaras
+20211101-W-BJK_Cup_Finals-RR-Carla_Suarez_Navarro-Viktoria_Kuzmova,Carla Suarez Navarro,Viktoria Kuzmova,R,R,W,20211101,BJK Cup Finals,RR,,1,Hard,Damien Dumusois,3,1,Zindaras
 20211029-W-Cluj_Napoca-QF-Emma_Raducanu-Marta_Kostyuk,Emma Raducanu,Marta Kostyuk,R,R,W,20211029,Cluj Napoca,QF,19:35,,Hard,Pierre Bacchi,3,1,Zindaras
 20211028-W-Cluj_Napoca-R16-Emma_Raducanu-Ana_Bogdan,Emma Raducanu,Ana Bogdan,R,R,W,20211028,Cluj Napoca,R16,15:40,Center Court,Hard,Kader Nouni,3,1,Zindaras
 20211026-W-Cluj_Napoca-R32-Kaja_Juvan-Jaqueline_Cristian,Kaja Juvan,Jaqueline Cristian,R,R,W,20211026,Cluj Napoca,R32,16:20,Center Court,Hard,Kader Nouni,3,1,Zindaras
