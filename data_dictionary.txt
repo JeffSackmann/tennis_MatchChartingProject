@@ -1,0 +1,59 @@
+## -points- columns
+
+match_id - unique match identifier (see -matches- files)
+
+Pt - point number of the match, starting from 1
+
+Set1/Set2 - number of sets won by Player1/Player2 so far in match. (Note: "Player1" is always the player who served first.)
+
+Gm1/Gm2 - number of games won by Player1/Player2 so far in this set.
+
+Pts - point score of the current game
+
+Gm# - In the form 'X (Y)', where X = the game number of the entire match, starting from 1, and Y = the point number in this game. (For some matches that were charted earlier in the project's history, the form is simply 'X'.
+
+TbSet - '1' if the set is to be determined by a tiebreak, '0' otherwise.
+
+TB? - '1' if the point is part of a tiebreak, '0' otherwise.
+
+TBpt - point number of the tiebreak; blank if "TB?" == 0.
+
+Svr - '1' if Player1 is serving, '2' otherwise.
+
+Ret - '1' if Player1 is returning, '2' otherwise.
+
+Serving - initials of the player who is serving.
+
+1st - sequence of serve, shot, direction and other codes that describes the outcome of the first serve (and rally, if applicable). See the 'Instructions' tab of the MatchChart spreadsheet for a full explanation of those codes.
+
+2nd - sequence of codes to describe the outcome of the second serve, if applicable.
+
+Notes - Free-text notes written by the person who charted this match. Sometimes these describe the outcome of a challenge.
+
+## Note: Every column that follows (and most columns that preceded '1st' and '2nd') are entirely dependent on the contents of the codes in '1st' and '2nd.' They are provided only for the sake of convenience.
+
+1stSV - '1' if the 1st serve was a serve-and-volley attempt, '0' otherwise
+
+2ndSV = '1' if the 2nd serve was a serve-and-volley attempt, '0' if not, blank if there was no second serve.
+
+1stIn - '1' if the first serve was in, '0' otherwise.
+
+2ndIn - '1' if the second serve was in, '0' if not, blank if there was no second serve.
+
+isAce - 'TRUE' if the point was decided by an ace (on first or second serve), 'FALSE' otherwise.
+
+isUnret - 'TRUE' if the returner did not put the serve back in play, 'FALSE' otherwise.
+
+isRallyWinner - 'TRUE' if the point ended with a winner (excluding aces), 'FALSE' otherwise.
+
+isForced - 'TRUE' if the point ended with a forced error, 'FALSE' otherwise.
+
+isUnforced - 'TRUE' if the point ended with an unforced error, 'FALSE' otherwise.
+
+isDouble - 'TRUE' if the point was a double fault, 'FALSE' otherwise.
+
+PtWinner - '1' if Player1 won the point, '2' otherwise.
+
+isSvrWinner - '1' if the server won the point, '0' otherwise.
+
+rallyCount - the number of shots in the rally (by common convention: including the serve, excluding errors).
